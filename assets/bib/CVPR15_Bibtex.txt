@@ -1,0 +1,6 @@
+@inproceedings{jeon:cvpr15,
+    AUTHOR = {Jeon, Hae-Gon and Park, Jaesik and Choe, Gyeongmin and Park, Jinsun and Bok, Yunsu and Tai, Yu-Wing and Kweon, In So},
+    TITLE = {Accurate Depth Map Estimation from a Lenslet Light Field Camera},
+    BOOKTITLE = {Proceedings of International Conference on Computer Vision and Pattern Recognition (CVPR)},
+    YEAR = {2015}
+}

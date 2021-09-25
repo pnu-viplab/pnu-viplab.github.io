@@ -1,0 +1,8 @@
+@inproceedings{cho2016asymmetric,
+  title={Asymmetric stereo with catadioptric lens: High quality image generation for intelligent robot},
+  author={Cho, Donghyeon and Park, Jinsun and Tai, Yu-Wing and Kweon, Inso},
+  booktitle={Ubiquitous Robots and Ambient Intelligence (URAI), 2016 13th International Conference on},
+  pages={240--242},
+  year={2016},
+  organization={IEEE}
+}

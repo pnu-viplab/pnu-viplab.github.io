@@ -1,0 +1,6 @@
+@inproceedings{park2017unified,
+    title={A Unified Approach of Multi-scale Deep and Hand-crafted Features for Defocus Estimation},
+    author={Park, Jinsun and Tai, Yu-Wing and Cho, Donghyeon and Kweon, In So},
+    booktitle={Proc. of Computer Vision and Pattern Recognition (CVPR)},
+    year={2017}
+}

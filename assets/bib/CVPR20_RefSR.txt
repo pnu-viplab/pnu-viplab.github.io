@@ -1,0 +1,6 @@
+@inproceedings{shim2020robust,
+    title={Robust Reference-Based Super-Resolution With Similarity-Aware Deformable Convolution},
+    author={Shim, Gyumin and Park, Jinsun and Kweon, In So},
+    booktitle={Proc. of Computer Vision and Pattern Recognition (CVPR)},
+    year={2020}
+}

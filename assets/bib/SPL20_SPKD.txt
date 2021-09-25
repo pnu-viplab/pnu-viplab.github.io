@@ -1,0 +1,7 @@
+@article{yoon2020lightweight,
+    title={Lightweight Deep CNN for Natural Image Matting via Similarity-Preserving Knowledge Distillation},
+    author={Yoon, Donggeun and Park, Jinsun and Cho, Donghyeon},
+    journal={IEEE Signal Processing Letters (SPL)},
+    year={2020},
+    publisher={IEEE}
+}

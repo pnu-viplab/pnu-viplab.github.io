@@ -1,0 +1,7 @@
+@article{kim2021msuda,
+  author={Kim, Yeong-Hyeon and Shin, Ukcheol and Park, Jinsun and Kweon, In So},
+  journal={IEEE Robotics and Automation Letters},
+  title={MS-UDA: Multi-Spectral Unsupervised Domain Adaptation for Thermal Image Semantic Segmentation},
+  year={2021},
+  doi={10.1109/LRA.2021.3093652}
+}

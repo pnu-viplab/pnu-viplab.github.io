@@ -1,0 +1,6 @@
+@inproceedings{park2020non,
+    title={Non-Local Spatial Propagation Network for Depth Completion},
+    author={Park, Jinsun and Joo, Kyungdon and Hu, Zhe and Liu, Chi-Kuei and Kweon, In So},
+    booktitle={Proc. of European Conference on Computer Vision (ECCV)},
+    year={2020}
+}

@@ -1,0 +1,71 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+
+  {% include head.html %}
+
+  <body class="site">
+
+    {% if site.google_tag_manager %}
+
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+
+    {% endif %}
+
+    {% include header.html %}
+
+    <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.hero_img }}">
+      <div class="hero__wrap">
+        <h1 class="hero__title">{{ site.title | escape }}</h1>
+        <p class="hero__meta">{{ site.tagline }}</p>
+      </div>
+    </div>
+
+    <main class="site__content">
+      <section class="blog">
+        <div class="container">
+          &nbsp;
+        </div>
+
+        <div class="container">
+          <!-- <font size="4.6em"> -->
+          <b>Computer Vision</b> is a field of artificial intelligence (AI) that makes machines derive meaningful information from various kinds of visual information.
+          <br>
+          <b>Visual Intelligence and Perception Lab.</b> aims to develop computer vision and machine learning algorithms for real-world applications.
+          <br>
+          <br>
+          Please contact to <b><i>viplab_at_pusan.ac.kr</i></b> if you are interested in joining VIPLab.
+          <br>
+          <br>
+          <b>컴퓨터 비젼</b>은 인공지능 연구 분야의 하나로, 다양한 시각 정보로 부터 의미있는 정보를 추출하여 인공지능 시스템의 인지, 판단, 행동 등을 가능하게 하는 연구분야 입니다.
+          <br>
+          <b>시각 지능 및 인지 연구실</b>은 실제 세계에 적용 가능한 다양한 컴퓨터 비젼 및 머신 러닝 알고리즘 연구를 진행하고 있습니다.
+          <br>
+          <br>
+          대학원 석/박사 진학, Postdoc, 및 학부연구생 활동에 관심 있으신 분은 <b><i>viplab_at_pusan.ac.kr</i></b> 으로 연락해 주세요.
+          <!-- </font> -->
+        </div>
+
+        <div class="container">
+          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+
+            {% for post in site.posts %}
+              {% include card.html %}
+            {% endfor %}
+
+            <!-- {% include pagination.html %} -->
+          </div>
+        </div>
+      </section>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

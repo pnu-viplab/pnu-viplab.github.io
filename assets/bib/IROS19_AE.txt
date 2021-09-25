@@ -1,0 +1,6 @@
+@inproceedings{shin2019camera,
+    title={Camera Exposure Control for Robust Robot Vision with Noise-Aware Image Quality Assessment},
+    author={Shin, Ukcheol and Park, Jinsun and Shim, Gyumin and Rameau, Francois and Kweon, In So},
+    booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+    year={2019}
+}

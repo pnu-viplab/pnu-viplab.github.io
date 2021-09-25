@@ -1,0 +1,6 @@
+@inproceedings{park2019vehicular,
+    title={Vehicular Multi-Camera Sensor System for Automated Visual Inspection of Electric Power Distribution Equipment},
+    author={Park, Jinsun and Shin, Ukcheol and Shim, Gyumin and Joo, Kyungdon and Rameau, Francois and Kim, Junhyeok and Choi, Dong-Geol and Kweon, In So},
+    booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+    year={2019}
+}

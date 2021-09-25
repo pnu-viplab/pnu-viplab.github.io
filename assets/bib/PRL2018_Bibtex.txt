@@ -1,0 +1,7 @@
+@article{bailo2018efficient,
+    title={Efficient Adaptive Non-Maximal Suppression Algorithms for Homogeneous Spatial Keypoint Distribution},
+    author={Bailo, Oleksandr and Rameau, Francois and Joo, Kyungdon and Park, Jinsun and Bogdan, Oleksandr and Kweon, In So},
+    year={2018},
+    month={02},
+    booktitle={Pattern Recognition Letters}
+}

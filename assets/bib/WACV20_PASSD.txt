@@ -1,0 +1,6 @@
+@inproceedings{jang2020propose,
+    title={Propose-and-Attend Single Shot Detector},
+    author={Jang, Ho-Deok and Woo, Sanghyun and Benz, Philipp and Park, Jinsun and Kweon, In So},
+    booktitle={IEEE Winter Conference on Applications of Computer Vision (WACV)},
+    year={2020}
+}

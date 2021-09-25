@@ -1,0 +1,10 @@
+@article{jeon:2018,
+    author = {Jeon, Hae-Gon and Park, Jaesik and Choe, Gyeongmin and Park, Jinsun and Bok, Yunsu and Tai, Yu-Wing and Kweon, In So},
+    title = {Depth from a Light Field Image with Learning-based Matching Costs},
+    journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+    volume = {PP},
+    year = {2018},
+    month = Jan,
+    number = {99},
+    pages = {1-14}
+}
