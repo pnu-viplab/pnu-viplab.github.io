@@ -46,10 +46,12 @@
   }
 
   .header__logo--container {
-    width: 200px;
+    width: 250px;
+    overflow: visible;
 
     .logo {
       fill: currentColor;
+      overflow: visible;
     }
   }
 }
