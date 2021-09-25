@@ -79,7 +79,8 @@
 
 .header__link {
   color: $text-color;
-  padding: .938rem 0;
+  // padding: .938rem 0;
+  padding: 0 0;
   border-top: 1px solid $border;
   overflow: hidden;
 }
@@ -92,7 +93,7 @@
   width: 44px;
   height: 100%;
   background-color: transparent;
-  padding-left: 1.25rem;
+  // padding-left: 1.25rem;
   cursor: pointer;
 
   span {
