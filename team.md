@@ -8,7 +8,7 @@ permalink: /team/
 
 # Professor
  
-![JSPark](../assets/img/team/prof.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 4%; width: 20%; max-width: 150px;"}
+![JSPark](../assets/img/team/prof.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 2%; width: 20%; max-width: 150px;"}
 ## Jinsun Park, Ph.D.  
 
 [Visual Intelligence and Perception Laboratory](https://pnu-viplab.github.io/){:target="_blank" style="color: black; text-decoration: underline; border: none;"}  
