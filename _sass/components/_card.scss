@@ -77,6 +77,7 @@
   background: $bg-color;
   position: relative;
   overflow: hidden;
+  height: 5em;
 
   &::after {
     content: "";
