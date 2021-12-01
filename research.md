@@ -6,7 +6,7 @@ permalink: /research/
 
 
 
-<span style="font-size: larger;">**Visual Intelligence and Perception Lab.** aims to develop **computer vision** and **machine learning** algorithms for **real-world applications**. Here we present some of research topics we are interested, but our vision is not limited to them.</span>  
+<span style="font-size: larger;">**Visual Intelligence and Perception Lab.** aims to develop **computer vision** and **machine learning** algorithms for **real-world applications**. Here we present some of research topics we are interested in, but our vision is not limited to them.</span>  
 
 <br>
 
