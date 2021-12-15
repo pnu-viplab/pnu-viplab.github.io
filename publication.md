@@ -11,6 +11,16 @@ permalink: /publication/
 ### 2021
 
 
+![SPL21_LLKD_Teaser](../assets/img/publication/SPL21_LLKD.png){:style="float: left; margin-top: 0%; margin-bottom: 4%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__Learning Lightweight Low-Light Enhancement Network using Pseudo Well-Exposed Images__  
+<span style="font-size: smaller;">Seonggwan Ko\*, __Jinsun Park__\*, Byungjoo Chae and Donghyeon Cho \[\* Equal Contribution\]</span>  
+<span style="font-size: smaller;">*IEEE Signal Processing Letters (__SPL__), Dec __2021__*</span>  
+[\[Paper\]](https://ieeexplore.ieee.org/document/9648037){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+[\[Bibtex\]](../assets/bib/SPL21_LLKD.txt){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+[\[Project Page (Code)\]](https://github.com/gggch414/LLKD){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<br><br><br><br>
+
+
 ![Electronics21_Steganography_Teaser](../assets/img/publication/Electronics21_Steganography.png){:style="float: left; margin-top: 0%; margin-bottom: 4%; margin-right: 2%; width: 25%; min-width: 150px;"}
 __Deep Multi-Image Steganography with Private Keys__  
 <span style="font-size: smaller;">Hyeokjoon Kweon\*, __Jinsun Park__\*, Sanghyun Woo and Donghyeon Cho \[\* Equal Contribution\]</span>  
