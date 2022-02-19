@@ -1,0 +1,7 @@
+@article{park2022adaptive,
+  author={Park, Jinsun and Jeong, Yongseop and Joo, Kyungdon and Cho, Donghyeon and Kweon, In So},
+  journal={IEEE Robotics and Automation Letters},
+  title={Adaptive Cost Volume Fusion Network for Multi-Modal Depth Estimation in Changing Environments},
+  year={2022},
+  doi={10.1109/LRA.2022.3150868}
+}

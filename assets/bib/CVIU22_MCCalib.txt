@@ -1,0 +1,7 @@
+@article{rameau2022mc,
+  author={Rameau, Francois and Park, Jinsun and Bailo, Oleksandr and Kweon, In So},
+  journal={Computer Vision and Image Understanding},
+  title={MC-Calib: A generic and robust calibration toolbox for multi-camera systems},
+  year={2022},
+  publisher={Elsevier}
+}

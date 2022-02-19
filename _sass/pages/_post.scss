@@ -60,3 +60,16 @@
     }
   }
 }
+
+.hero__wrap {
+  .hero__titlepost {
+    font-size: 1.2em;
+    color: $bg-color;
+
+    @include breakpoint($lg) {
+      // padding: 1rem 0;
+      font-size: 1.4em;
+      // line-height: 3.125rem;
+    }
+  }
+}

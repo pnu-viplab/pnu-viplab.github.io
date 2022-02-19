@@ -1,0 +1,10 @@
+---
+layout: post
+title: "A paper is accepted by both IEEE Robotics and Automation Letters (RAL) and IEEE International Conference on Robotics and Automation (ICRA)"
+# featured-img: shane-rounce-205187
+categories: [News]
+---
+
+A paper titled "Adaptive Cost Volume Fusion Network for Multi-Modal Depth Estimation in Changing Environments" is accepted by both IEEE Robotics and Automation Letters (RAL) (IF: 3.741) and IEEE International Conference on Robotics and Automation (ICRA).
+
+Congrats!

@@ -21,6 +21,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   # - {name: 'About', link: '/about'}
+#  - {name: 'Categories', link: '/categories'}
   - {name: 'Team', link: '/team'}
   - {name: 'Research', link: '/research'}
   - {name: 'Publication', link: '/publication'}

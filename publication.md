@@ -8,6 +8,39 @@ permalink: /publication/
 
 ## International Journals
 
+### 2022
+
+
+![RAL_ICRA22_MMDCE_Teaser](../assets/img/publication/RAL_ICRA22_MMDCE.png){:style="float: left; margin-top: 0%; margin-bottom: 4%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__Adaptive Cost Volume Fusion Network for Multi-Modal Depth Estimation in Changing Environments__  
+<span style="font-size: smaller;">__Jinsun Park__\*, Yongseop Jeong\*, Kyungdon Joo, Donghyeon Cho and In So Kweon \[\* Equal Contribution\]</span>  
+<span style="font-size: smaller;">*IEEE Robotics and Automation Letters (__RAL__), Feb __2022__*  
+*IEEE International Conference on Robotics and Automation (__ICRA__), May __2022__*</span>  
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9712358){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+[\[Bibtex\]](../assets/bib/RAL_ICRA22_MMDCE.txt){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+[\[Project Page (Code)\]](https://github.com/zzangjinsun/MMDCE_RAL22){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<br><br><br><br>
+
+
+![CVIU22_MCCalib_Teaser](../assets/img/publication/CVIU22_MCCalib.png){:style="float: left; margin-top: 0%; margin-bottom: 4%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__MC-Calib: A Generic and Robust Calibration Toolbox for Multi-Camera Systems__  
+<span style="font-size: smaller;">Francois Rameau, __Jinsun Park__, Oleksandr Bailo and In So Kweon</span>  
+<span style="font-size: smaller;">*Computer Vision and Image Understanding (__CVIU__), Mar __2022__*</span>  
+[\[Paper\]](https://www.sciencedirect.com/science/article/abs/pii/S1077314221001818){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+[\[Bibtex\]](../assets/bib/CVIU22_MCCalib.txt){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+[\[Project Page (Code)\]](https://github.com/rameau-fr/MC-Calib){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<br><br><br><br>
+
+
+![IJCV22_SeeThrough_Teaser](../assets/img/publication/IJCV22_SeeThrough.png){:style="float: left; margin-top: 0%; margin-bottom: 4%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__Real-Time Multi-Car Localization and See-Through System__  
+<span style="font-size: smaller;">Francois Rameau, Oleksandr Bailo, __Jinsun Park__, Kyungdon Joo and In So Kweon</span>  
+<span style="font-size: smaller;">*International Journal of Computer Vision (__IJCV__), Feb __2022__*</span>  
+[\[Paper\]](https://link.springer.com/article/10.1007/s11263-021-01558-5){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+[\[Bibtex\]](../assets/bib/IJCV22_SeeThrough.txt){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<br><br><br><br>
+
+
 ### 2021
 
 
@@ -21,23 +54,23 @@ __Learning Lightweight Low-Light Enhancement Network using Pseudo Well-Exposed I
 <br><br><br><br>
 
 
+![RAL_IROS21_MS_UDA_Teaser](../assets/img/publication/RAL_IROS21_MS_UDA.png){:style="float: left; margin-top: 0%; margin-bottom: 6%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__MS-UDA: Multi-Spectral Unsupervised Domain Adaptation for Thermal Image Semantic Segmentation__  
+<span style="font-size: smaller;">Yeong-Hyeon Kim, Ukcheol Shin, __Jinsun Park__ and In So Kweon</span>  
+<span style="font-size: smaller;">*IEEE Robotics and Automation Letters (__RAL__), Oct __2021__*  
+*IEEE/RSJ International Conference on Intelligent Robots and Systems (__IROS__), Sep __2021__*</span>  
+[\[Paper\]](https://ieeexplore.ieee.org/document/9468936){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+[\[Bibtex\]](../assets/bib/RAL_IROS21_MS_UDA.txt){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+[\[Project Page (Code and Dataset)\]](https://github.com/yeong5366/MS-UDA){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<br><br><br><br>
+
+
 ![Electronics21_Steganography_Teaser](../assets/img/publication/Electronics21_Steganography.png){:style="float: left; margin-top: 0%; margin-bottom: 4%; margin-right: 2%; width: 25%; min-width: 150px;"}
 __Deep Multi-Image Steganography with Private Keys__  
 <span style="font-size: smaller;">Hyeokjoon Kweon\*, __Jinsun Park__\*, Sanghyun Woo and Donghyeon Cho \[\* Equal Contribution\]</span>  
 <span style="font-size: smaller;">*Electronics, Aug __2021__*</span>  
 [\[Paper\]](https://www.mdpi.com/2079-9292/10/16/1906){:target="_blank" style="color: black; text-decoration: underline; border: none"}
 [\[Bibtex\]](../assets/bib/Electronics21_Steganography.txt){:target="_blank" style="color: black; text-decoration: underline; border: none"}
-<br><br><br><br>
-
-
-![RAL_IROS21_MS_UDA_Teaser](../assets/img/publication/RAL_IROS21_MS_UDA.png){:style="float: left; margin-top: 0%; margin-bottom: 6%; margin-right: 2%; width: 25%; min-width: 150px;"}
-__MS-UDA: Multi-Spectral Unsupervised Domain Adaptation for Thermal Image Semantic Segmentation__  
-<span style="font-size: smaller;">Yeong-Hyeon Kim, Ukcheol Shin, __Jinsun Park__ and In So Kweon</span>  
-<span style="font-size: smaller;">*IEEE Robotics and Automation Letters (__RAL__), Jun __2021__*  
-*IEEE/RSJ International Conference on Intelligent Robots and Systems (__IROS__), Sep __2021__*</span>  
-[\[Paper\]](https://ieeexplore.ieee.org/document/9468936){:target="_blank" style="color: black; text-decoration: underline; border: none"}
-[\[Bibtex\]](../assets/bib/RAL_IROS21_MS_UDA.txt){:target="_blank" style="color: black; text-decoration: underline; border: none"}
-[\[Project Page (Code and Dataset)\]](https://github.com/yeong5366/MS-UDA){:target="_blank" style="color: black; text-decoration: underline; border: none"}
 <br><br><br><br>
 
 

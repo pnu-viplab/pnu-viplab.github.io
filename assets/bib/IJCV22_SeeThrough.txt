@@ -1,0 +1,7 @@
+@article{rameau2022real,
+  author={Rameau, Francois and Bailo, Oleksandr and Park, Jinsun and Joo, Kyungdon and Kweon, In So},
+  journal={International Journal of Computer Vision},
+  title={Real-Time Multi-Car Localization and See-Through System},
+  year={2022},
+  publisher={Springer}
+}
