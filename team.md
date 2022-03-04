@@ -84,86 +84,74 @@ Research Interests: Computer Vision
 
 <br> -->
 
-<!-- # M.S. Students
-
-![Dummy](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 150px;"}
-## Mark Zuckerberg (마크)
-<br>
-E-mail: mark_at_pusan.ac.kr  
-Homepage: home_page  
-Research Interests: Computer Vision  
-<br><br>
-
-![Dummy](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 150px;"}
-## Mark Zuckerberg (마크)
-<br>
-E-mail: mark_at_pusan.ac.kr  
-Homepage: home_page  
-Research Interests: Computer Vision  
-<br><br>
-
-![Dummy](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 150px;"}
-## Mark Zuckerberg (마크)
-<br>
-E-mail: mark_at_pusan.ac.kr  
-Homepage: home_page  
-Research Interests: Computer Vision  
-<br><br>
-
-<br> -->
-
-# Undergraduate Students
+# M.S. Students
 
 ![SeungikLee](../assets/img/team/seungik_lee.png){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## SeungIk Lee (이승익)
+## Seungik Lee (이승익)
 <br>
 E-mail: lsi8546_at_naver.com  
 Homepage:   
-Research Interests: Computer Vision, Object Detection  
+Research Interests: Deep Learning, Object Detection  
 <br><br>
 
-<!-- ![Dummy](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 150px;"}
-## Mark Zuckerberg (마크)
+![IncheolPark](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Incheol Park (박인철)
 <br>
-E-mail: mark_at_pusan.ac.kr  
-Homepage: home_page  
-Research Interests: Computer Vision  
+E-mail: inchulnim123_at_naver.com  
+Homepage:   
+Research Interests: Deep Learning, Image Inpainting  
 <br><br>
 
-![Dummy](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 150px;"}
-## Mark Zuckerberg (마크)
+![YeogyeongKim](../assets/img/team/yeogyeong_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Yeogyeong Kim (김여경)
 <br>
-E-mail: mark_at_pusan.ac.kr  
-Homepage: home_page  
-Research Interests: Computer Vision  
-<br><br> -->
-
-<br>
-
-<!-- # Alumni
-
-![Dummy](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 150px;"}
-## Mark Zuckerberg (마크)
-<br>
-E-mail: mark_at_pusan.ac.kr  
-Homepage: home_page  
-Research Interests: Computer Vision  
+E-mail: ygkim1225_at_pusan.ac.kr  
+Homepage:   
+Research Interests: Deep Learning, Semantic Segmentation  
 <br><br>
 
-![Dummy](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 150px;"}
-## Mark Zuckerberg (마크)
+![YerinNam](../assets/img/team/yerin_nam.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Yerin Nam (남예린)
 <br>
-E-mail: mark_at_pusan.ac.kr  
-Homepage: home_page  
-Research Interests: Computer Vision  
+E-mail: nyr10_at_pusan.ac.kr  
+Homepage:   
+Research Interests: Deep Learning, Computer Vision  
 <br><br>
 
-![Dummy](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 150px;"}
-## Mark Zuckerberg (마크)
 <br>
-E-mail: mark_at_pusan.ac.kr  
-Homepage: home_page  
-Research Interests: Computer Vision  
+
+# Undergraduate Students
+
+![JanghyunKim](../assets/img/team/janghyun_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Janghyun Kim (김장현)
+<br>
+E-mail: jangjoa4497_at_gmail.com  
+Homepage:   
+Research Interests: Deep Learning, Computer Vision  
 <br><br>
 
-<br> -->
+![JaehyeongPark](../assets/img/team/jaehyeong_park.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Jaehyeong Park (박재형)
+<br>
+E-mail: wogud0318_at_naver.com  
+Homepage:   
+Research Interests: Deep Learning, Computer Vision  
+<br><br>
+
+![DokyuKim](../assets/img/team/dokyu_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Dokyu Kim (김도규)
+<br>
+E-mail: dosu1819_at_pusan.ac.kr  
+Homepage:   
+Research Interests: Deep Learning, Computer Vision  
+<br><br>
+
+![MingyuJeong](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Mingyu Jeong (정민규)
+<br>
+E-mail: aboq2496_at_naver.com  
+Homepage:   
+Research Interests: Deep Learning, Computer Vision  
+<br><br>
+
+<br>
