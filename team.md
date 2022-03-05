@@ -138,8 +138,8 @@ Homepage:
 Research Interests: Deep Learning, Computer Vision  
 <br><br>
 
-![DokyuKim](../assets/img/team/dokyu_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Dokyu Kim (김도규)
+![DogyuKim](../assets/img/team/dogyu_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Dogyu Kim (김도규)
 <br>
 E-mail: dosu1819_at_pusan.ac.kr  
 Homepage:   
