@@ -94,7 +94,7 @@ Homepage:
 Research Interests: Deep Learning, Object Detection  
 <br><br>
 
-![IncheolPark](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+![IncheolPark](../assets/img/team/incheol_park.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
 ## Incheol Park (박인철)
 <br>
 E-mail: inchulnim123_at_naver.com  
