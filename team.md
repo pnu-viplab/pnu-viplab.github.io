@@ -146,7 +146,7 @@ Homepage:
 Research Interests: Deep Learning, Computer Vision  
 <br><br>
 
-![MingyuJeong](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+![MingyuJeong](../assets/img/team/mingyu_jeong.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
 ## Mingyu Jeong (정민규)
 <br>
 E-mail: aboq2496_at_naver.com  
