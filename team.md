@@ -91,7 +91,7 @@ Research Interests: Computer Vision
 <br>
 E-mail: lsi8546_at_naver.com  
 Homepage:   
-Research Interests: Deep Learning, Object Detection  
+Research Interests: Multi-Modal Object Detection  
 <br><br>
 
 ![IncheolPark](../assets/img/team/incheol_park.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
@@ -99,7 +99,7 @@ Research Interests: Deep Learning, Object Detection
 <br>
 E-mail: inchulnim123_at_naver.com  
 Homepage:   
-Research Interests: Deep Learning, Image Inpainting  
+Research Interests: Anomaly Detection  
 <br><br>
 
 ![YeogyeongKim](../assets/img/team/yeogyeong_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
@@ -107,7 +107,7 @@ Research Interests: Deep Learning, Image Inpainting
 <br>
 E-mail: ygkim1225_at_pusan.ac.kr  
 Homepage:   
-Research Interests: Deep Learning, Semantic Segmentation  
+Research Interests: Semantic Segmentation  
 <br><br>
 
 ![YerinNam](../assets/img/team/yerin_nam.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
@@ -115,7 +115,7 @@ Research Interests: Deep Learning, Semantic Segmentation
 <br>
 E-mail: nyr10_at_pusan.ac.kr  
 Homepage:   
-Research Interests: Deep Learning, Computer Vision  
+Research Interests: 3D Object Detection  
 <br><br>
 
 <br>
@@ -127,7 +127,15 @@ Research Interests: Deep Learning, Computer Vision
 <br>
 E-mail: jangjoa4497_at_gmail.com  
 Homepage:   
-Research Interests: Deep Learning, Computer Vision  
+Research Interests: Depth Estimation / Completion  
+<br><br>
+
+![MingyuJeong](../assets/img/team/mingyu_jeong.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Mingyu Jeong (정민규)
+<br>
+E-mail: aboq2496_at_naver.com  
+Homepage:   
+Research Interests: SLAM   
 <br><br>
 
 ![JaehyeongPark](../assets/img/team/jaehyeong_park.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
@@ -146,12 +154,12 @@ Homepage:
 Research Interests: Deep Learning, Computer Vision  
 <br><br>
 
-![MingyuJeong](../assets/img/team/mingyu_jeong.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Mingyu Jeong (정민규)
+![ChangjinLee](../assets/img/team/changjin_lee.png){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Changjin Lee (이창진)
 <br>
-E-mail: aboq2496_at_naver.com  
+E-mail: changjin9792_at_naver.com  
 Homepage:   
-Research Interests: Deep Learning, Computer Vision  
+Research Interests: 3D Reconstruction  
 <br><br>
 
 <br>
