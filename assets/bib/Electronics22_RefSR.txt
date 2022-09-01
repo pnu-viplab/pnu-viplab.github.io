@@ -1,0 +1,10 @@
+@article{chae2022online,
+  title={Online Learning for Reference-Based Super-Resolution},
+  author={Chae, Byungjoo and Park, Jinsun and Kim, Tae-Hyun and Cho, Donghyeon},
+  journal={Electronics},
+  volume={11},
+  number={7},
+  pages={1064},
+  year={2022},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}

@@ -118,10 +118,6 @@ Homepage:
 Research Interests: 3D Object Detection  
 <br><br>
 
-<br>
-
-# Undergraduate Students
-
 ![JanghyunKim](../assets/img/team/janghyun_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
 ## Janghyun Kim (김장현)
 <br>
@@ -137,6 +133,10 @@ E-mail: aboq2496_at_naver.com
 Homepage:   
 Research Interests: SLAM   
 <br><br>
+
+<br>
+
+# Undergraduate Students
 
 ![JaehyeongPark](../assets/img/team/jaehyeong_park.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
 ## Jaehyeong Park (박재형)
@@ -154,12 +154,17 @@ Homepage:
 Research Interests: Deep Learning, Computer Vision  
 <br><br>
 
-![ChangjinLee](../assets/img/team/changjin_lee.png){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Changjin Lee (이창진)
 <br>
-E-mail: changjin9792_at_naver.com  
-Homepage:   
-Research Interests: 3D Reconstruction  
-<br><br>
+
+<!--
+# Alumni
+
+<br>
+-->
+
+# Former Researchers
+
+### 2022 Summer Intern
+Changjin Lee (이창진): changjin9792_at_naver.com
 
 <br>

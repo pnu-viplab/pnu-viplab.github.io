@@ -22,6 +22,15 @@ __Adaptive Cost Volume Fusion Network for Multi-Modal Depth Estimation in Changi
 <br><br><br><br>
 
 
+![Electronics22_RefSR_Teaser](../assets/img/publication/Electronics22_RefSR.png){:style="float: left; margin-top: 0%; margin-bottom: 4%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__Online Learning for Reference-Based Super-Resolution__  
+<span style="font-size: smaller;">Byungjoo Chae\*, __Jinsun Park__\*, Tae-Hyun Kim and Donghyeon Cho \[\* Equal Contribution\]</span>  
+<span style="font-size: smaller;">*Electronics, Mar __2022__*</span>  
+[\[Paper\]](https://www.mdpi.com/2079-9292/11/7/1064){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+[\[Bibtex\]](../assets/bib/Electronics22_RefSR.txt){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<br><br><br><br>
+
+
 ![CVIU22_MCCalib_Teaser](../assets/img/publication/CVIU22_MCCalib.png){:style="float: left; margin-top: 0%; margin-bottom: 4%; margin-right: 2%; width: 25%; min-width: 150px;"}
 __MC-Calib: A Generic and Robust Calibration Toolbox for Multi-Camera Systems__  
 <span style="font-size: smaller;">Francois Rameau, __Jinsun Park__, Oleksandr Bailo and In So Kweon</span>  
