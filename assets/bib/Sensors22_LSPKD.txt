@@ -1,0 +1,10 @@
+@article{jeong2022lightweight,
+  title={Lightweight Depth Completion Network with Local Similarity-Preserving Knowledge Distillation},
+  author={Jeong, Yongseop and Park, Jinsun and Cho, Donghyeon and Hwang, Yoonjin and Choi, Seibum B and Kweon, In So},
+  journal={Sensors},
+  volume={22},
+  number={19},
+  pages={7388},
+  year={2022},
+  publisher={MDPI}
+}

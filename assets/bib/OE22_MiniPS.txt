@@ -1,0 +1,10 @@
+@article{han2022minifying,
+  title={Minifying Photometric Stereo via Knowledge Distillation-Based Feature Translation},
+  author={Han, Seungoh and Park, Jinsun and Cho, Donghyeon},
+  journal={Optics Express},
+  volume={30},
+  number={21},
+  pages={38284--38297},
+  year={2022},
+  publisher={Optica Publishing Group}
+}

@@ -1,0 +1,7 @@
+@article{jung2022comprehensive,
+  title={A Comprehensive Real-World Photometric Stereo Dataset for Unsupervised Anomaly Detection},
+  author={Jung, Junyong and Han, Seungoh and Park, Jinsun and Cho, Donghyeon},
+  journal={IEEE Access},
+  year={2022},
+  publisher={IEEE}
+}
