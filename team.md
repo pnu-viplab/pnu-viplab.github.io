@@ -154,6 +154,14 @@ Homepage:
 Research Interests: Deep Learning, Computer Vision  
 <br><br>
 
+![SeongheonHa](../assets/img/team/seongheon_ha.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Seong Heon Ha (하성헌)
+<br>
+E-mail: 123skfro_at_pusan.ac.kr  
+Homepage:   
+Research Interests: Deep Learning, Computer Vision  
+<br><br>
+
 <br>
 
 <!--
