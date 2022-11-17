@@ -162,6 +162,14 @@ Homepage:
 Research Interests: Deep Learning, Computer Vision  
 <br><br>
 
+![KyunghyunKim](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Kyung Hyun Kim (김경현)
+<br>
+E-mail: klps44_at_naver.com  
+Homepage:   
+Research Interests: Deep Learning, Computer Vision  
+<br><br>
+
 <br>
 
 <!--
