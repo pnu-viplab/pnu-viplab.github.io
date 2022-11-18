@@ -170,6 +170,14 @@ Homepage:
 Research Interests: Deep Learning, Computer Vision  
 <br><br>
 
+![BeomsooKim](../assets/img/team/beomsoo_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Beom Soo Kim (김범수)
+<br>
+E-mail: rlaqjatn1027_at_gmail.com  
+Homepage:   
+Research Interests: Deep Learning, Computer Vision  
+<br><br>
+
 <br>
 
 <!--
