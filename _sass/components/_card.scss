@@ -113,7 +113,7 @@
   background: $dark-light;
   position: relative;
   overflow: hidden;
-  height: 25.0em;
+  width: 100%;
 
   &::after {
     content: "";
@@ -121,7 +121,7 @@
     height: 0;
     width: 100%;
     // 16:9 = 56.25% = calc(9 / 16 * 100%)
-    padding-bottom: 56.25%;
+    padding-bottom: 40.0%;
   }
 
   > * {
