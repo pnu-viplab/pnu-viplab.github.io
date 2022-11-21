@@ -107,3 +107,28 @@
     display: block;
   }
 }
+
+.post-card__thumb_tall {
+  margin: 0;
+  background: $dark-light;
+  position: relative;
+  overflow: hidden;
+  height: 25.0em;
+
+  &::after {
+    content: "";
+    display: block;
+    height: 0;
+    width: 100%;
+    // 16:9 = 56.25% = calc(9 / 16 * 100%)
+    padding-bottom: 56.25%;
+  }
+
+  > * {
+    position: absolute;
+    top: 0;
+    left: 25%;
+    width: 50%;
+    display: block;
+  }
+}
