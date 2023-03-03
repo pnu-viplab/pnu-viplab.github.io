@@ -90,49 +90,83 @@ Research Interests: Computer Vision
 ## Seungik Lee (이승익)
 <br>
 E-mail: lsi8546_at_naver.com  
-Homepage:   
+<!-- Homepage:    -->
 Research Interests: Multi-Modal Object Detection  
-<br><br>
+<br><br><br>
 
 ![IncheolPark](../assets/img/team/incheol_park.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
 ## Incheol Park (박인철)
 <br>
 E-mail: inchulnim123_at_naver.com  
-Homepage:   
-Research Interests: Anomaly Detection  
-<br><br>
+<!-- Homepage:    -->
+Research Interests: Image Processing  
+<br><br><br>
 
 ![YeogyeongKim](../assets/img/team/yeogyeong_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
 ## Yeogyeong Kim (김여경)
 <br>
 E-mail: ygkim1225_at_pusan.ac.kr  
-Homepage:   
+<!-- Homepage:    -->
 Research Interests: Semantic Segmentation  
-<br><br>
+<br><br><br>
 
 ![YerinNam](../assets/img/team/yerin_nam.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
 ## Yerin Nam (남예린)
 <br>
 E-mail: nyr10_at_pusan.ac.kr  
-Homepage:   
+<!-- Homepage:    -->
 Research Interests: 3D Object Detection  
-<br><br>
+<br><br><br>
 
 ![JanghyunKim](../assets/img/team/janghyun_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
 ## Janghyun Kim (김장현)
 <br>
 E-mail: jangjoa4497_at_gmail.com  
-Homepage:   
+<!-- Homepage:    -->
 Research Interests: Depth Estimation / Completion  
-<br><br>
+<br><br><br>
 
 ![MingyuJeong](../assets/img/team/mingyu_jeong.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
 ## Mingyu Jeong (정민규)
 <br>
 E-mail: aboq2496_at_naver.com  
-Homepage:   
+<!-- Homepage:    -->
 Research Interests: SLAM   
-<br><br>
+<br><br><br>
+
+![JeonghyunNoh](../assets/img/team/jeonghyun_noh.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Jeong Hyun Noh (노정현)
+<br>
+E-mail: wjdgus0967_at_naver.com  
+<!-- Homepage:    -->
+Research Interests: Super Resolution   
+<br><br><br>
+
+![SeongheonHa](../assets/img/team/seongheon_ha.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Seong Heon Ha (하성헌)
+<br>
+E-mail: 123skfro_at_pusan.ac.kr  
+<!-- Homepage:    -->
+Research Interests: 3D Object Detection  
+<br><br><br>
+
+![YonghyeonJo](../assets/img/team/yonghyeon_jo.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Yong Hyeon Jo (조용현)
+<br>
+E-mail: av1483110_at_gmail.com  
+<!-- Homepage:    -->
+Research Interests: Computer Vision  
+<br><br><br>
+
+![DongminJeong](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Dongmin Jeong (정동민)
+<br>
+E-mail: dm.jeong_at_haesungds.net  
+<!-- Homepage:    -->
+Research Interests: Computer Vision  
+<br><br><br>
+
+
 
 <br>
 
@@ -142,41 +176,57 @@ Research Interests: SLAM
 ## Jaehyeong Park (박재형)
 <br>
 E-mail: wogud0318_at_naver.com  
-Homepage:   
-Research Interests: Deep Learning, Computer Vision  
-<br><br>
+<!-- Homepage:    -->
+Research Interests: Object Detection  
+<br><br><br>
 
 ![DogyuKim](../assets/img/team/dogyu_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
 ## Dogyu Kim (김도규)
 <br>
 E-mail: dosu1819_at_pusan.ac.kr  
-Homepage:   
-Research Interests: Deep Learning, Computer Vision  
-<br><br>
-
-![SeongheonHa](../assets/img/team/seongheon_ha.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Seong Heon Ha (하성헌)
-<br>
-E-mail: 123skfro_at_pusan.ac.kr  
-Homepage:   
-Research Interests: Deep Learning, Computer Vision  
-<br><br>
+<!-- Homepage:    -->
+Research Interests: SLAM  
+<br><br><br>
 
 ![KyunghyunKim](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
 ## Kyung Hyun Kim (김경현)
 <br>
 E-mail: klps44_at_naver.com  
-Homepage:   
-Research Interests: Deep Learning, Computer Vision  
-<br><br>
+<!-- Homepage:    -->
+Research Interests: Object Detection  
+<br><br><br>
 
 ![BeomsooKim](../assets/img/team/beomsoo_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
 ## Beom Soo Kim (김범수)
 <br>
 E-mail: rlaqjatn1027_at_gmail.com  
-Homepage:   
+<!-- Homepage:    -->
 Research Interests: Deep Learning, Computer Vision  
-<br><br>
+<br><br><br>
+
+![MinseongKweon](../assets/img/team/minseong_kweon.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Minseong Kweon (권민성)
+<br>
+E-mail: mskweon_at_icloud.com  
+<!-- Homepage:    -->
+Research Interests: Computer Vision, Domain Adaptation  
+<br><br><br>
+
+![MinsuJeon](../assets/img/team/minsu_jeon.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Minsu Jeon (전민수)
+<br>
+E-mail: wjsrl528_at_naver.com  
+<!-- Homepage:    -->
+Research Interests: Deep Learning, Computer Vision  
+<br><br><br>
+
+![SeunghyeonCheon](../assets/img/team/seunghyeon_cheon.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Seunghyeon Cheon (천승현)
+<br>
+E-mail: choinjong1_at_gmail.com  
+<!-- Homepage:    -->
+Research Interests: Deep Learning, Computer Vision  
+<br><br><br>
 
 <br>
 
