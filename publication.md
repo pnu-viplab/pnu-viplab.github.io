@@ -6,9 +6,33 @@ permalink: /publication/
 
 
 
-## International Journals
+## International Journals & Conferences
+
+
+### 2023
+
+
+![CVPR23_ThermalDepth_Teaser](../assets/img/publication/CVPR23_ThermalDepth.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__Deep Depth Estimation from Thermal Image__  
+<span style="font-size: smaller;">Ukcheol Shin, __Jinsun Park__, and In So Kweon</span>  
+<span style="font-size: smaller;">*IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), Jun __2023__*</span>  
+<span style="color:gray;">[Paper]</span> 
+[\[Project Page (Code)\]](https://github.com/UkcheolShin/MS2-MultiSpectralStereoDataset){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<br><br><br><br>
+
 
 ### 2022
+
+
+![ACCV22_DCP_Teaser](../assets/img/publication/ACCV22_DCP.png){:style="float: left; margin-top: 0%; margin-bottom: 4%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__Lightweight Alpha Matting Network Using Distillation-Based Channel Pruning__  
+<span style="font-size: smaller;">Donggeun Yoon, __Jinsun Park__, and Donghyeon Cho</span>  
+<span style="font-size: smaller;">*Asian Conference on Computer Vision (__ACCV__), Dec __2022__*</span>  
+[\[Paper\]](https://arxiv.org/abs/2210.07760){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<!-- [\[Bibtex\]](../assets/bib/ACCV22_DCP.txt){:target="_blank" style="color: black; text-decoration: underline; border: none"} -->
+<!-- <span style="color:gray;">[Bibtex]</span> -->
+[\[Project Page (Code)\]](https://github.com/DongGeun-Yoon/DCP){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<br><br><br><br>
 
 
 ![Access22_PSDataset_Teaser](../assets/img/publication/Access22_PSDataset.png){:style="float: left; margin-top: 0%; margin-bottom: 4%; margin-right: 2%; width: 25%; min-width: 150px;"}
@@ -124,50 +148,6 @@ __Lightweight Deep CNN for Natural Image Matting via Similarity-Preserving Knowl
 <br><br><br><br>
 
 
-### 2019
-
-
-![TPAMI18_PS_RF_Teaser](../assets/img/publication/TPAMI18_PS_RF_Teaser.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
-__Depth from a Light Field Image with Learning-based Matching Costs__  
-<span style="font-size: smaller;">Hae-Gon Jeon, Jaesik Park, Gyeongmin Choe, __Jinsun Park__, Yunsu Bok, Yu-Wing Tai, and In So Kweon</span>  
-<span style="font-size: smaller;">*IEEE Transactions on Pattern Analysis and Machine Intelligence (__TPAMI__), Feb __2019__*</span>  
-[\[Paper\]](https://ieeexplore.ieee.org/document/8263242){:target="_blank" style="color: black; text-decoration: underline; border: none"}
-<!-- [\[Bibtex\]](../assets/bib/Jeon_TPAMI18_Bibtex.txt){:target="_blank" style="color: black; text-decoration: underline; border: none"} -->
-<br><br><br><br>
-
-
-### 2018
-
-
-![PRL18_Teaser](../assets/img/publication/PRL18_Teaser.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
-__Efficient Adaptive Non-Maximal Suppression Algorithms for Homogeneous Spatial Keypoint Distribution__  
-<span style="font-size: smaller;">Oleksandr Bailo, Francois Rameau, Kyungdon Joo, __Jinsun Park__, Oleksandr Bogdan, and In So Kweon</span>  
-<span style="font-size: smaller;">*Pattern Recognition Letters (__PRL__), Apr __2018__*</span>  
-[\[Paper\]](https://www.researchgate.net/publication/323388062_Efficient_adaptive_non-maximal_suppression_algorithms_for_homogeneous_spatial_keypoint_distribution){:target="_blank" style="color: black; text-decoration: underline; border: none"}
-<!-- [\[Bibtex\]](../assets/bib/PRL2018_Bibtex.txt){:target="_blank" style="color: black; text-decoration: underline; border: none"} -->
-[\[Project Page (Code)\]](https://github.com/BAILOOL/ANMS-Codes){:target="_blank" style="color: black; text-decoration: underline; border: none"}
-<br><br><br><br>
-
-
-## International Conferences
-
-### 2022
-
-
-![ACCV22_DCP_Teaser](../assets/img/publication/ACCV22_DCP.png){:style="float: left; margin-top: 0%; margin-bottom: 4%; margin-right: 2%; width: 25%; min-width: 150px;"}
-__Lightweight Alpha Matting Network Using Distillation-Based Channel Pruning__  
-<span style="font-size: smaller;">Donggeun Yoon, __Jinsun Park__, and Donghyeon Cho</span>  
-<span style="font-size: smaller;">*Asian Conference on Computer Vision (__ACCV__), Dec __2022__*</span>  
-[\[Paper\]](https://arxiv.org/abs/2210.07760){:target="_blank" style="color: black; text-decoration: underline; border: none"}
-<!-- [\[Bibtex\]](../assets/bib/ACCV22_DCP.txt){:target="_blank" style="color: black; text-decoration: underline; border: none"} -->
-<!-- <span style="color:gray;">[Bibtex]</span> -->
-[\[Project Page (Code)\]](https://github.com/DongGeun-Yoon/DCP){:target="_blank" style="color: black; text-decoration: underline; border: none"}
-<br><br><br><br>
-
-
-### 2020
-
-
 ![ECCV20_NLSPN](../assets/img/publication/ECCV20_NLSPN.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
 __Non-Local Spatial Propagation Network for Depth Completion__  
 <span style="font-size: smaller;">__Jinsun Park__, Kyungdon Joo, Zhe Hu, Chi-Kuei Liu, and In So Kweon</span>  
@@ -217,6 +197,28 @@ __Camera Exposure Control for Robust Robot Vision with Noise-Aware Image Quality
 [\[Paper\]](https://arxiv.org/abs/1907.12646){:target="_blank" style="color: black; text-decoration: underline; border: none"}
 <!-- [\[Bibtex\]](../assets/bib/IROS19_AE.txt){:target="_blank" style="color: black; text-decoration: underline; border: none"} -->
 [\[Project Page (Code & Dataset)\]](https://github.com/WookCheolShin/Noise-AwareCameraExposureControl){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<br><br><br><br>
+
+
+![TPAMI18_PS_RF_Teaser](../assets/img/publication/TPAMI18_PS_RF_Teaser.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__Depth from a Light Field Image with Learning-based Matching Costs__  
+<span style="font-size: smaller;">Hae-Gon Jeon, Jaesik Park, Gyeongmin Choe, __Jinsun Park__, Yunsu Bok, Yu-Wing Tai, and In So Kweon</span>  
+<span style="font-size: smaller;">*IEEE Transactions on Pattern Analysis and Machine Intelligence (__TPAMI__), Feb __2019__*</span>  
+[\[Paper\]](https://ieeexplore.ieee.org/document/8263242){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<!-- [\[Bibtex\]](../assets/bib/Jeon_TPAMI18_Bibtex.txt){:target="_blank" style="color: black; text-decoration: underline; border: none"} -->
+<br><br><br><br>
+
+
+### 2018
+
+
+![PRL18_Teaser](../assets/img/publication/PRL18_Teaser.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__Efficient Adaptive Non-Maximal Suppression Algorithms for Homogeneous Spatial Keypoint Distribution__  
+<span style="font-size: smaller;">Oleksandr Bailo, Francois Rameau, Kyungdon Joo, __Jinsun Park__, Oleksandr Bogdan, and In So Kweon</span>  
+<span style="font-size: smaller;">*Pattern Recognition Letters (__PRL__), Apr __2018__*</span>  
+[\[Paper\]](https://www.researchgate.net/publication/323388062_Efficient_adaptive_non-maximal_suppression_algorithms_for_homogeneous_spatial_keypoint_distribution){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<!-- [\[Bibtex\]](../assets/bib/PRL2018_Bibtex.txt){:target="_blank" style="color: black; text-decoration: underline; border: none"} -->
+[\[Project Page (Code)\]](https://github.com/BAILOOL/ANMS-Codes){:target="_blank" style="color: black; text-decoration: underline; border: none"}
 <br><br><br><br>
 
 
