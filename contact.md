@@ -11,7 +11,7 @@ Room 307, Bldg. 313, Pusan National University
 
 ### E-Mail
 
-_viplab_at_pusan.ac.kr_
+_jspark_at_pusan.ac.kr_
 
 ### Phone
 
