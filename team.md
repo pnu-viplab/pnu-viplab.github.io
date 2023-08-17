@@ -228,6 +228,30 @@ E-mail: choinjong1_at_gmail.com
 Research Interests: Deep Learning, Computer Vision  
 <br><br><br>
 
+
+
+<br>
+
+# Researchers
+
+![ChanillPark](../assets/img/team/chanill_park.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Chanill Park (박찬일)
+<br>
+E-mail: deanpark301_at_gmail.com  
+<!-- Homepage:    -->
+Research Interests: Multi-Modal Depth Estimation  
+<br><br><br>
+
+![SeokyongHeo](../assets/img/team/seokyong_heo.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Seokyong Heo (허석용)
+<br>
+E-mail: hsdragoner_at_gmail.com  
+<!-- Homepage:    -->
+Research Interests: Medical Image Segmentation  
+<br><br><br>
+
+
+
 <br>
 
 <!--
