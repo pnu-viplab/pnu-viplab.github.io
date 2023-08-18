@@ -228,6 +228,21 @@ E-mail: choinjong1_at_gmail.com
 Research Interests: Deep Learning, Computer Vision  
 <br><br><br>
 
+![Hyeonsu Park](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Hyeonsu Park (박현수)
+<br>
+E-mail: jerome201533_at_gmail.com  
+<!-- Homepage:    -->
+Research Interests: Deep Learning, Computer Vision  
+<br><br><br>
+
+![SubinLee](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Subin Lee (이수빈)
+<br>
+E-mail: subbing02_at_gmail.com  
+<!-- Homepage:    -->
+Research Interests: Deep Learning, Computer Vision  
+<br><br><br>
 
 
 <br>
