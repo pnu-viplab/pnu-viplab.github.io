@@ -4,6 +4,12 @@ title: Lecture
 permalink: /lecture/
 ---
 
+## 2023 Fall
+[Data Structures (자료구조, CB20330)](https://plato.pusan.ac.kr/){:target="_blank" style="color: black; text-decoration: underline; border: none;"}  
+[AI Programming (AI프로그래밍, CB35655)](https://plato.pusan.ac.kr/){:target="_blank" style="color: black; text-decoration: underline; border: none;"}  
+[Advanced Artificial Intelligence for Autonomous Driving (고급자율주행인공지능, AI6001031)](https://plato.pusan.ac.kr/){:target="_blank" style="color: black; text-decoration: underline; border: none;"}  
+
+
 ## 2023 Spring
 
 [Engineering Linear Algebra (공학선형대수학, CB35573)](https://plato.pusan.ac.kr/){:target="_blank" style="color: black; text-decoration: underline; border: none;"}  
