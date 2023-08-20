@@ -28,33 +28,7 @@ E-mail : jspark_at_pusan.ac.kr / zzangjinsun_at_gmail.com
 Prof. Jinsun Park is an assistant professor at School of Computer Science and Engineering, Pusan National University, Busan, Republic of Korea. From Mar. 2021 to Aug. 2021, he worked as a postdoctoral researcher at KAIST, Daejeon, Republic of Korea. He received his M.S. and Ph.D. degrees from [Robotics and Computer Vision Lab.](http://rcv.kaist.ac.kr/){:target="_blank" style="color: black; text-decoration: underline; border: none"}, School of Electrical Engineering, KAIST, Daejeon, Republic of Korea, in 2016 and 2021, respectively (Advisor: [Prof. In So Kweon](https://scholar.google.com/citations?user=XA8EOlEAAAAJ&hl=en){:target="_blank" style="color: black; text-decoration: underline; border: none"} / former advisor: [Dr. Yu-Wing Tai](https://scholar.google.com/citations?user=nFhLmFkAAAAJ&hl=en){:target="_blank" style="color: black; text-decoration: underline; border: none"}). From Jul. 2019 to Jan. 2020, he worked as a full-time research intern at HikVision USA, CA, USA (Mentor: [Dr. Zhe Hu](https://scholar.google.com/citations?user=4gC0czQAAAAJ&hl=en){:target="_blank" style="color: black; text-decoration: underline; border: none"}). He received his B.S. degree from Department of Electronic Engineering, Hanyang University, Seoul, Republic of Korea, in 2014.
 <br><br><br><br>
 
-<!-- # Researchers
 
-![Dummy](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 150px;"}
-## Mark Zuckerberg (마크)
-<br>
-E-mail: mark_at_pusan.ac.kr  
-Homepage: home_page  
-Research Interests: Computer Vision  
-<br><br>
-
-![Dummy](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 150px;"}
-## Mark Zuckerberg (마크)
-<br>
-E-mail: mark_at_pusan.ac.kr  
-Homepage: home_page  
-Research Interests: Computer Vision  
-<br><br>
-
-![Dummy](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 150px;"}
-## Mark Zuckerberg (마크)
-<br>
-E-mail: mark_at_pusan.ac.kr  
-Homepage: home_page  
-Research Interests: Computer Vision  
-<br><br>
-
-<br> -->
 
 <!-- # Ph.D. Students
 
@@ -231,7 +205,7 @@ Research Interests: Deep Learning, Computer Vision
 ![Hyeonsu Park](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
 ## Hyeonsu Park (박현수)
 <br>
-E-mail: jerome201533_at_gmail.com  
+E-mail: jerome10_at_pusan.ac.kr  
 <!-- Homepage:    -->
 Research Interests: Deep Learning, Computer Vision  
 <br><br><br>
