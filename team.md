@@ -132,10 +132,34 @@ E-mail: av1483110_at_gmail.com
 Research Interests: Computer Vision  
 <br><br><br>
 
-![DongminJeong](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Dongmin Jeong (정동민)
+![ChanillPark](../assets/img/team/chanill_park.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Chanill Park (박찬일)
 <br>
-E-mail: dm.jeong_at_haesungds.net  
+E-mail: deanpark301_at_gmail.com  
+<!-- Homepage:    -->
+Research Interests: Multi-Modal Depth Estimation  
+<br><br><br>
+
+![SeokyongHeo](../assets/img/team/seokyong_heo.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Seokyong Heo (허석용)
+<br>
+E-mail: hsdragoner_at_gmail.com  
+<!-- Homepage:    -->
+Research Interests: Medical Image Segmentation  
+<br><br><br>
+
+![SirockYoon](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Sirock Yoon (윤시록)
+<br>
+E-mail:   
+<!-- Homepage:    -->
+Research Interests: Computer Vision  
+<br><br><br>
+
+![HyunsooHa](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
+## Hyunsoo Ha (하현수)
+<br>
+E-mail:   
 <!-- Homepage:    -->
 Research Interests: Computer Vision  
 <br><br><br>
@@ -210,38 +234,15 @@ E-mail: jerome10_at_pusan.ac.kr
 Research Interests: Deep Learning, Computer Vision  
 <br><br><br>
 
-![SubinLee](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Subin Lee (이수빈)
-<br>
-E-mail: subbing02_at_gmail.com  
-<!-- Homepage:    -->
-Research Interests: Deep Learning, Computer Vision  
-<br><br><br>
 
 
 <br>
 
+<!--
 # Researchers
 
-![ChanillPark](../assets/img/team/chanill_park.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Chanill Park (박찬일)
 <br>
-E-mail: deanpark301_at_gmail.com  
-<!-- Homepage:    -->
-Research Interests: Multi-Modal Depth Estimation  
-<br><br><br>
-
-![SeokyongHeo](../assets/img/team/seokyong_heo.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Seokyong Heo (허석용)
-<br>
-E-mail: hsdragoner_at_gmail.com  
-<!-- Homepage:    -->
-Research Interests: Medical Image Segmentation  
-<br><br><br>
-
-
-
-<br>
+-->
 
 <!--
 # Alumni
