@@ -218,14 +218,6 @@ E-mail: wjsrl528_at_naver.com
 Research Interests: Deep Learning, Computer Vision  
 <br><br><br>
 
-![SeunghyeonCheon](../assets/img/team/seunghyeon_cheon.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Seunghyeon Cheon (천승현)
-<br>
-E-mail: choinjong1_at_gmail.com  
-<!-- Homepage:    -->
-Research Interests: Deep Learning, Computer Vision  
-<br><br><br>
-
 ![Hyeonsu Park](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
 ## Hyeonsu Park (박현수)
 <br>
