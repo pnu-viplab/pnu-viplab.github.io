@@ -61,7 +61,7 @@ Research Interests: Computer Vision
 # M.S. Students
 
 ![SeungikLee](../assets/img/team/seungik_lee.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Seungik Lee (이승익) \[Representative\]
+## Seungik Lee (이승익)
 <br>
 E-mail: lsi8546_at_naver.com  
 <!-- Homepage:    -->
@@ -93,7 +93,7 @@ Research Interests: 3D Object Detection
 <br><br><br>
 
 ![JanghyunKim](../assets/img/team/janghyun_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Janghyun Kim (김장현)
+## Janghyun Kim (김장현) \[Representative\]
 <br>
 E-mail: jangjoa4497_at_gmail.com  
 <!-- Homepage:    -->
