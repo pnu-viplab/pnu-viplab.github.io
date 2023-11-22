@@ -32,209 +32,310 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
 
 <!-- # Ph.D. Students
 
-![Dummy](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 150px;"}
-## Mark Zuckerberg (마크)
-<br>
-E-mail: mark_at_pusan.ac.kr  
-Homepage: home_page  
-Research Interests: Computer Vision  
-<br><br>
-
-![Dummy](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 150px;"}
-## Mark Zuckerberg (마크)
-<br>
-E-mail: mark_at_pusan.ac.kr  
-Homepage: home_page  
-Research Interests: Computer Vision  
-<br><br>
-
-![Dummy](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 150px;"}
-## Mark Zuckerberg (마크)
-<br>
-E-mail: mark_at_pusan.ac.kr  
-Homepage: home_page  
-Research Interests: Computer Vision  
-<br><br>
+<table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+    <tr width="100%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="" alt="">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2></h2>
+            <p></p>
+            <p></p>
+        </td>
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="" alt="">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2></h2>
+            <p></p>
+            <p></p>
+        </td>
+    </tr>
+</table>
 
 <br> -->
 
 # M.S. Students
 
-![SeungikLee](../assets/img/team/seungik_lee.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Seungik Lee (이승익)
-<br>
-E-mail: lsi8546_at_naver.com  
-<!-- Homepage:    -->
-Research Interests: Multi-Modal Object Detection  
-<br><br><br>
-
-![IncheolPark](../assets/img/team/incheol_park.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Incheol Park (박인철)
-<br>
-E-mail: inchulnim123_at_naver.com  
-<!-- Homepage:    -->
-Research Interests: Image Processing  
-<br><br><br>
-
-![YeogyeongKim](../assets/img/team/yeogyeong_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Yeogyeong Kim (김여경)
-<br>
-E-mail: ygkim1225_at_pusan.ac.kr  
-<!-- Homepage:    -->
-Research Interests: Semantic Segmentation  
-<br><br><br>
-
-![YerinNam](../assets/img/team/yerin_nam.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Yerin Nam (남예린)
-<br>
-E-mail: nyr10_at_pusan.ac.kr  
-<!-- Homepage:    -->
-Research Interests: 3D Object Detection  
-<br><br><br>
-
-![JanghyunKim](../assets/img/team/janghyun_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Janghyun Kim (김장현) \[Representative\]
-<br>
-E-mail: jangjoa4497_at_gmail.com  
-<!-- Homepage:    -->
-Research Interests: Depth Estimation / Completion  
-<br><br><br>
-
-![MingyuJeong](../assets/img/team/mingyu_jeong.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Mingyu Jeong (정민규)
-<br>
-E-mail: aboq2496_at_naver.com  
-<!-- Homepage:    -->
-Research Interests: SLAM   
-<br><br><br>
-
-![JeonghyunNoh](../assets/img/team/jeonghyun_noh.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Jeong Hyun Noh (노정현)
-<br>
-E-mail: wjdgus0967_at_naver.com  
-<!-- Homepage:    -->
-Research Interests: Super Resolution   
-<br><br><br>
-
-![SeongheonHa](../assets/img/team/seongheon_ha.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Seong Heon Ha (하성헌)
-<br>
-E-mail: 123skfro_at_pusan.ac.kr  
-<!-- Homepage:    -->
-Research Interests: 3D Object Detection  
-<br><br><br>
-
-![YonghyeonJo](../assets/img/team/yonghyeon_jo.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Yong Hyeon Jo (조용현)
-<br>
-E-mail: av1483110_at_gmail.com  
-<!-- Homepage:    -->
-Research Interests: Computer Vision  
-<br><br><br>
-
-![ChanillPark](../assets/img/team/chanill_park.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Chanill Park (박찬일)
-<br>
-E-mail: deanpark301_at_gmail.com  
-<!-- Homepage:    -->
-Research Interests: Multi-Modal Depth Estimation  
-<br><br><br>
-
-![SeokyongHeo](../assets/img/team/seokyong_heo.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Seokyong Heo (허석용)
-<br>
-E-mail: hsdragoner_at_gmail.com  
-<!-- Homepage:    -->
-Research Interests: Medical Image Segmentation  
-<br><br><br>
-
-![SirockYoon](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Sirock Yoon (윤시록)
-<br>
-E-mail:   
-<!-- Homepage:    -->
-Research Interests: Computer Vision  
-<br><br><br>
-
-![HyunsooHa](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Hyunsoo Ha (하현수)
-<br>
-E-mail:   
-<!-- Homepage:    -->
-Research Interests: Computer Vision  
-<br><br><br>
-
-
+<table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+    <tr width="100%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/seungik_lee.jpg" alt="SeungikLee">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Seungik Lee (이승익)</h2>
+            <p>E-mail: lsi8546_at_naver.com</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Multi-Modal Object Detection</p>
+        </td>
+        <!-- -->
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/incheol_park.jpg" alt="IncheolPark">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Incheol Park (박인철)</h2>
+            <p>E-mail: inchulnim123_at_naver.com</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Image Processing</p>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/yeogyeong_kim.jpg" alt="YeogyeongKim">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Yeogyeong Kim (김여경)</h2>
+            <p>E-mail: ygkim1225_at_pusan.ac.kr</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Semantic Segmentation</p>
+        </td>
+        <!-- -->
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/yerin_nam.jpg" alt="YerinNam">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Yerin Nam (남예린)</h2>
+            <p>E-mail: nyr10_at_pusan.ac.kr</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: 3D Object Detection</p>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/janghyun_kim.jpg" alt="JanghyunKim">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Janghyun Kim (김장현) 👑</h2>
+            <p>E-mail: jangjoa4497_at_gmail.com</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Depth Estimation / Completion</p>
+        </td>
+        <!-- -->
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/mingyu_jeong.jpg" alt="MingyuJeong">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Mingyu Jeong (정민규)</h2>
+            <p>E-mail: aboq2496_at_naver.com</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: SLAM</p>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/jeonghyun_noh.jpg" alt="JeonghyunNoh">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Jeong Hyun Noh (노정현)</h2>
+            <p>E-mail: wjdgus0967_at_naver.com</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Super Resolution</p>
+        </td>
+        <!-- -->
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/seongheon_ha.jpg" alt="SeongheonHa">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Seong Heon Ha (하성헌)</h2>
+            <p>E-mail: 123skfro_at_pusan.ac.kr</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: 3D Object Detection</p>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/yonghyeon_jo.jpg" alt="YonghyeonJo">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Yong Hyeon Jo (조용현)</h2>
+            <p>E-mail: av1483110_at_gmail.com</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Few-Shot Learning</p>
+        </td>
+        <!-- -->
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/chanill_park.jpg" alt="ChanillPark">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Chanill Park (박찬일)</h2>
+            <p>deanpark301_at_gmail.com</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Multi-Modal Depth Estimation</p>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/seokyong_heo.jpg" alt="SeokyongHeo">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Seokyong Heo (허석용)</h2>
+            <p>hsdragoner_at_gmail.com</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Medical Image Segmentation</p>
+        </td>
+        <!-- -->
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/dummy.jpg" alt="SirockYoon">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Sirock Yoon (윤시록)</h2>
+            <p>E-mail: </p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Computer Vision</p>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/dummy.jpg" alt="HyunsooHa">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Hyunsoo Ha (하현수)</h2>
+            <p>E-mail: </p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Computer Vision</p>
+        </td>
+        <!-- -->
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="" alt="">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2></h2>
+            <p></p>
+            <!-- Homepage:    -->
+            <p></p>
+        </td>
+    </tr>
+</table>
 
 <br>
 
 # Undergraduate Students
 
-![JaehyeongPark](../assets/img/team/jaehyeong_park.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Jaehyeong Park (박재형)
+<table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+    <tr width="100%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/jaehyeong_park.jpg" alt="JaehyeongPark">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Jaehyeong Park (박재형)</h2>
+            <p>E-mail: wogud0318_at_naver.com</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Object Detection</p>
+        </td>
+        <!-- -->
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/dogyu_kim.jpg" alt="DogyuKim">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Dogyu Kim (김도규)</h2>
+            <p>E-mail: dosu1819_at_pusan.ac.kr</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Few-Shot Learning</p>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/dummy.jpg" alt="KyunghyunKim">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Kyung Hyun Kim (김경현)</h2>
+            <p>E-mail: klps44_at_naver.com</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Object Detection</p>
+        </td>
+        <!-- -->
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/beomsoo_kim.jpg" alt="BeomsooKim">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Beom Soo Kim (김범수)</h2>
+            <p>E-mail: rlaqjatn1027_at_gmail.com</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Deep Learning, Computer Vision</p>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/minseong_kweon.jpg" alt="MinseongKweon">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Minseong Kweon (권민성)</h2>
+            <p>E-mail: mskweon_at_icloud.com</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Place Recognition</p>
+        </td>
+        <!-- -->
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/minsu_jeon.jpg" alt="MinsuJeon">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Minsu Jeon (전민수)</h2>
+            <p>E-mail: wjsrl528_at_naver.com</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Pose Estimation</p>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/dummy.jpg" alt="HyeonsuPark">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Hyeonsu Park (박현수)</h2>
+            <p>E-mail: jerome10_at_pusan.ac.kr</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Deep Learning, Computer Vision</p>
+        </td>
+        <!-- -->
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="" alt="">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2></h2>
+            <p></p>
+            <!-- Homepage:    -->
+            <p></p>
+        </td>
+    </tr>
+</table>
+
 <br>
-E-mail: wogud0318_at_naver.com  
-<!-- Homepage:    -->
-Research Interests: Object Detection  
-<br><br><br>
 
-![DogyuKim](../assets/img/team/dogyu_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Dogyu Kim (김도규)
-<br>
-E-mail: dosu1819_at_pusan.ac.kr  
-<!-- Homepage:    -->
-Research Interests: SLAM  
-<br><br><br>
-
-![KyunghyunKim](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Kyung Hyun Kim (김경현)
-<br>
-E-mail: klps44_at_naver.com  
-<!-- Homepage:    -->
-Research Interests: Object Detection  
-<br><br><br>
-
-![BeomsooKim](../assets/img/team/beomsoo_kim.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Beom Soo Kim (김범수)
-<br>
-E-mail: rlaqjatn1027_at_gmail.com  
-<!-- Homepage:    -->
-Research Interests: Deep Learning, Computer Vision  
-<br><br><br>
-
-![MinseongKweon](../assets/img/team/minseong_kweon.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Minseong Kweon (권민성)
-<br>
-E-mail: mskweon_at_icloud.com  
-<!-- Homepage:    -->
-Research Interests: Computer Vision, Domain Adaptation  
-<br><br><br>
-
-![MinsuJeon](../assets/img/team/minsu_jeon.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Minsu Jeon (전민수)
-<br>
-E-mail: wjsrl528_at_naver.com  
-<!-- Homepage:    -->
-Research Interests: Deep Learning, Computer Vision  
-<br><br><br>
-
-![Hyeonsu Park](../assets/img/team/dummy.jpg){:style="float: left; margin-right: 3%; margin-top: 2%; margin-bottom: 1%; width: 20%; max-width: 120px;"}
-## Hyeonsu Park (박현수)
-<br>
-E-mail: jerome10_at_pusan.ac.kr  
-<!-- Homepage:    -->
-Research Interests: Deep Learning, Computer Vision  
-<br><br><br>
-
-
-
-<br>
-
-<!--
 # Researchers
 
+<table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+    <tr width="100%">
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/jinwan_kim.jpg" alt="JinWanKim">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2>Jin Wan Kim (김진완)</h2>
+            <p>E-mail: jwk1939_at_naver.com</p>
+            <!-- Homepage:    -->
+            <p>Research Interests: Deep Learning, Computer Vision</p>
+        </td>
+        <!-- -->
+        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="" alt="">
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <h2></h2>
+            <p></p>
+            <!-- Homepage:    -->
+            <p></p>
+        </td>
+    </tr>
+</table>
+
 <br>
--->
 
 <!--
 # Alumni

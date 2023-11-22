@@ -307,6 +307,81 @@ __Single Image Depth Estimation using Convolutional Neural Networks with NCC-bas
 <br><br><br><br>
 
 
-<!-- ## Domestic Publications -->
+## Domestic Publications
 
 
+### 2023
+
+
+<table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <h4>Zero-Shot 세포 영상 초해상화 기법</h4>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <b>노정현, 박진선</b>, <i>멀티미디어학회논문지, Oct <b>2023</b></i>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <h4>Window Attention 기반의 멀티 모달 객체 탐지</h4>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <b>이승익, 박재형, 박진선</b>, <i>대한전자공학회 하계학술대회, Jun <b>2023</b></i>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <h4>의미론적 분할을 위한 LiDAR 포인트 클라우드 기반 부채꼴형 계층적 트랜스포머</h4>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <b>김여경, 하성헌, 박진선</b>, <i>대한전자공학회 하계학술대회, Jun <b>2023</b></i>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <h4>멀티 모달 3차원 객체 탐지를 위한 Bird’s Eye View Non-local Fuser</h4>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <b>남예린, 정민규, 박진선</b>, <i>대한전자공학회 하계학술대회, Jun <b>2023</b></i>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <h4>Balanced L1 손실함수와 Brightness 손실함수에 따른 저조도 영상 개선 기법</h4>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <b>박인철, 노정현, 박진선</b>, <i>대한전자공학회 하계학술대회, Jun <b>2023</b></i>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <h4>3축 가속도 데이터 변환 및 Attention 기반 사람 행동인식</h4>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <b>권민성, 박재형, 김경현, 노정현, 박진선</b>, <i>한국컴퓨터종합학술대회 (KCC), Jun <b>2023</b></i>
+        </td>
+    </tr>
+    <!-- -->
+</table>
+
+
+### 2021
+
+
+<table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <h4>이미지 매팅 경량화를 위한 지식 증류 기반 채널 프루닝</h4>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            윤동근, <b>박진선</b>, 조동현, <i>대한전자공학회 추계학술대회, Nov <b>2021</b></i>
+        </td>
+    </tr>
+    <!-- -->
+</table>
