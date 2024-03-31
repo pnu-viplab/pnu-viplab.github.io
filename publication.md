@@ -9,6 +9,25 @@ permalink: /publication/
 ## International Journals & Conferences
 
 
+### 2024
+
+
+![PRL24_CrossFormer_Teaser](../assets/img/publication/PRL24_CrossFormer.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__CrossFormer: Cross-Guided Attention for Multi-Modal Object Detection__  
+<span style="font-size: smaller;">Seungik Lee, Jaehyeong Park, and __Jinsun Park__</span>  
+<span style="font-size: smaller;">*Pattern Recognition Letters (__PRL__), Mar __2024__*</span>  
+[\[Paper\]](https://www.sciencedirect.com/science/article/abs/pii/S016786552400045X){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<br><br><br><br>
+
+
+![AAAI24_CMDA_Teaser](../assets/img/publication/AAAI24_CMDA.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-Based 3D Object Detection__  
+<span style="font-size: smaller;">Gyusam Chang, Wonseok Roh, Sujin Jang, Dongwook Lee, Daehyun Ji, Gyeongrok Oh, __Jinsun Park__, Jinkyu Kim, and Sangpil Kim</span>  
+<span style="font-size: smaller;">*AAAI Conference on Artificial Intelligence (__AAAI__), Feb __2024__*</span>  
+[\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/27857){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<br><br><br><br>
+
+
 ### 2023
 
 
@@ -16,7 +35,7 @@ permalink: /publication/
 __Deep Depth Estimation from Thermal Image__  
 <span style="font-size: smaller;">Ukcheol Shin, __Jinsun Park__, and In So Kweon</span>  
 <span style="font-size: smaller;">*IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), Jun __2023__*</span>  
-<span style="color:gray;">[Paper]</span> 
+[\[Paper\]](https://openaccess.thecvf.com/content/CVPR2023/html/Shin_Deep_Depth_Estimation_From_Thermal_Image_CVPR_2023_paper.html){:target="_blank" style="color: black; text-decoration: underline; border: none"}
 [\[Project Page (Code)\]](https://github.com/UkcheolShin/MS2-MultiSpectralStereoDataset){:target="_blank" style="color: black; text-decoration: underline; border: none"}
 <br><br><br><br>
 
@@ -310,65 +329,90 @@ __Single Image Depth Estimation using Convolutional Neural Networks with NCC-bas
 ## Domestic Publications
 
 
+### 2024
+
+
+<table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">의미론적 분할 기반 모델을 이용한 조선소 사외 적치장 객체 자동 관리 기술</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>정민규, 노정현, 김장현, 하성헌</b>, 강태선, 강기룡, 이병학, 김준현, <b>박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>스마트미디어저널, Feb <b>2024</b></i></span>
+        </td>
+    </tr>
+</table>
+
+<br>
+
+
 ### 2023
 
 
 <table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
     <tr width="100%">
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
-            <h4>Zero-Shot 세포 영상 초해상화 기법</h4>
+            <span style="font-size: bigger; font-weight: bold">Zero-Shot 세포 영상 초해상화 기법</span>
         </td>
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
-            <b>노정현, 박진선</b>, <i>멀티미디어학회논문지, Oct <b>2023</b></i>
+            <span style="font-size: smaller;"><b>노정현, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>멀티미디어학회논문지, Oct <b>2023</b></i></span>
         </td>
     </tr>
     <!-- -->
     <tr width="100%">
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
-            <h4>Window Attention 기반의 멀티 모달 객체 탐지</h4>
+            <span style="font-size: bigger; font-weight: bold">Window Attention 기반의 멀티 모달 객체 탐지</span>
         </td>
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
-            <b>이승익, 박재형, 박진선</b>, <i>대한전자공학회 하계학술대회, Jun <b>2023</b></i>
+            <span style="font-size: smaller;"><b>이승익, 박재형, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>대한전자공학회 하계학술대회, Jun <b>2023</b></i></span>
         </td>
     </tr>
     <!-- -->
     <tr width="100%">
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
-            <h4>의미론적 분할을 위한 LiDAR 포인트 클라우드 기반 부채꼴형 계층적 트랜스포머</h4>
+            <span style="font-size: bigger; font-weight: bold">의미론적 분할을 위한 LiDAR 포인트 클라우드 기반 부채꼴형 계층적 트랜스포머</span>
         </td>
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
-            <b>김여경, 하성헌, 박진선</b>, <i>대한전자공학회 하계학술대회, Jun <b>2023</b></i>
+            <span style="font-size: smaller;"><b>김여경, 하성헌, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>대한전자공학회 하계학술대회, Jun <b>2023</b></i></span>
         </td>
     </tr>
     <!-- -->
     <tr width="100%">
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
-            <h4>멀티 모달 3차원 객체 탐지를 위한 Bird’s Eye View Non-local Fuser</h4>
+            <span style="font-size: bigger; font-weight: bold">멀티 모달 3차원 객체 탐지를 위한 Bird’s Eye View Non-local Fuser</span>
         </td>
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
-            <b>남예린, 정민규, 박진선</b>, <i>대한전자공학회 하계학술대회, Jun <b>2023</b></i>
+            <span style="font-size: smaller;"><b>남예린, 정민규, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>대한전자공학회 하계학술대회, Jun <b>2023</b></i></span>
         </td>
     </tr>
     <!-- -->
     <tr width="100%">
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
-            <h4>Balanced L1 손실함수와 Brightness 손실함수에 따른 저조도 영상 개선 기법</h4>
+            <span style="font-size: bigger; font-weight: bold">Balanced L1 손실함수와 Brightness 손실함수에 따른 저조도 영상 개선 기법</span>
         </td>
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
-            <b>박인철, 노정현, 박진선</b>, <i>대한전자공학회 하계학술대회, Jun <b>2023</b></i>
+            <span style="font-size: smaller;"><b>박인철, 노정현, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>대한전자공학회 하계학술대회, Jun <b>2023</b></i></span>
         </td>
     </tr>
     <!-- -->
     <tr width="100%">
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
-            <h4>3축 가속도 데이터 변환 및 Attention 기반 사람 행동인식</h4>
+            <span style="font-size: bigger; font-weight: bold">3축 가속도 데이터 변환 및 Attention 기반 사람 행동인식</span>
         </td>
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
-            <b>권민성, 박재형, 김경현, 노정현, 박진선</b>, <i>한국컴퓨터종합학술대회 (KCC), Jun <b>2023</b></i>
+            <span style="font-size: smaller;"><b>권민성, 박재형, 김경현, 노정현, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>한국컴퓨터종합학술대회 (KCC), Jun <b>2023</b></i></span>
         </td>
     </tr>
-    <!-- -->
 </table>
+
+<br>
 
 
 ### 2021
@@ -377,11 +421,11 @@ __Single Image Depth Estimation using Convolutional Neural Networks with NCC-bas
 <table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
     <tr width="100%">
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
-            <h4>이미지 매팅 경량화를 위한 지식 증류 기반 채널 프루닝</h4>
+            <span style="font-size: bigger; font-weight: bold">이미지 매팅 경량화를 위한 지식 증류 기반 채널 프루닝</span>
         </td>
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
-            윤동근, <b>박진선</b>, 조동현, <i>대한전자공학회 추계학술대회, Nov <b>2021</b></i>
+            <span style="font-size: smaller;">윤동근, <b>박진선</b>, 조동현</span> <br>
+            <span style="font-size: smaller;"><i>대한전자공학회 추계학술대회, Nov <b>2021</b></i></span>
         </td>
     </tr>
-    <!-- -->
 </table>

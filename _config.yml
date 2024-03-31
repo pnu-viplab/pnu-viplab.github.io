@@ -72,3 +72,8 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-paginate
+
+paginate: 10
+
+paginate_path: "/_pages/:num"
