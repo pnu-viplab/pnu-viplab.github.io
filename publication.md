@@ -14,7 +14,7 @@ permalink: /publication/
 
 ![PRL24_CrossFormer_Teaser](../assets/img/publication/PRL24_CrossFormer.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
 __CrossFormer: Cross-Guided Attention for Multi-Modal Object Detection__  
-<span style="font-size: smaller;">Seungik Lee, Jaehyeong Park, and __Jinsun Park__</span>  
+<span style="font-size: smaller;">__Seungik Lee__, __Jaehyeong Park__, and __Jinsun Park__</span>  
 <span style="font-size: smaller;">*Pattern Recognition Letters (__PRL__), Mar __2024__*</span>  
 [\[Paper\]](https://www.sciencedirect.com/science/article/abs/pii/S016786552400045X){:target="_blank" style="color: black; text-decoration: underline; border: none"}
 <br><br><br><br>
