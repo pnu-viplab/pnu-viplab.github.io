@@ -184,7 +184,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         </td>
         <td width="30%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: bigger; font-weight: bold">Su-Hyeon Cho (조수현)</span> <br>
-            <span style="font-size: smaller;">📫 </span> <br>
+            <span style="font-size: smaller;">📫 g4780go_at_pusan.ac.kr</span> <br>
             <span style="font-size: smaller;">🔎 Computer Vision</span>
         </td>
         <!-- -->
