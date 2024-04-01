@@ -210,7 +210,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         </td>
         <td width="30%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: bigger; font-weight: bold">Jaehyeong Park (박재형)</span> <br>
-            <span style="font-size: smaller;">📫 wogud0318_at_naver.com</span> <br>
+            <span style="font-size: smaller;">📫 ianpark318_at_pusan.ac.kr</span> <br>
             <span style="font-size: smaller;">🔎 3D Reconstruction</span>
         </td>
         <!-- -->
