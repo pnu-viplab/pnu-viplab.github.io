@@ -306,7 +306,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
             <span style="font-size: smaller; font-weight: bold">Seungik Lee (이승익)</span> <br>
             <span style="font-size: smaller;">📅 2022.03.~2024.02. (M.S.)</span> <br>
             <span style="font-size: smaller;">📫 lsi8546_at_naver.com</span> <br>
-            <span style="font-size: smaller;">💼 Pusan National Univ.</span>
+            <span style="font-size: smaller;">💼 Pusan National Univ.</span> <br>
         </td>
         <!-- -->
         <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -316,7 +316,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
             <span style="font-size: smaller; font-weight: bold">Incheol Park (박인철)</span> <br>
             <span style="font-size: smaller;">📅 2022.03.~2024.02. (M.S.)</span> <br>
             <span style="font-size: smaller;">📫 inchulnim123_at_naver.com</span> <br>
-            <!-- <span style="font-size: smaller;">💼 </span> -->
+            <!-- <span style="font-size: smaller;">💼 </span> <br> -->
         </td>
         <!-- -->
         <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -326,7 +326,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
             <span style="font-size: smaller; font-weight: bold">Yeogyeong Kim (김여경)</span> <br>
             <span style="font-size: smaller;">📅 2022.03.~2024.02. (M.S.)</span> <br>
             <span style="font-size: smaller;">📫 ygkim1225_at_pusan.ac.kr</span> <br>
-            <!-- <span style="font-size: smaller;">💼 </span> -->
+            <!-- <span style="font-size: smaller;">💼 </span> <br> -->
         </td>
         <!-- -->
         <td width="4%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -341,7 +341,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
             <span style="font-size: smaller; font-weight: bold">Yerin Nam (남예린)</span> <br>
             <span style="font-size: smaller;">📅 2022.03.~2024.02. (M.S.)</span> <br>
             <span style="font-size: smaller;">📫 nyr10_at_pusan.ac.kr</span> <br>
-            <!-- <span style="font-size: smaller;">💼 </span> -->
+            <!-- <span style="font-size: smaller;">💼 </span> <br>-->
         </td>
         <!-- -->
         <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -351,7 +351,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
             <!-- <span style="font-size: smaller; font-weight: bold"></span> <br> -->
             <!-- <span style="font-size: smaller;">📅 </span> <br> -->
             <!-- <span style="font-size: smaller;">📫 </span> <br> -->
-            <!-- <span style="font-size: smaller;">💼 </span> -->
+            <!-- <span style="font-size: smaller;">💼 </span> <br> -->
         </td>
         <!-- -->
         <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -361,7 +361,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
             <!-- <span style="font-size: smaller; font-weight: bold"></span> <br> -->
             <!-- <span style="font-size: smaller;">📅 </span> <br> -->
             <!-- <span style="font-size: smaller;">📫 </span> <br> -->
-            <!-- <span style="font-size: smaller;">💼 </span> -->
+            <!-- <span style="font-size: smaller;">💼 </span> <br> -->
         </td>
         <!-- -->
         <td width="4%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
