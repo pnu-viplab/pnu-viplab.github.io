@@ -337,7 +337,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <img src="../assets/img/team/yerin_nam.jpg" alt="YerinNam">
         </td>
-        <td width="20%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="22%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: smaller; font-weight: bold">Yerin Nam (남예린)</span> <br>
             <span style="font-size: smaller;">📅 2022.03.~2024.02. (M.S.)</span> <br>
             <span style="font-size: smaller;">📫 nyr10_at_pusan.ac.kr</span> <br>
@@ -347,7 +347,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <!-- <img src="../assets/img/team/dummy.jpg" alt="Dummy"> -->
         </td>
-        <td width="20%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="22%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <!-- <span style="font-size: smaller; font-weight: bold"></span> <br> -->
             <!-- <span style="font-size: smaller;">📅 </span> <br> -->
             <!-- <span style="font-size: smaller;">📫 </span> <br> -->
@@ -357,14 +357,14 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <!-- <img src="../assets/img/team/dummy.jpg" alt="Dummy"> -->
         </td>
-        <td width="20%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="22%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <!-- <span style="font-size: smaller; font-weight: bold"></span> <br> -->
             <!-- <span style="font-size: smaller;">📅 </span> <br> -->
             <!-- <span style="font-size: smaller;">📫 </span> <br> -->
             <!-- <span style="font-size: smaller;">💼 </span> -->
         </td>
         <!-- -->
-        <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="4%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
         </td>
     </tr>
 </table>
