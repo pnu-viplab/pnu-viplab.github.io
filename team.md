@@ -252,11 +252,11 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
 <table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
     <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <img src="../assets/img/team/seungik_lee.jpg" alt="SeungikLee">
+            <img src="../assets/img/team/dummy.jpg" alt="Dummy">
         </td>
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <span style="font-size: bigger; font-weight: bold">Seungik Lee (이승익)</span> <br>
-            <span style="font-size: smaller;">📫 lsi8546_at_naver.com</span> <br>
+            <span style="font-size: bigger; font-weight: bold">Heeju Han (한희주)</span> <br>
+            <span style="font-size: smaller;">📫 hhjjoa2817_at_naver.com</span> <br>
         </td>
         <!-- -->
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -304,7 +304,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         </td>
         <td width="22%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: smaller; font-weight: bold">Seungik Lee (이승익)</span> <br>
-            <span style="font-size: smaller;">📅 2022.03.~2024.02. (M.S.)</span> <br>
+            <span style="font-size: smaller;">📅 2024.02. (M.S.)</span> <br>
             <span style="font-size: smaller;">📫 lsi8546_at_naver.com</span> <br>
             <span style="font-size: smaller;">💼 Pusan National Univ.</span> <br>
         </td>
@@ -314,7 +314,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         </td>
         <td width="22%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: smaller; font-weight: bold">Incheol Park (박인철)</span> <br>
-            <span style="font-size: smaller;">📅 2022.03.~2024.02. (M.S.)</span> <br>
+            <span style="font-size: smaller;">📅 2024.02. (M.S.)</span> <br>
             <span style="font-size: smaller;">📫 inchulnim123_at_naver.com</span> <br>
             <!-- <span style="font-size: smaller;">💼 </span> <br> -->
         </td>
@@ -324,7 +324,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         </td>
         <td width="22%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: smaller; font-weight: bold">Yeogyeong Kim (김여경)</span> <br>
-            <span style="font-size: smaller;">📅 2022.03.~2024.02. (M.S.)</span> <br>
+            <span style="font-size: smaller;">📅 2024.02. (M.S.)</span> <br>
             <span style="font-size: smaller;">📫 ygkim1225_at_pusan.ac.kr</span> <br>
             <!-- <span style="font-size: smaller;">💼 </span> <br> -->
         </td>
@@ -339,7 +339,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         </td>
         <td width="22%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: smaller; font-weight: bold">Yerin Nam (남예린)</span> <br>
-            <span style="font-size: smaller;">📅 2022.03.~2024.02. (M.S.)</span> <br>
+            <span style="font-size: smaller;">📅 2024.02. (M.S.)</span> <br>
             <span style="font-size: smaller;">📫 nyr10_at_pusan.ac.kr</span> <br>
             <!-- <span style="font-size: smaller;">💼 </span> <br>-->
         </td>
@@ -372,6 +372,45 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
 <br>
 
 # Former Researchers
+
+<table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+    <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/seungik_lee.jpg" alt="SeungikLee">
+        </td>
+        <td width="22%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <span style="font-size: smaller; font-weight: bold">Seungik Lee (이승익)</span> <br>
+            <span style="font-size: smaller;">📅 2024.03.~2024.06.</span> <br>
+            <span style="font-size: smaller;">📫 lsi8546_at_naver.com</span> <br>
+            <span style="font-size: smaller;">💼 Master's Degree Researcher</span> <br>
+        </td>
+        <!-- -->
+        <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <!-- <img src="../assets/img/team/dummy.jpg" alt="Dummy"> -->
+        </td>
+        <td width="22%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <!-- <span style="font-size: smaller; font-weight: bold"></span> <br> -->
+            <!-- <span style="font-size: smaller;">📅 </span> <br> -->
+            <!-- <span style="font-size: smaller;">📫 </span> <br> -->
+            <!-- <span style="font-size: smaller;">💼 </span> <br> -->
+        </td>
+        <!-- -->
+        <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <!-- <img src="../assets/img/team/dummy.jpg" alt="Dummy"> -->
+        </td>
+        <td width="22%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <!-- <span style="font-size: smaller; font-weight: bold"></span> <br> -->
+            <!-- <span style="font-size: smaller;">📅 </span> <br> -->
+            <!-- <span style="font-size: smaller;">📫 </span> <br> -->
+            <!-- <span style="font-size: smaller;">💼 </span> <br> -->
+        </td>
+        <!-- -->
+        <td width="4%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        </td>
+    </tr>
+</table>
+
+<br>
 
 ### Undergraduate Researchers
 
