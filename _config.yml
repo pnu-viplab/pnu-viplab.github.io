@@ -5,6 +5,7 @@ description: > # Meta description of Homepage
   Visual Intelligence and Perception Laboratory
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://pnu-viplab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+future: true
 
 # SEO PLUGIN
 social:
