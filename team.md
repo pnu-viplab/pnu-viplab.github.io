@@ -382,7 +382,8 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
             <span style="font-size: smaller; font-weight: bold">Seungik Lee (이승익)</span> <br>
             <span style="font-size: smaller;">📅 2024.03.~2024.06.</span> <br>
             <span style="font-size: smaller;">📫 lsi8546_at_naver.com</span> <br>
-            <span style="font-size: smaller;">💼 Master's Degree Researcher</span> <br>
+            <span style="font-size: smaller;">💻 Master's Degree Researcher</span> <br>
+            <!-- <span style="font-size: smaller;">💼 </span> <br> -->
         </td>
         <!-- -->
         <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
