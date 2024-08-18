@@ -27,6 +27,7 @@ navigation: # Navigation links
   - {name: 'Research', link: '/research'}
   - {name: 'Publication', link: '/publication'}
   - {name: 'Lecture', link: '/lecture'}
+  - {name: 'Gallery', link: '/gallery'}
   - {name: 'Contact', link: '/contact'}
 
 #tagline: >
@@ -64,7 +65,7 @@ exclude:
   - gulpfile.js
   - sleek.jpg
 
-include: ['_pages']
+# include: ['_pages']
 # permalink: /:title/
 
 compress_html:
