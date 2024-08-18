@@ -12,6 +12,22 @@ permalink: /publication/
 ### 2024
 
 
+![RAL24_ADNet_Teaser](../assets/img/publication/RAL24_ADNet.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__ADNet: Non-Local Affinity Distillation Network for Lightweight Depth Completion with Guidance from Missing LiDAR Points__  
+<span style="font-size: smaller;">__Janghyun Kim__, __Jeonghyun Noh__, __Mingyu Jeong__, Wonju Lee, Yeonchool Park, and __Jinsun Park__</span>  
+<span style="font-size: smaller;">*IEEE Robotics and Automation Letters (__RAL__), Jul __2024__*</span>  
+[\[Paper\]](https://ieeexplore.ieee.org/document/10598333){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<br><br><br><br>
+
+
+![RAL24_IAM_Teaser](../assets/img/publication/RAL24_IAM.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__Interdimensional Knowledge Transfer for Semantic Segmentation on LiDAR Point Clouds__  
+<span style="font-size: smaller;">__Seongheon Ha__, __Yeogyeong Kim__, and __Jinsun Park__</span>  
+<span style="font-size: smaller;">*IEEE Robotics and Automation Letters (__RAL__), Jul __2024__*</span>  
+[\[Paper\]](https://ieeexplore.ieee.org/document/10592641){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<br><br><br><br>
+
+
 ![PRL24_CrossFormer_Teaser](../assets/img/publication/PRL24_CrossFormer.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
 __CrossFormer: Cross-Guided Attention for Multi-Modal Object Detection__  
 <span style="font-size: smaller;">__Seungik Lee__, __Jaehyeong Park__, and __Jinsun Park__</span>  

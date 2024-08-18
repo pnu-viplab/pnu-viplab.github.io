@@ -69,12 +69,12 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         </td>
         <!-- -->
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <img src="../assets/img/team/mingyu_jeong.jpg" alt="MingyuJeong">
+            <!-- <img src="../assets/img/team/mingyu_jeong.jpg" alt="MingyuJeong"> -->
         </td>
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <span style="font-size: bigger; font-weight: bold">Mingyu Jeong (정민규)</span> <br>
-            <span style="font-size: smaller;">📫 aboq2496_at_naver.com</span> <br>
-            <span style="font-size: smaller;">🔎 3D Object Detection</span>
+            <!-- <span style="font-size: bigger; font-weight: bold">Mingyu Jeong (정민규)</span> <br> -->
+            <!-- <span style="font-size: smaller;">📫 aboq2496_at_naver.com</span> <br> -->
+            <!-- <span style="font-size: smaller;">🔎 3D Object Detection</span> -->
         </td>
     </tr>
     <!-- -->
@@ -306,7 +306,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
             <span style="font-size: smaller; font-weight: bold">Seungik Lee (이승익)</span> <br>
             <span style="font-size: smaller;">📅 2024.02. (M.S.)</span> <br>
             <span style="font-size: smaller;">📫 lsi8546_at_naver.com</span> <br>
-            <span style="font-size: smaller;">💼 Pusan National Univ.</span> <br>
+            <span style="font-size: smaller;">💼 삼성중공업</span> <br>
         </td>
         <!-- -->
         <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -345,13 +345,13 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         </td>
         <!-- -->
         <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <!-- <img src="../assets/img/team/dummy.jpg" alt="Dummy"> -->
+            <img src="../assets/img/team/mingyu_jeong.jpg" alt="MingyuJeong">
         </td>
         <td width="22%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <!-- <span style="font-size: smaller; font-weight: bold"></span> <br> -->
-            <!-- <span style="font-size: smaller;">📅 </span> <br> -->
-            <!-- <span style="font-size: smaller;">📫 </span> <br> -->
-            <!-- <span style="font-size: smaller;">💼 </span> <br> -->
+            <span style="font-size: smaller; font-weight: bold">Mingyu Jeong (정민규)</span> <br>
+            <span style="font-size: smaller;">📅 2024.08. (M.S.)</span> <br>
+            <span style="font-size: smaller;">📫 aboq2496_at_naver.com</span> <br>
+            <span style="font-size: smaller;">💼 포스코DX</span> <br>
         </td>
         <!-- -->
         <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
