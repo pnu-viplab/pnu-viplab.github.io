@@ -54,14 +54,51 @@ layout: compress
         <div class="container">
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
-            {% for post in site.posts %}
-              {% if forloop.index <= 10 %}
+            {% for post in paginator.posts %}
                 {% include card.html %}
-              {% endif %}
             {% endfor %}
 
-           {% include pagination.html %}
           </div>
+
+          {{ site.title | escape }}
+
+          <!-- Pagination links -->
+          <div class="pagination">
+            {% if paginator.total_pages > 1 %}
+              {% if paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a> &nbsp;
+              {% else %}
+                <span>&laquo; Prev &nbsp;</span>
+              {% endif %}
+
+              {% assign idx_start = paginator.page | minus: 5 %}
+              {% if idx_start < 1 %}
+                {% assign idx_start = 1 %}
+              {% endif %}
+
+              {% assign idx_end = idx_start | plus: 9 %}
+              {% if idx_end > paginator.total_pages %}
+                {% assign idx_end = paginator.total_pages %}
+              {% endif %}
+            
+              {% for page in (idx_start..idx_end) %}
+                {% if page == paginator.page %}
+                  <em>{{ page }}</em> &nbsp;
+                {% elsif page == 1 %}
+                  <a href="{{ '/' | relative_url }}">{{ page }}</a> &nbsp;
+                {% else %}
+                  <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a> &nbsp;
+                {% endif %}
+              {% endfor %}
+            
+              {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+              {% else %}
+                <span>Next &raquo;</span>
+              {% endif %}
+            {% endif %}
+          </div>
+
         </div>
       </section>
     </main>
