@@ -11,12 +11,14 @@
   text-decoration: none;
   border: none;
   margin: 0 0.5rem;
-}
 
-.pagination a:link, a:visited {
-  color: #5dade2;
-}
+  &:link,
+  &:visited {
+    color: #5dade2;
+  }
 
-.pagination a:hover, a:active {
-  color: #ec7063;
+  &:active,
+  &:hover {
+    color: #ec7063;
+  }
 }
