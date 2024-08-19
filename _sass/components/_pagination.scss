@@ -3,3 +3,20 @@
   justify-content: center;
   margin: 1.25rem auto;
 }
+
+.pagination a {
+  color: black;
+  font-size: larger;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  text-decoration: none;
+  border: none;
+  margin: 0 0.5rem;
+}
+
+.pagination a:link, a:visited {
+  color: #5dade2;
+}
+
+.pagination a:hover, a:active {
+  color: #ec7063;
+}

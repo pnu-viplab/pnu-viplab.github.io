@@ -63,11 +63,6 @@ layout: compress
           <!-- Pagination links -->
           <div class="pagination">
             {% if paginator.total_pages > 1 %}
-              {% if paginator.previous_page %}
-                <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a> &nbsp;
-              {% else %}
-                <span>&laquo; Prev &nbsp;</span>
-              {% endif %}
 
               {% assign idx_start = paginator.page | minus: 5 %}
               {% if idx_start < 1 %}
@@ -78,10 +73,16 @@ layout: compress
               {% if idx_end > paginator.total_pages %}
                 {% assign idx_end = paginator.total_pages %}
               {% endif %}
+
+              {% if paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a> &nbsp;
+              {% else %}
+                <a>&laquo; Prev</a> &nbsp;
+              {% endif %}
             
               {% for page in (idx_start..idx_end) %}
                 {% if page == paginator.page %}
-                  <em>{{ page }}</em> &nbsp;
+                  <em><a>{{ page }}</a></em> &nbsp;
                 {% elsif page == 1 %}
                   <a href="{{ '/' | relative_url }}">{{ page }}</a> &nbsp;
                 {% else %}
@@ -92,10 +93,12 @@ layout: compress
               {% if paginator.next_page %}
                 <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
               {% else %}
-                <span>Next &raquo;</span>
+                <a>Next &raquo;</a>
               {% endif %}
             {% endif %}
           </div>
+
+          <br>
 
         </div>
       </section>
