@@ -30,32 +30,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
 
 
 
-<!-- # Ph.D. Students
-
-<table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-    <tr width="100%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <img src="" alt="">
-        </td>
-        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <h2></h2>
-            <p></p>
-            <p></p>
-        </td>
-        <td width="15%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <img src="" alt="">
-        </td>
-        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <h2></h2>
-            <p></p>
-            <p></p>
-        </td>
-    </tr>
-</table>
-
-<br> -->
-
-# M.S. Students
+# Ph.D. Students
 
 <table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
     <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -65,7 +40,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: bigger; font-weight: bold">Janghyun Kim (김장현) 👑</span> <br>
             <span style="font-size: smaller;">📫 jangjoa4497_at_gmail.com</span> <br>
-            <span style="font-size: smaller;">🔎 Depth Estimation / Completion</span>
+            <span style="font-size: smaller;">🔎 Depth Perception & Multi-sensor Fusion</span>
         </td>
         <!-- -->
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -77,6 +52,13 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
             <!-- <span style="font-size: smaller;">🔎 3D Object Detection</span> -->
         </td>
     </tr>
+</table>
+
+<br>
+
+# M.S. Students
+
+<table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
     <!-- -->
     <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -94,7 +76,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: bigger; font-weight: bold">Seong Heon Ha (하성헌)</span> <br>
             <span style="font-size: smaller;">📫 123skfro_at_pusan.ac.kr</span> <br>
-            <span style="font-size: smaller;">🔎 3D Semantic Segmentation</span>
+            <span style="font-size: smaller;">🔎 Sensor Fucsion & Sign Language Recognition</span>
         </td>
     </tr>
     <!-- -->
@@ -105,7 +87,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: bigger; font-weight: bold">Yong Hyeon Jo (조용현)</span> <br>
             <span style="font-size: smaller;">📫 av1483110_at_gmail.com</span> <br>
-            <span style="font-size: smaller;">🔎 Few-Shot Learning</span>
+            <span style="font-size: smaller;">🔎 Vision-Language Model</span>
         </td>
         <!-- -->
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -125,7 +107,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: bigger; font-weight: bold">Seokyong Heo (허석용)</span> <br>
             <span style="font-size: smaller;">📫 hsdragoner_at_gmail.com</span> <br>
-            <span style="font-size: smaller;">🔎 Domain Adaptation</span>
+            <span style="font-size: smaller;">🔎 Domain Adaptation & Generative Models</span>
         </td>
         <!-- -->
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -154,7 +136,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: bigger; font-weight: bold">Jin Wan Kim (김진완)</span> <br>
             <span style="font-size: smaller;">📫 jwk1939_at_naver.com</span> <br>
-            <span style="font-size: smaller;">🔎 Keypoint Detection</span>
+            <span style="font-size: smaller;">🔎 Calibration</span>
         </td>
     </tr>
     <!-- -->
@@ -169,12 +151,12 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         </td>
         <!-- -->
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <img src="../assets/img/team/dummy.jpg" alt="HyeonsuPark">
+            <img src="../assets/img/team/hyunsu_park.jpg" alt="HyeonsuPark">
         </td>
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: bigger; font-weight: bold">Hyeonsu Park (박현수)</span> <br>
             <span style="font-size: smaller;">📫 jerome10_at_pusan.ac.kr</span> <br>
-            <span style="font-size: smaller;">🔎 Novel View Synthesis</span>
+            <span style="font-size: smaller;">🔎 3D Scene Reconstruction</span>
         </td>
     </tr>
     <!-- -->
@@ -189,12 +171,51 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         </td>
         <!-- -->
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <!-- <img src="../assets/img/team/dummy.jpg" alt="Dummy"> -->
+            <img src="../assets/img/team/jaehyeong_park.jpg" alt="JaehyeongPark">
         </td>
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <!-- <span style="font-size: bigger; font-weight: bold"></span> <br> -->
-            <!-- <span style="font-size: smaller;">📫 </span> <br> -->
-            <!-- <span style="font-size: smaller;">🔎 </span> -->
+            <span style="font-size: bigger; font-weight: bold">Jaehyeong Park (박재형)</span> <br>
+            <span style="font-size: smaller;">📫 ianpark318_at_pusan.ac.kr</span> <br>
+            <span style="font-size: smaller;">🔎 3D Scene Reconstruction & Surface Reconstruction</span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/dummy.jpg" alt="dummy">
+        </td>
+        <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <span style="font-size: bigger; font-weight: bold">Heeju Han (한희주)</span> <br>
+            <span style="font-size: smaller;">📫 hhjjoa2817_at_naver.com</span> <br>
+            <span style="font-size: smaller;">🔎 Computer Vision</span>
+        </td>
+        <!-- -->
+        <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/yeongmin_ko.jpg" alt="YeongminKo">
+        </td>
+        <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <span style="font-size: bigger; font-weight: bold">Yeongmin Ko (고영민)</span> <br>
+            <span style="font-size: smaller;">📫 psleon8245_at_gmail.com</span> <br>
+            <span style="font-size: smaller;">🔎 Computer Vision</span>
+        </td>
+    </tr>
+    <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/dummy.jpg" alt="dummy">
+        </td>
+        <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <span style="font-size: bigger; font-weight: bold">Subin Lee (이수빈)</span> <br>
+            <span style="font-size: smaller;">📫 lloviznagua_at_naver.com</span> <br>
+            <span style="font-size: smaller;">🔎 Computer Vision</span>
+        </td>
+        <!-- -->
+        <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <!-- <img src="../assets/img/team/mingyu_jeong.jpg" alt="MingyuJeong"> -->
+        </td>
+        <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <!-- <span style="font-size: bigger; font-weight: bold">Mingyu Jeong (정민규)</span> <br> -->
+            <!-- <span style="font-size: smaller;">📫 aboq2496_at_naver.com</span> <br> -->
+            <!-- <span style="font-size: smaller;">🔎 3D Object Detection</span> -->
         </td>
     </tr>
 </table>
@@ -206,15 +227,6 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
 <table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
     <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <img src="../assets/img/team/jaehyeong_park.jpg" alt="JaehyeongPark">
-        </td>
-        <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <span style="font-size: bigger; font-weight: bold">Jaehyeong Park (박재형)</span> <br>
-            <span style="font-size: smaller;">📫 ianpark318_at_pusan.ac.kr</span> <br>
-            <span style="font-size: smaller;">🔎 3D Reconstruction</span>
-        </td>
-        <!-- -->
-        <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <img src="../assets/img/team/minseong_kweon.jpg" alt="MinseongKweon">
         </td>
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -222,9 +234,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
             <span style="font-size: smaller;">📫 mskweon_at_icloud.com</span> <br>
             <span style="font-size: smaller;">🔎 Place Recognition</span>
         </td>
-    </tr>
-    <!-- -->
-    <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <!-- -->
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <img src="../assets/img/team/dummy.jpg" alt="JaeseongHeo">
         </td>
@@ -233,21 +243,13 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
             <span style="font-size: smaller;">📫 hjs4932_at_pusan.ac.kr</span> <br>
             <span style="font-size: smaller;">🔎 Computer Vision</span>
         </td>
-        <!-- -->
-        <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <!-- <img src="../assets/img/team/dummy.jpg" alt="Dummy"> -->
-        </td>
-        <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <!-- <span style="font-size: bigger; font-weight: bold"></span> <br> -->
-            <!-- <span style="font-size: smaller;">📫 </span> <br> -->
-            <!-- <span style="font-size: smaller;">🔎 </span> -->
-        </td>
     </tr>
+    <!-- -->
 </table>
 
 <br>
 
-# Researchers
+<!-- # Researchers
 
 <table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
     <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -258,18 +260,15 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
             <span style="font-size: bigger; font-weight: bold">Heeju Han (한희주)</span> <br>
             <span style="font-size: smaller;">📫 hhjjoa2817_at_naver.com</span> <br>
         </td>
-        <!-- -->
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <!-- <img src="../assets/img/team/dummy.jpg" alt="Dummy"> -->
+            <img src="../assets/img/team/dummy.jpg" alt="Dummy">
         </td>
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <!-- <span style="font-size: bigger; font-weight: bold"></span> <br> -->
-            <!-- <span style="font-size: smaller;">📫 </span> <br> -->
+            <span style="font-size: bigger; font-weight: bold"></span> <br>
+            <span style="font-size: smaller;">📫 </span> <br>
         </td>
     </tr>
-</table>
-
-<br>
+</table> -->
 
 # Research Staffs
 
@@ -482,6 +481,18 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         </td>
         <td width="30%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: smaller;">📅 2023.08.~2024.02.</span>
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <span style="font-size: smaller;">💼 Pusan National Univ.</span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <span style="font-size: smaller; font-weight: bold">Jaehyeong Park (박재형)</span>
+        </td>
+        <td width="30%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <span style="font-size: smaller;">📅 2022.03.~2024.08.</span>
         </td>
         <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: smaller;">💼 Pusan National Univ.</span>
