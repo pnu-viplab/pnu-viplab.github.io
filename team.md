@@ -182,7 +182,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
     <!-- -->
     <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <img src="../assets/img/team/dummy.jpg" alt="dummy">
+            <img src="../assets/img/team/heeju_han.jpg" alt="HeejuHan">
         </td>
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: bigger; font-weight: bold">Heeju Han (한희주)</span> <br>
@@ -201,7 +201,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
     </tr>
     <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <img src="../assets/img/team/dummy.jpg" alt="dummy">
+            <img src="../assets/img/team/subin_lee.jpg" alt="SubinLee">
         </td>
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: bigger; font-weight: bold">Subin Lee (이수빈)</span> <br>
