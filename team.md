@@ -40,7 +40,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: bigger; font-weight: bold">Janghyun Kim (김장현) 👑</span> <br>
             <span style="font-size: smaller;">📫 jangjoa4497_at_gmail.com</span> <br>
-            <span style="font-size: smaller;">🔎 Depth Perception & Multi-sensor Fusion</span>
+            <span style="font-size: smaller;">🔎 Depth Perception & Multi-Sensor Fusion</span>
         </td>
         <!-- -->
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -76,7 +76,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: bigger; font-weight: bold">Seong Heon Ha (하성헌)</span> <br>
             <span style="font-size: smaller;">📫 123skfro_at_pusan.ac.kr</span> <br>
-            <span style="font-size: smaller;">🔎 Sensor Fucsion & Sign Language Recognition</span>
+            <span style="font-size: smaller;">🔎 Sensor Fusion & Sign Language Recognition</span>
         </td>
     </tr>
     <!-- -->
