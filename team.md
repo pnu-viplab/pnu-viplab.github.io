@@ -325,7 +325,7 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
             <span style="font-size: smaller; font-weight: bold">Yeogyeong Kim (김여경)</span> <br>
             <span style="font-size: smaller;">📅 2024.02. (M.S.)</span> <br>
             <span style="font-size: smaller;">📫 ygkim1225_at_pusan.ac.kr</span> <br>
-            <!-- <span style="font-size: smaller;">💼 </span> <br> -->
+            <span style="font-size: smaller;">💼 CMES</span> <br>
         </td>
         <!-- -->
         <td width="4%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -354,13 +354,13 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         </td>
         <!-- -->
         <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <!-- <img src="../assets/img/team/dummy.jpg" alt="Dummy"> -->
+            <img src="../assets/img/team/janghyun_kim.jpg" alt="JanghyunKim">
         </td>
         <td width="22%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <!-- <span style="font-size: smaller; font-weight: bold"></span> <br> -->
-            <!-- <span style="font-size: smaller;">📅 </span> <br> -->
-            <!-- <span style="font-size: smaller;">📫 </span> <br> -->
-            <!-- <span style="font-size: smaller;">💼 </span> <br> -->
+            <span style="font-size: smaller; font-weight: bold">Janghyun Kim (김장현)</span> <br>
+            <span style="font-size: smaller;">📅 2024.08. (M.S.)</span> <br>
+            <span style="font-size: smaller;">📫 jangjoa4497_at_gmail.com</span> <br>
+            <span style="font-size: smaller;">💼 Pusan National Univ.</span> <br>
         </td>
         <!-- -->
         <td width="4%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
@@ -415,6 +415,18 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
 ### Undergraduate Researchers
 
 <table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+    <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <span style="font-size: smaller; font-weight: bold">Jaehyeong Park (박재형)</span>
+        </td>
+        <td width="30%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <span style="font-size: smaller;">📅 2022.03.~2024.08.</span>
+        </td>
+        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <span style="font-size: smaller;">💼 Pusan National Univ.</span>
+        </td>
+    </tr>
+    <!-- -->
     <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
         <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: smaller; font-weight: bold">Dogyu Kim (김도규)</span>
@@ -481,18 +493,6 @@ Prof. Jinsun Park is an assistant professor at School of Computer Science and En
         </td>
         <td width="30%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: smaller;">📅 2023.08.~2024.02.</span>
-        </td>
-        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <span style="font-size: smaller;">💼 Pusan National Univ.</span>
-        </td>
-    </tr>
-    <!-- -->
-    <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-        <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <span style="font-size: smaller; font-weight: bold">Jaehyeong Park (박재형)</span>
-        </td>
-        <td width="30%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <span style="font-size: smaller;">📅 2022.03.~2024.08.</span>
         </td>
         <td width="35%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: smaller;">💼 Pusan National Univ.</span>
