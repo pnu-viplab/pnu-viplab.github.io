@@ -13,7 +13,7 @@ permalink: /publication/
 
 
 ![ACCV24_ULTRON_Teaser](../assets/img/publication/ACCV24_ULTRON.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
-__ULTRON: Unifying Local Transformer and Convolution for Large-scale Image Retrieval__  
+__ULTRON: Unifying Local Transformer and Convolution for Large-Scale Image Retrieval__  
 <span style="font-size: smaller;">__Minseong Kweon__ and __Jinsun Park__</span>  
 <span style="font-size: smaller;">*Asian Conference on Computer Vision (__ACCV__), Dec __2024__*</span>  
 <span style="color:gray;">[Paper]</span>
