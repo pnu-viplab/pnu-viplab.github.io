@@ -12,6 +12,22 @@ permalink: /publication/
 ### 2024
 
 
+![ACCV24_ULTRON_Teaser](../assets/img/publication/ACCV24_ULTRON.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__ULTRON: Unifying Local Transformer and Convolution for Large-scale Image Retrieval__  
+<span style="font-size: smaller;">__Minseong Kweon__ and __Jinsun Park__</span>  
+<span style="font-size: smaller;">*Asian Conference on Computer Vision (__ACCV__), Dec __2024__*</span>  
+<span style="color:gray;">[Paper]</span>
+<br><br><br><br>
+
+
+![ACCV24_CMCV_Teaser](../assets/img/publication/ACCV24_CMCV.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__Exploiting Cross-Modal Cost Volume for Multi-Sensor Depth Estimation__  
+<span style="font-size: smaller;">__Janghyun Kim__, Ukcheol Shin, __Seokyong Heo__, and __Jinsun Park__</span>  
+<span style="font-size: smaller;">*Asian Conference on Computer Vision (__ACCV__), Dec __2024__*</span>  
+<span style="color:gray;">[Paper]</span>
+<br><br><br><br>
+
+
 ![RAL24_ADNet_Teaser](../assets/img/publication/RAL24_ADNet.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
 __ADNet: Non-Local Affinity Distillation Network for Lightweight Depth Completion with Guidance from Missing LiDAR Points__  
 <span style="font-size: smaller;">__Janghyun Kim__, __Jeonghyun Noh__, __Mingyu Jeong__, Wonju Lee, Yeonchool Park, and __Jinsun Park__</span>  
