@@ -5,7 +5,7 @@ featured-img: 231203_PNUAI_prj
 categories: [News]
 ---
 
-![231203_PNUAI_prj](../assets/img/posts/231203_PNUAI_prj.jpg)
+![231203_PNUAI_prj](/assets/img/posts/231203_PNUAI_prj.jpg)
 
 2023년 12월 8일 부산대학교 AI대학원은 학생주도 연구프로젝트 성과발표회를 대학본부 3층 대회의실에서 개최했다.
 
