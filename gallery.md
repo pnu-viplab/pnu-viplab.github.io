@@ -186,46 +186,43 @@ permalink: /gallery/
                 <p>November 18, 2022</p>
             </div>
         </div>
-    </div>
 
-    {% raw %}
-    <div class="popup" id="popup">
-        <div class="popup-content">
-            <button class="close-btn" onclick="closePopup()">X</button>
-            <h2 id="popup-title">Title</h2>
-            <p id="popup-date">Date</p>
-            <div class="image-container" id="image-container"></div>
+        <div class="popup" id="popup">
+            <div class="popup-content">
+                <button class="close-btn" onclick="closePopup()">X</button>
+                <h2 id="popup-title">Title</h2>
+                <p id="popup-date">Date</p>
+                <div class="image-container" id="image-container"></div>
+            </div>
         </div>
-    </div>
-    {% endraw %}
-    {% raw %}
-    <script>
-        function openPopup(title, date, imgArray) {
-            document.getElementById('popup-title').textContent = title;
-            document.getElementById('popup-date').textContent = date;
-            const imageContainer = document.getElementById('image-container');
-            imageContainer.innerHTML = '';
+        <script>
+            function openPopup(title, date, imgArray) {
+                document.getElementById('popup-title').textContent = title;
+                document.getElementById('popup-date').textContent = date;
+                const imageContainer = document.getElementById('image-container');
+                imageContainer.innerHTML = '';
 
-            // add ../assets/img/gallery
-            imgArray.forEach(imgSrc => {
-                const imgElement = document.createElement('img');
-                imgElement.src = imgSrc;
-                imgElement.classList.add('popup-img');
-                imageContainer.appendChild(imgElement);
-            });
+                // add ../assets/img/gallery
+                imgArray.forEach(imgSrc => {
+                    const imgElement = document.createElement('img');
+                    imgElement.src = imgSrc;
+                    imgElement.classList.add('popup-img');
+                    imageContainer.appendChild(imgElement);
+                });
 
-            document.getElementById('popup').style.display = 'flex';
-        }
-
-        function closePopup() {
-            document.getElementById('popup').style.display = 'none';
-        }
-
-        // Esc 키로 팝업 닫기
-        document.addEventListener('keydown', function (event) {
-            if (event.key === 'Escape') {
-                closePopup();
+                document.getElementById('popup').style.display = 'flex';
             }
-        });
-    </script>
-    {% endraw %}
+
+            function closePopup() {
+                document.getElementById('popup').style.display = 'none';
+            }
+
+            // Esc 키로 팝업 닫기
+            document.addEventListener('keydown', function (event) {
+                if (event.key === 'Escape') {
+                    closePopup();
+                }
+            });
+        </script>
+
+    </div>
