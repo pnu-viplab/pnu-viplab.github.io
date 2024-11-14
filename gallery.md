@@ -188,7 +188,7 @@ permalink: /gallery/
         </div>
     </div>
 
-    <!-- Popup -->
+    {% raw %}
     <div class="popup" id="popup">
         <div class="popup-content">
             <button class="close-btn" onclick="closePopup()">X</button>
@@ -197,7 +197,8 @@ permalink: /gallery/
             <div class="image-container" id="image-container"></div>
         </div>
     </div>
-
+    {% endraw %}
+    {% raw %}
     <script>
         function openPopup(title, date, imgArray) {
             document.getElementById('popup-title').textContent = title;
@@ -227,3 +228,4 @@ permalink: /gallery/
             }
         });
     </script>
+    {% endraw %}
