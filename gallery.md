@@ -26,6 +26,16 @@ permalink: /gallery/
 
 <div class="gallery">
         <!-- ICRA@40 -->
+        <div class="gallery-item" onclick="openPopup('ICRA 2024', '날짜: 2024년 9월 23일 ~ 2023년 9월 26일', [
+                '../assets/img/gallery/2024icra1.jpg', '../assets/img/gallery/2024icra2.jpg', '../assets/img/gallery/2024icra3.jpg', '../assets/img/gallery/2024icra4.jpg',
+                '../assets/img/gallery/2024icra5.jpg', '../assets/img/gallery/2024icra6.jpg', '../assets/img/gallery/2024icra7.jpg', '../assets/img/gallery/2024icra8.jpg',
+                '../assets/img/gallery/2024icra9.jpg', '../assets/img/gallery/2024icra10.jpg', '../assets/img/gallery/2024icra11.jpg', '../assets/img/gallery/2024icra12.jpg'])">
+            <img src="../assets/img/gallery/2024icra1.jpg">
+            <div class="details">
+                <h3>ICRA 2024</h3>
+                <p>September 23, 2024 - September 26, 2024</p>
+            </div>
+        </div>
 
         <!-- 2024 졸업식 (2학기) -->
         <div class="gallery-item"
@@ -38,9 +48,9 @@ permalink: /gallery/
         </div>
 
         <!-- 2024 KCCV -->
-        <div class="gallery-item" onclick="openPopup('KCCV 2024', '날짜: 2023년 8월 12일 ~ 2023년 8월 14일', [
+        <div class="gallery-item" onclick="openPopup('KCCV 2024', '날짜: 2024년 8월 12일 ~ 2024년 8월 14일', [
                 '../assets/img/gallery/2024kccv1.jpg', '../assets/img/gallery/2024kccv2.jpg',
-                '../assets/img/gallery/2024kccv5.jpg', '../assets/img/gallery/2024kccv6.jpg', '../assets/img/gallery/2024kccv7.jpg', '../assets/img/gallery/2024kccv8.jpg'])">
+                '../assets/img/gallery/2024kccv5.jpg', '../assets/img/gallery/2024kccv7.jpg', '../assets/img/gallery/2024kccv8.jpg'])">
             <img src="../assets/img/gallery/2024kccv1.jpg">
             <div class="details">
                 <h3>KCCV 2024</h3>
@@ -50,7 +60,7 @@ permalink: /gallery/
 
         <!-- 대한전자공학회 2024 하계종합학술대회 -->
         <div class="gallery-item"
-            onclick="openPopup('대한전자공학회 2024 하계종합학술대회', '날짜: 2023년 6월 26일 ~ 2023년 6월 28일', [
+            onclick="openPopup('대한전자공학회 2024 하계종합학술대회', '날짜: 2024년 6월 26일 ~ 2024년 6월 28일', [
                 '../assets/img/gallery/2024ieie1_1.jpg', '../assets/img/gallery/2024ieie1_2.jpg', '../assets/img/gallery/2024ieie1_4.jpg',
                 '../assets/img/gallery/2024ieie1_5.jpg', '../assets/img/gallery/2024ieie1_6.jpg', '../assets/img/gallery/2024ieie1_7.jpg', '../assets/img/gallery/2024ieie1_8.jpg', '../assets/img/gallery/2024ieie1_9.jpg'])">
             <img src="../assets/img/gallery/2024ieie1_1.jpg">
@@ -61,11 +71,10 @@ permalink: /gallery/
         </div>
 
         <!-- VIP 하계 체육대회 -->
-        <div class="gallery-item" onclick="openPopup('VIP 2024 하계 체육대회', '날짜: 2023년 5월 31일', [
-                '../assets/img/gallery/2024sc1.jpg', '../assets/img/gallery/2024sc2.jpg', '../assets/img/gallery/2024sc3.jpg', '../assets/img/gallery/2024sc4.jpg', '../assets/img/gallery/2024sc5.jpg', 
-                '../assets/img/gallery/2024sc6.jpg', '../assets/img/gallery/2024sc7.jpg', '../assets/img/gallery/2024sc8.jpg', '../assets/img/gallery/2024sc9.jpg', '../assets/img/gallery/2024sc10.jpg',
-                '../assets/img/gallery/2024sc11.jpg', '../assets/img/gallery/2024sc12.jpg', '../assets/img/gallery/2024sc13.jpg', '../assets/img/gallery/2024sc14.jpg', '../assets/img/gallery/2024sc15.jpg',
-                '../assets/img/gallery/2024sc16.jpg', '../assets/img/gallery/2024sc17.jpg', '../assets/img/gallery/2024sc18.jpg'])">
+        <div class="gallery-item" onclick="openPopup('VIP 2024 하계 체육대회', '날짜: 2024년 5월 31일', [
+                '../assets/img/gallery/2024sc1.jpg', '../assets/img/gallery/2024sc2.jpg', '../assets/img/gallery/2024sc5.jpg', 
+                '../assets/img/gallery/2024sc6.jpg', '../assets/img/gallery/2024sc7.jpg', '../assets/img/gallery/2024sc8.jpg', '../assets/img/gallery/2024sc10.jpg',
+                '../assets/img/gallery/2024sc13.jpg', '../assets/img/gallery/2024sc16.jpg', '../assets/img/gallery/2024sc17.jpg', '../assets/img/gallery/2024sc18.jpg'])">
             <img src="../assets/img/gallery/2024sc1.jpg">
             <div class="details">
                 <h3>VIP 2024 하계 체육대회</h3>
@@ -88,7 +97,7 @@ permalink: /gallery/
         <!-- 제주 IPIU 2024 -->
         <div class="gallery-item" onclick="openPopup('IPIU 2024', '날짜: 2024년 1월 31일 ~ 2024년 2월 2일', [
         '../assets/img/gallery/2024ipiu1.jpg', '../assets/img/gallery/2024ipiu2.jpg', '../assets/img/gallery/2024ipiu3.jpg', '../assets/img/gallery/2024ipiu4.jpg',
-        '../assets/img/gallery/2024ipiu5.jpg', '../assets/img/gallery/2024ipiu6.jpg', '../assets/img/gallery/2024ipiu7.jpg'])">
+        '../assets/img/gallery/2024ipiu5.jpg', '../assets/img/gallery/2024ipiu6.jpg', '../assets/img/gallery/2024ipiu7.jpg', '../assets/img/gallery/2024ipiu8.jpg'])">
             <img src="../assets/img/gallery/2024ipiu1.jpg">
             <div class="details">
                 <h3>IPIU 2024</h3>
@@ -122,7 +131,7 @@ permalink: /gallery/
         <!-- 2023 KCCV -->
         <div class="gallery-item" onclick="openPopup('KCCV 2023', '날짜: 2023년 8월 7일 ~ 2023년 8월 9일', [
                 '../assets/img/gallery/2023kccv1.jpg', '../assets/img/gallery/2023kccv2.jpg', '../assets/img/gallery/2023kccv3.jpg', '../assets/img/gallery/2023kccv4.jpg',
-                '../assets/img/gallery/2023kccv5.jpg'])">
+                '../assets/img/gallery/2023kccv5.jpg', '../assets/img/gallery/2023kccv6.jpg'])">
             <img src="../assets/img/gallery/2023kccv1.jpg">
             <div class="details">
                 <h3>KCCV 2023</h3>
@@ -160,9 +169,9 @@ permalink: /gallery/
         </div>
 
         <!-- 2023 벚꽃놀이 -->
-        <div class="gallery-item" onclick="openPopup('2023 벚꽃놀이', '날짜: 2023년 3월 30일', ['../assets/img/gallery/blossom_lunch.jpg', '../assets/img/gallery/blossom_lunch2.jpg', 
-            '../assets/img/gallery/blossom.jpeg', '../assets/img/gallery/blossom2.jpeg', '../assets/img/gallery/blossom3.jpeg', '../assets/img/gallery/blossom4.jpeg', '../assets/img/gallery/blossom5.jpeg',
-            '../assets/img/gallery/blossom6.jpeg', '../assets/img/gallery/blossom7.jpeg'])">
+        <div class="gallery-item" onclick="openPopup('2023 벚꽃놀이', '날짜: 2023년 3월 30일', ['../assets/img/gallery/blossom_lunch.jpg', '../assets/img/gallery/blossom.jpeg',
+                '../assets/img/gallery/blossom2.jpeg', '../assets/img/gallery/blossom3.jpeg', '../assets/img/gallery/blossom4.jpeg', '../assets/img/gallery/blossom5.jpeg', 
+                '../assets/img/gallery/blossom6.jpeg', '../assets/img/gallery/blossom7.jpeg'])">
             <img src="../assets/img/gallery/blossom_lunch.jpg">
             <div class="details">
                 <h3>2023 벚꽃놀이</h3>
@@ -171,7 +180,7 @@ permalink: /gallery/
         </div>
 
         <!-- KSC2022 -->
-        <div class="gallery-item" onclick="openPopup('KSC 2022', '날짜: 2022년 12월 22일', ['../assets/img/gallery/IMG_6455.jpg'])">
+        <div class="gallery-item" onclick="openPopup('KSC 2022', '날짜: 2022년 12월 22일', ['../assets/img/gallery/2022ksc1.jpg', '../assets/img/gallery/2022ksc2.jpg'])">
             <img src="../assets/img/gallery/IMG_6455.jpg">
             <div class="details">
                 <h3>KSC 2022</h3>
