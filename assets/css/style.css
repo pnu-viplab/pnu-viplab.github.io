@@ -102,11 +102,9 @@ header h1 {
 }
 
 .popup-img {
-    width: 1024px;
-    height: 768px;
-    object-fit: cover; /* 이미지가 크기에 맞게 자르거나 늘어남 */
+    width: 100%;
     border-radius: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .close-btn {

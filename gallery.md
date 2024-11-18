@@ -181,7 +181,7 @@ permalink: /gallery/
 
         <!-- KSC2022 -->
         <div class="gallery-item" onclick="openPopup('KSC 2022', '날짜: 2022년 12월 22일', ['../assets/img/gallery/2022ksc1.jpg', '../assets/img/gallery/2022ksc2.jpg'])">
-            <img src="../assets/img/gallery/IMG_6455.jpg">
+            <img src="../assets/img/gallery/2022ksc1.jpg">
             <div class="details">
                 <h3>KSC 2022</h3>
                 <p>December 22, 2022</p>
