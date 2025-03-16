@@ -4,6 +4,12 @@ title: Lecture
 permalink: /lecture/
 ---
 
+## 2025 Spring
+
+[Engineering Linear Algebra (공학선형대수학, CB1501015)](https://plato.pusan.ac.kr/){:target="_blank" style="color: black; text-decoration: underline; border: none;"}  
+[Machine Learning (머신러닝, CB3500268)](https://plato.pusan.ac.kr/){:target="_blank" style="color: black; text-decoration: underline; border: none;"}  
+[Computer Software Design & Lab (소프트웨어설계및실험, CB1501020)](https://plato.pusan.ac.kr/){:target="_blank" style="color: black; text-decoration: underline; border: none;"}  
+
 ## 2024 Fall
 
 [Engineering Linear Algebra (공학선형대수학, CA2001142)](https://plato.pusan.ac.kr/){:target="_blank" style="color: black; text-decoration: underline; border: none;"}  

@@ -4,9 +4,34 @@ title: Publication
 permalink: /publication/
 ---
 
+---
 
+<br>
+
+<center><b><a href="#international-journals--conferences" style="color: black; font-size: x-large; text-decoration-line: none; border-bottom-color: black;">International Journals & Conferences</a></b></center>
+
+<center><b><a href="#other-international-publications" style="color: black; font-size: x-large; text-decoration-line: none; border-bottom-color: black;">Other International Publications</a></b></center>
+
+<center><b><a href="#domestic-publications" style="color: black; font-size: x-large; text-decoration-line: none; border-bottom-color: black;">Domestic Publications</a></b></center>
+
+<br>
+
+---
 
 ## International Journals & Conferences
+
+
+### 2025
+
+
+![ICLR25_FedOMG_Teaser](../assets/img/publication/ICLR25_FedOMG.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__Federated Domain Generalization with Data-free On-server Matching Gradient__  
+<span style="font-size: smaller;">Trong-Binh Nguyen\*, Minh-Duong Nguyen\*, __Jinsun Park__†, Quoc-Viet Pham, and Won Joo Hwang†</span>  
+<span style="font-size: smaller;">\[\* Equal Contribution\] \[† Corresponding Author\]</span>  
+<span style="font-size: smaller;">*International Conference on Learning Representations (__ICLR__), Apr __2025__*</span>  
+[\[Paper\]](https://openreview.net/forum?id=8TERgu1Lb2){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+[\[Project Page (Code)\]](https://github.com/skydvn/fedomg){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<br><br><br><br>
 
 
 ### 2024
@@ -321,7 +346,20 @@ __Accurate Depth Map Estimation from a Lenslet Light Field Camera__
 <br><br><br><br>
 
 
+---
+
 ## Other International Publications
+
+
+### 2025
+
+
+![ICEIC25_Teaser](../assets/img/publication/ICEIC25_Teaser.png){:style="float: left; margin-top: 0%; margin-bottom: 9%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__Silent Speech Recognition Framework: Knowledge Distillation of Lip Reading Using Image and Keypoint Networks__  
+<span style="font-size: smaller;">__Seongheon Ha__, __Jinwan Kim__, __Seokyong Heo__, __Minsu Jeon__, __Suhyeon Cho__, and __Jinsun Park__ </span>  
+<span style="font-size: smaller;">*International Conference on Electronics, Information, and Communication (__ICEIC__), Jan __2025__*</span>  
+<span style="color:gray;">[Paper]</span> 
+<br><br><br><br>
 
 
 ### 2018
@@ -358,13 +396,145 @@ __Single Image Depth Estimation using Convolutional Neural Networks with NCC-bas
 <br><br><br><br>
 
 
+---
+
 ## Domestic Publications
+
+
+### 2025
+
+
+<table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">초거대 언어 모델 기반 궤적 예측을 활용한 산업 안전사고 예방</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>전민수, 김진완, 박현수, 이수빈, 노정현, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>스마트미디어저널, Feb <b>2025</b></i></span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">전시물 선호도 조사를 위한 관람객 행동 데이터 수집 및 분석 연구</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>조수현, 조용현, 박현수</b>, 허남영, <b>박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>영상처리 및 이해에 관한 워크샵, Feb <b>2025</b></i></span> 
+            <span style="font-size: smaller; color:blue;"><b>[우수논문상 - 장려상]</b></span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">HSV 조정 및 앙상블 기법을 활용한 YOLO 기반의 수중 이미지 객체 탐지 성능 개선</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>한희주, 노정현</b>, 이승환, 김은호, 윤석진, <b>박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>영상처리 및 이해에 관한 워크샵, Feb <b>2025</b></i></span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">다중 어안 카메라 기반 물류창고 Top-View 파노라마 객체 추적 시스템</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>이수빈, 하현수, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>영상처리 및 이해에 관한 워크샵, Feb <b>2025</b></i></span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">적대적 공격을 활용한 Stable Diffusion 기반 딥페이크 생성 방해</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>고영민, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>영상처리 및 이해에 관한 워크샵, Feb <b>2025</b></i></span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">효율적인 어안 영상 3D Gaussian Splatting을 위한 방법 및 최적화</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>박재형, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>영상처리 및 이해에 관한 워크샵, Feb <b>2025</b></i></span>
+        </td>
+    </tr>
+</table>
+
+<br>
 
 
 ### 2024
 
 
 <table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">드론을 활용한 실시간 원격 흘수 정밀 계측 프레임워크</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>박찬일, 이승익, 노정현</b>, 최호준, 남병욱, 최영수, 윤시록, <b>박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>스마트미디어저널, Dec <b>2024</b></i></span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">KL 발산 기반의 적대적 공격을 통한 딥페이크 생성 방해</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>고영민, 박현수, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>대한전자공학회 추계학술대회, Nov <b>2024</b></i></span> 
+            <span style="font-size: smaller; color:blue;"><b>[우수학생논문상]</b></span>  
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">청각장애인을 위한 거대언어모델 기반 한국수어-자연어 대화형 프레임워크</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>하성헌, 허석용, 김진완, 전민수, 조수현</b>, 허남영, <b>박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>대한전자공학회 하계학술대회, Jun <b>2024</b></i></span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">지식 증류를 이용한 Non-Local 기반의 가벼운 깊이 추정 네트워크</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>김장현, 박찬일, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>대한전자공학회 하계학술대회, Jun <b>2024</b></i></span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">사람 재식별을 위한 자기 유사성 특징 학습</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>권민성, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>대한전자공학회 하계학술대회, Jun <b>2024</b></i></span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">뇌종양 분할을 위한 트랜스포머 기반의 다중 모달리티 지식 융합 방법</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>노정현, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>대한전자공학회 하계학술대회, Jun <b>2024</b></i></span>
+        </td>
+    </tr>
+    <!-- -->
     <tr width="100%">
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
             <span style="font-size: bigger; font-weight: bold">의미론적 분할 기반 모델을 이용한 조선소 사외 적치장 객체 자동 관리 기술</span>
