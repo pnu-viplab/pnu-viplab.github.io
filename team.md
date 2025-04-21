@@ -277,11 +277,11 @@ Prof. Jinsun Park is an assistant professor at the School of Computer Science an
 <table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
     <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <img src="../assets/img/team/heejung_jung.jpg" alt="HeeJungJung">
+            <!-- <img src="../assets/img/team/dummy.jpg" alt="Dummy"> -->
         </td>
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <span style="font-size: bigger; font-weight: bold">Heejung Jung (정희정)</span> <br>
-            <span style="font-size: smaller;">📫 </span> <br>
+            <!-- <span style="font-size: bigger; font-weight: bold"></span> <br> -->
+            <!-- <span style="font-size: smaller;">📫 </span> <br> -->
         </td>
         <!-- -->
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">

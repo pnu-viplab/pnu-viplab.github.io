@@ -24,6 +24,22 @@ permalink: /publication/
 ### 2025
 
 
+![FG25_SignLanguage_Teaser](../assets/img/publication/FG25_SignLanguage.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__Interactive Sign Language Question Answering Framework and Dataset for Barrier-Free Exhibition Service__  
+<span style="font-size: smaller;">__Seokyong Heo__, __Minsu Jeon__, __Subin Lee__, __Jinwan Kim__, __Seongheon Ha__, __Suhyeon Cho__, Namyeong Heo, and __Jinsun Park__</span>  
+<span style="font-size: smaller;">*IEEE International Conference on Automatic Face and Gesture Recognition (__FG__), May __2025__*</span>  
+<span style="color:gray;">[Paper]</span>
+<br><br><br><br>
+
+
+![EG25_NoiseGS_Teaser](../assets/img/publication/EG25_NoiseGS.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__NoiseGS: Boosting 3D Gaussian Splatting with Positional Noise for Large-Scale Scene Rendering__  
+<span style="font-size: smaller;">__Minseong Kweon__ and __Jinsun Park__</span>  
+<span style="font-size: smaller;">*Eurographics (Short Paper), May __2025__*</span>  
+<span style="color:gray;">[Paper]</span>
+<br><br><br><br>
+
+
 ![ICLR25_FedOMG_Teaser](../assets/img/publication/ICLR25_FedOMG.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
 __Federated Domain Generalization with Data-free On-server Matching Gradient__  
 <span style="font-size: smaller;">Trong-Binh Nguyen\*, Minh-Duong Nguyen\*, __Jinsun Park__†, Quoc-Viet Pham, and Won Joo Hwang†</span>  
@@ -346,6 +362,11 @@ __Accurate Depth Map Estimation from a Lenslet Light Field Camera__
 <br><br><br><br>
 
 
+<center><b><a href="#" style="color: black; font-size: large; text-decoration-line: none; border-bottom-color: black;">To The Top</a></b></center>
+
+<br>
+
+
 ---
 
 ## Other International Publications
@@ -394,6 +415,11 @@ __Single Image Depth Estimation using Convolutional Neural Networks with NCC-bas
 <!-- <span style="color:gray;">[Paper] [Bibtex]</span> -->
 <span style="color:gray;">[Paper]</span>
 <br><br><br><br>
+
+
+<center><b><a href="#" style="color: black; font-size: large; text-decoration-line: none; border-bottom-color: black;">To The Top</a></b></center>
+
+<br>
 
 
 ---
@@ -631,3 +657,8 @@ __Single Image Depth Estimation using Convolutional Neural Networks with NCC-bas
         </td>
     </tr>
 </table>
+
+
+<center><b><a href="#" style="color: black; font-size: large; text-decoration-line: none; border-bottom-color: black;">To The Top</a></b></center>
+
+<br>
