@@ -64,37 +64,28 @@ layout: compress
           <div class="pagination">
             {% if paginator.total_pages > 1 %}
 
-              {% assign idx_start = paginator.page | minus: 5 %}
-              {% if idx_start < 1 %}
-                {% assign idx_start = 1 %}
-              {% endif %}
-
-              {% assign idx_end = idx_start | plus: 9 %}
-              {% if idx_end > paginator.total_pages %}
-                {% assign idx_end = paginator.total_pages %}
-              {% endif %}
-
               {% if paginator.previous_page %}
-                <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a> &nbsp;
+                <button onclick="location.href='{{ paginator.previous_page_path | relative_url }}'">Prev</button>
               {% else %}
-                <a>&laquo; Prev</a> &nbsp;
+                <button disabled>Prev</button>
               {% endif %}
-            
-              {% for page in (idx_start..idx_end) %}
+
+              {% for page in (1..paginator.total_pages) %}
                 {% if page == paginator.page %}
-                  <em><a>{{ page }}</a></em> &nbsp;
+                  <button class="active" disabled>{{ page }}</button>
                 {% elsif page == 1 %}
-                  <a href="{{ '/' | relative_url }}">{{ page }}</a> &nbsp;
+                  <button onclick="location.href='{{ '/' | relative_url }}'">{{ page }}</button>
                 {% else %}
-                  <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a> &nbsp;
+                  <button onclick="location.href='{{ site.paginate_path | relative_url | replace: ':num', page }}'">{{ page }}</button>
                 {% endif %}
               {% endfor %}
-            
+
               {% if paginator.next_page %}
-                <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+                <button onclick="location.href='{{ paginator.next_page_path | relative_url }}'">Next</button>
               {% else %}
-                <a>Next &raquo;</a>
+                <button disabled>Next</button>
               {% endif %}
+
             {% endif %}
           </div>
 
@@ -106,6 +97,42 @@ layout: compress
 
     {% include footer.html %}
 
-  </body>
+  <style>
+  .pagination {
+    margin: 40px auto 0;
+    text-align: center;
+  }
 
+  .pagination button {
+    display: inline-block;
+    margin: 0 5px;
+    padding: 6px 14px;
+    font-size: 15px;
+    border: 1px solid #333;
+    background: transparent;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: all 0.25s ease;
+  }
+
+  .pagination button:hover {
+    background: #333;
+    color: #fff;
+  }
+
+  .pagination button:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+
+  .pagination button.active {
+    background: #333;
+    color: #fff;
+    cursor: default;
+  }
+  </style>
+
+  {% include card-style.html %}
+
+  </body>
 </html>

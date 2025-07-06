@@ -1,0 +1,153 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+
+{% include head.html %}
+
+<body class="site">
+
+{% if site.google_tag_manager %}
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+{% endif %}
+
+{% include header.html %}
+
+{% assign this_item = site.data.gallery | where: "slug", page.slug | first %}
+
+<div class="hero dark-bg">
+  <div class="hero__wrap">
+    <h1 class="hero__titlepost">{{ page.title }}</h1>
+      <p class="hero__meta">
+        <span>
+          {% if this_item.start_date and this_item.end_date %}
+            <time>
+              {{ this_item.start_date | date: "%Y-%m-%d" }} ~ {{ this_item.end_date | date: "%Y-%m-%d" }}
+            </time>
+          {% elsif this_item.date %}
+            <time>
+              {{ this_item.date | date: "%Y-%m-%d" }}
+            </time>
+          {% endif %}
+        </span>
+      </p>
+  </div>
+</div>
+
+<main class="site__content">
+  <div class="container">
+    <article class="post-content" itemprop="articleBody">
+      {% assign this_item = site.data.gallery | where: "slug", page.slug | first %}
+
+      {% if this_item.images.size > 1 %}
+        <div class="gallery-detail-grid">
+          {% for img in this_item.images %}
+            <img src="{{ img }}" alt="">
+          {% endfor %}
+        </div>
+      {% elsif this_item.images.size == 1 %}
+        <div class="gallery-detail-single">
+          <img src="{{ this_item.images[0] }}" alt="">
+        </div>
+      {% endif %}
+
+      <div class="gallery-detail-description">
+        {% if this_item.description %}
+          <p>{{ this_item.description | markdownify }}</p>
+        {% endif %}
+      </div>
+    </article>
+
+      <div class="post-content controls__inner">
+        <div class="controls__item next">
+          {% if page.next.url %}
+          <span>Newer</span>
+          <a href="{{page.next.url | relative_url }}">
+            <span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="6" height="11">
+                <path fill="fillColor" d="M5.647 1.718c.37-.434.323-1.09-.106-1.465A1.016 1.016 0 0 0 4.095.36L.25 4.875a1.05 1.05 0 0 0 .017 1.378l3.95 4.407c.38.424 1.03.456 1.448.07a1.05 1.05 0 0 0 .07-1.468l-3.34-3.725 3.253-3.819z"/>
+              </svg>
+            </span>
+            {{page.next.title | strip_html | truncate: 30}}
+          </a>
+          {% endif %}
+        </div>
+
+        <div class="controls__item prev">
+          {% if page.previous.url %}
+
+          <span>Older</span>
+          <a href="{{page.previous.url | relative_url }}">
+            {{page.previous.title | strip_html | truncate: 30}}
+            <span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="6" height="11">
+                <path fill="#fillColor" d="M.353 9.282c-.37.434-.323 1.09.106 1.465a1.016 1.016 0 0 0 1.446-.107L5.75 6.125a1.05 1.05 0 0 0-.017-1.378L1.784.34A1.015 1.015 0 0 0 .336.27a1.05 1.05 0 0 0-.07 1.468l3.34 3.725L.353 9.282z"/>
+              </svg>
+            </span>
+          </a>
+          {% endif %}
+        </div>
+
+      </div>
+      
+  </div>
+
+  <!-- {% if site.disqus.shortname %}
+  <div class="comments">
+    <div class="container">
+      <div class="post-content">
+        {% include disqus.html %}
+      </div>
+    </div>
+  </div>
+  {% endif %} -->
+</main>
+
+{% include footer.html %}
+{% include mathjax.html %}
+
+<style>
+  .gallery-detail-description {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    margin-bottom: 40px;
+  }
+
+  .gallery-detail-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    margin-bottom: 50px;
+  }
+
+  .gallery-detail-grid img {
+    display: block;
+    margin: 0 auto;
+    justify-self: center;
+    align-self: center;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
+
+  .gallery-detail-single {
+    text-align: center; /* 부모가 inline-block 요소 가로 중앙 정렬 */
+    margin: 30px 0;
+  }
+
+  .gallery-detail-single img {
+    display: inline-block;  /* center에서 가로 중앙 */
+    max-width: 80%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
+</style>
+
+</body>
+</html>

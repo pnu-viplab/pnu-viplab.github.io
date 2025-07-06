@@ -38,7 +38,7 @@ Prof. Jinsun Park is an assistant professor at the School of Computer Science an
             <img src="../assets/img/team/janghyun_kim.jpg" alt="JanghyunKim">
         </td>
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <span style="font-size: bigger; font-weight: bold">Janghyun Kim (김장현) 👑</span> <br>
+            <span style="font-size: bigger; font-weight: bold">Janghyun Kim (김장현)</span> <br>
             <span style="font-size: smaller;">📫 jangjoa4497_at_gmail.com</span> <br>
             <span style="font-size: smaller;">🔎 Depth Perception & Multi-Sensor Fusion</span>
         </td>
@@ -47,7 +47,7 @@ Prof. Jinsun Park is an assistant professor at the School of Computer Science an
             <img src="../assets/img/team/yonghyeon_jo.jpg" alt="YonghyeonJo">
         </td>
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <span style="font-size: bigger; font-weight: bold">Yong Hyeon Jo (조용현)</span> <br>
+            <span style="font-size: bigger; font-weight: bold">Yong Hyeon Jo (조용현) 👑</span> <br>
             <span style="font-size: smaller;">📫 av1483110_at_gmail.com</span> <br>
             <span style="font-size: smaller;">🔎 Vision-Language Model</span>
         </td>
@@ -235,12 +235,32 @@ Prof. Jinsun Park is an assistant professor at the School of Computer Science an
         </td>
         <!-- -->
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/yohwan_lee.jpg" alt="YoHwanLee">
+        </td>
+        <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <span style="font-size: bigger; font-weight: bold">YoHwan Lee (이요환)</span> <br>
+            <span style="font-size: smaller;">📫 leeyowwback1919_at_pusan.ac.kr</span> <br>
+            <span style="font-size: smaller;">🔎 Computer Vision</span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+        <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <img src="../assets/img/team/ajeong_kim.jpg" alt="AJeongKim">
+        </td>
+        <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
+            <span style="font-size: bigger; font-weight: bold">AJeong Kim (김아정)</span> <br>
+            <span style="font-size: smaller;">📫 jeonk636_at_pusan.ac.kr</span> <br>
+            <span style="font-size: smaller;">🔎 Computer Vision</span>
+        </td>
+        <!-- -->
+        <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <!-- <img src="../assets/img/team/dummy.jpg" alt="Dummy"> -->
         </td>
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <!-- <span style="font-size: bigger; font-weight: bold"></span> <br>
-            <span style="font-size: smaller;">📫 </span> <br>
-            <span style="font-size: smaller;">🔎 </span> -->
+            <!-- <span style="font-size: bigger; font-weight: bold"></span> <br> -->
+            <!-- <span style="font-size: smaller;">📫 </span> <br> -->
+            <!-- <span style="font-size: smaller;">🔎 </span> -->
         </td>
     </tr>
 </table>
@@ -277,11 +297,11 @@ Prof. Jinsun Park is an assistant professor at the School of Computer Science an
 <table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
     <tr style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <!-- <img src="../assets/img/team/dummy.jpg" alt="Dummy"> -->
+            <img src="../assets/img/team/dummy.jpg" alt="HyeSoonYang">
         </td>
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <!-- <span style="font-size: bigger; font-weight: bold"></span> <br> -->
-            <!-- <span style="font-size: smaller;">📫 </span> <br> -->
+            <span style="font-size: bigger; font-weight: bold">Hye Soon Yang (양혜순)</span> <br>
+            <span style="font-size: smaller;">📫 yangyi77_at_pusan.ac.kr</span> <br>
         </td>
         <!-- -->
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">

@@ -433,6 +433,26 @@ __Single Image Depth Estimation using Convolutional Neural Networks with NCC-bas
 <table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
     <tr width="100%">
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">Superpixel을 이용한 카메라-라이다 외부 파라미터 캘리브레이션</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>김진완, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>대한전자공학회 하계학술대회, Jun <b>2025</b></i></span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">가상 체커보드를 활용한 Omnidirectional 카메라의 COLMAP 대응 왜곡 모델 근사 기법</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>박현수, 박재형, 고영민, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>대한전자공학회 하계학술대회, Jun <b>2025</b></i></span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
             <span style="font-size: bigger; font-weight: bold">초거대 언어 모델 기반 궤적 예측을 활용한 산업 안전사고 예방</span>
         </td>
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">

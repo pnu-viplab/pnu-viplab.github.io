@@ -88,6 +88,8 @@
   position: relative;
   overflow: hidden;
   height: 2.5em;
+  outline: none;
+  border-bottom: 0;
 
   &::after {
     content: "";
@@ -114,6 +116,8 @@
   position: relative;
   overflow: hidden;
   width: 100%;
+  outline: none;
+  border-bottom: 0;
 
   &::after {
     content: "";

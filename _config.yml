@@ -64,9 +64,15 @@ exclude:
   - npm-debug.log
   - gulpfile.js
   - sleek.jpg
+  - etc
 
 # include: ['_pages']
 # permalink: /:title/
+
+collections:
+  gallery:
+    output: true
+    permalink: /gallery/:name/
 
 compress_html:
   clippings: all

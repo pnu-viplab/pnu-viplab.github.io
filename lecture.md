@@ -4,6 +4,12 @@ title: Lecture
 permalink: /lecture/
 ---
 
+## 2025 Fall
+
+[Engineering Linear Algebra (공학선형대수학, CA2001142)](https://plato.pusan.ac.kr/){:target="_blank" style="color: black; text-decoration: underline; border: none;"}  
+[Artificial Intelligence for Autonomous Vehicles (자율이동체인공지능, AI6001422)](https://plato.pusan.ac.kr/){:target="_blank" style="color: black; text-decoration: underline; border: none;"}  
+[AI - Machine Learning and Deep Learning (인공지능-머신러닝,딥러닝, IC7400388)](https://plato.pusan.ac.kr/){:target="_blank" style="color: black; text-decoration: underline; border: none;"}  
+
 ## 2025 Spring
 
 [Engineering Linear Algebra (공학선형대수학, CB1501015)](https://plato.pusan.ac.kr/){:target="_blank" style="color: black; text-decoration: underline; border: none;"}  
