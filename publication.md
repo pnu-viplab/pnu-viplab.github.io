@@ -36,7 +36,7 @@ __Interactive Sign Language Question Answering Framework and Dataset for Barrier
 __NoiseGS: Boosting 3D Gaussian Splatting with Positional Noise for Large-Scale Scene Rendering__  
 <span style="font-size: smaller;">__Minseong Kweon__ and __Jinsun Park__</span>  
 <span style="font-size: smaller;">*Eurographics (Short Paper), May __2025__*</span>  
-<span style="color:gray;">[Paper]</span>
+[\[Paper\]](https://diglib.eg.org/items/b8ace7bb-2b2c-4b30-a3e5-d37265fcfb0d){:target="_blank" style="color: black; text-decoration: underline; border: none"}
 <br><br><br><br>
 
 
@@ -57,7 +57,7 @@ __Federated Domain Generalization with Data-free On-server Matching Gradient__
 __ULTRON: Unifying Local Transformer and Convolution for Large-Scale Image Retrieval__  
 <span style="font-size: smaller;">__Minseong Kweon__ and __Jinsun Park__</span>  
 <span style="font-size: smaller;">*Asian Conference on Computer Vision (__ACCV__), Dec __2024__*</span>  
-<span style="color:gray;">[Paper]</span>
+[\[Paper\]](https://openaccess.thecvf.com/content/ACCV2024/html/Kweon_ULTRON_Unifying_Local_Transformer_and_Convolution_for_Large-scale_Image_Retrieval_ACCV_2024_paper.html){:target="_blank" style="color: black; text-decoration: underline; border: none"}
 <br><br><br><br>
 
 
@@ -65,7 +65,7 @@ __ULTRON: Unifying Local Transformer and Convolution for Large-Scale Image Retri
 __Exploiting Cross-Modal Cost Volume for Multi-Sensor Depth Estimation__  
 <span style="font-size: smaller;">__Janghyun Kim__, Ukcheol Shin, __Seokyong Heo__, and __Jinsun Park__</span>  
 <span style="font-size: smaller;">*Asian Conference on Computer Vision (__ACCV__), Dec __2024__*</span>  
-<span style="color:gray;">[Paper]</span>
+[\[Paper\]](https://openaccess.thecvf.com/content/ACCV2024/html/Kim_Exploiting_Cross-modal_Cost_Volume_for_Multi-sensor_Depth_Estimation_ACCV_2024_paper.html){:target="_blank" style="color: black; text-decoration: underline; border: none"}
 <br><br><br><br>
 
 
