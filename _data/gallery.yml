@@ -1,3 +1,22 @@
+- title: 2025 후기 졸업식
+  slug: 250822-graduation
+  date: 2025-08-22
+  description: 
+  images:
+    - "/assets/img/gallery/250822_graduation_01.jpg"
+    - "/assets/img/gallery/250822_graduation_02.jpg"
+  videos: []
+
+- title: 2025 KCCV
+  slug: 250804-250806-kccv
+  start_date: 2025-08-04
+  end_date: 2025-08-06
+  description: 
+  images:
+    - "/assets/img/gallery/250804_250806_kccv_01.jpg"
+    - "/assets/img/gallery/250804_250806_kccv_02.jpg"
+  videos: []
+
 - title: 2025 대한전자공학회 하계종합학술대회
   slug: 250624-250627-ieie
   start_date: 2025-06-24
@@ -61,7 +80,7 @@
     - "/assets/img/gallery/250404_cherryblossom.jpg"
   videos: []
 
-- title: 2025 졸업식
+- title: 2025 전기 졸업식
   slug: 250228-graduation
   date: 2025-02-28
   description: 
@@ -237,7 +256,7 @@
     - "/assets/img/gallery/240312_signlanguage_kickoff.jpg"
   videos: []
 
-- title: 2024 졸업식
+- title: 2024 전기 졸업식
   slug: 240223-graduation
   date: 2024-02-23
   description: 

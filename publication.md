@@ -24,6 +24,22 @@ permalink: /publication/
 ### 2025
 
 
+![ACMMM25_BACGCN_Teaser](../assets/img/publication/ACMMM25_BACGCN.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__BAC-GCN: Background-Aware CLIP-GCN Framework for Unsupervised Multi-Label Classification__  
+<span style="font-size: smaller;">__Yonghyeon Jo__, __Janghyun Kim__, and __Jinsun Park__</span>  
+<span style="font-size: smaller;">*ACM International Conference on Multimedia (__ACM MM__), Oct __2025__*</span>  
+<span style="color:gray;">[Paper]</span>
+<br><br><br><br>
+
+
+![PRL25_DIN_Teaser](../assets/img/publication/PRL25_DIN.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__Dual Interaction Network with Cross-Image Attention for Medical Image Segmentation__  
+<span style="font-size: smaller;">__Jeonghyun Noh__, Wangsu Jeon, and __Jinsun Park__</span>  
+<span style="font-size: smaller;">*Pattern Recognition Letters (__PRL__), Aug __2025__*</span>  
+[\[Paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0167865525002946?via%3Dihub){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<br><br><br><br>
+
+
 ![FG25_SignLanguage_Teaser](../assets/img/publication/FG25_SignLanguage.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
 __Interactive Sign Language Question Answering Framework and Dataset for Barrier-Free Exhibition Service__  
 <span style="font-size: smaller;">__Seokyong Heo__, __Minsu Jeon__, __Subin Lee__, __Jinwan Kim__, __Seongheon Ha__, __Suhyeon Cho__, Namyeong Heo, and __Jinsun Park__</span>  
