@@ -74,6 +74,10 @@ collections:
     output: true
     permalink: /gallery/:name/
 
+  research:
+    output: true
+    permalink: /research/:name/
+
 compress_html:
   clippings: all
 

@@ -44,7 +44,7 @@ __Dual Interaction Network with Cross-Image Attention for Medical Image Segmenta
 __Interactive Sign Language Question Answering Framework and Dataset for Barrier-Free Exhibition Service__  
 <span style="font-size: smaller;">__Seokyong Heo__, __Minsu Jeon__, __Subin Lee__, __Jinwan Kim__, __Seongheon Ha__, __Suhyeon Cho__, Namyeong Heo, and __Jinsun Park__</span>  
 <span style="font-size: smaller;">*IEEE International Conference on Automatic Face and Gesture Recognition (__FG__), May __2025__*</span>  
-<span style="color:gray;">[Paper]</span>
+[\[Paper\]](https://ieeexplore.ieee.org/document/11099406){:target="_blank" style="color: black; text-decoration: underline; border: none"}
 <br><br><br><br>
 
 
