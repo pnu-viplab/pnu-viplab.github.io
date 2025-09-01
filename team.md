@@ -170,7 +170,7 @@ Prof. Jinsun Park is an associate professor at the School of Computer Science an
         </td>
         <!-- -->
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <img src="../assets/img/team/dummy.jpg" alt="JaeseongHeo">
+            <img src="../assets/img/team/jaeseong_heo.jpg" alt="JaeseongHeo">
         </td>
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
             <span style="font-size: bigger; font-weight: bold">Jaeseong Heo (허재성)</span> <br>
