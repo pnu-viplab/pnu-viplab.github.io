@@ -270,7 +270,7 @@ Prof. Jinsun Park is an associate professor at the School of Computer Science an
             <img src="../assets/img/team/dummy.jpg" alt="Dummy">
         </td>
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <span style="font-size: bigger; font-weight: bold">Sooyoung Cho (조수영)</span> <br>
+            <span style="font-size: bigger; font-weight: bold">Suyoung Cho (조수영)</span> <br>
             <span style="font-size: smaller;">📫 </span> <br>
             <span style="font-size: smaller;">🔎 Computer Vision</span>
         </td>
