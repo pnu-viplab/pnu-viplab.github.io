@@ -50,7 +50,7 @@ __Interactive Sign Language Question Answering Framework and Dataset for Barrier
 
 ![EG25_NoiseGS_Teaser](../assets/img/publication/EG25_NoiseGS.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
 __NoiseGS: Boosting 3D Gaussian Splatting with Positional Noise for Large-Scale Scene Rendering__  
-<span style="font-size: smaller;">__Minseong Kweon__ and __Jinsun Park__</span>  
+<span style="font-size: smaller;">__Minseong Kweon__, Kai Cheng, Xuejin Chen, and __Jinsun Park__</span>  
 <span style="font-size: smaller;">*Eurographics (Short Paper), May __2025__*</span>  
 [\[Paper\]](https://diglib.eg.org/items/b8ace7bb-2b2c-4b30-a3e5-d37265fcfb0d){:target="_blank" style="color: black; text-decoration: underline; border: none"}
 <br><br><br><br>
