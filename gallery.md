@@ -88,7 +88,7 @@ function renderGallery() {
 
     gallery.appendChild(card);
 
-    new Swiper(`.${swiperId}`, {
+    const swiper = new Swiper(`.${swiperId}`, {
       loop: true,
       autoplay: { delay: 2000 },
       navigation: {
@@ -96,6 +96,14 @@ function renderGallery() {
         prevEl: `.${swiperId} .swiper-button-prev`,
       },
     });
+
+    const nextEl = document.querySelector(`.${swiperId} .swiper-button-next`);
+    const prevEl = document.querySelector(`.${swiperId} .swiper-button-prev`);
+
+    if (nextEl && prevEl) {
+      nextEl.innerHTML = '<i class="fas fa-chevron-right"></i>';
+      prevEl.innerHTML = '<i class="fas fa-chevron-left"></i>';
+    }
   });
 
   const pagination = document.querySelector('.pagination-controls');

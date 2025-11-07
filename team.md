@@ -276,12 +276,12 @@ Prof. Jinsun Park is an associate professor at the School of Computer Science an
         </td>
         <!-- -->
         <td width="12%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <!-- <img src="../assets/img/team/dummy.jpg" alt="Dummy"> -->
+            <img src="../assets/img/team/daehan_yoon.jpg" alt="DaehanYoon">
         </td>
         <td width="38%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
-            <!-- <span style="font-size: bigger; font-weight: bold"></span> <br> -->
-            <!-- <span style="font-size: smaller;">📫 </span> <br> -->
-            <!-- <span style="font-size: smaller;">🔎 </span> -->
+            <span style="font-size: bigger; font-weight: bold">DaeHan Yoon (윤대한)</span> <br>
+            <span style="font-size: smaller;">📫 </span> <br>
+            <span style="font-size: smaller;">🔎 Computer Vision</span>
         </td>
     </tr>
 </table>

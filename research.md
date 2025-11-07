@@ -84,7 +84,7 @@ function renderResearch() {
 
     research.appendChild(card);
 
-    new Swiper(`.${swiperId}`, {
+    const swiper = new Swiper(`.${swiperId}`, {
       loop: true,
       autoplay: { delay: 2000 },
       navigation: {
@@ -92,6 +92,14 @@ function renderResearch() {
         prevEl: `.${swiperId} .swiper-button-prev`,
       },
     });
+
+    const nextEl = document.querySelector(`.${swiperId} .swiper-button-next`);
+    const prevEl = document.querySelector(`.${swiperId} .swiper-button-prev`);
+
+    if (nextEl && prevEl) {
+      nextEl.innerHTML = '<i class="fas fa-chevron-right"></i>';
+      prevEl.innerHTML = '<i class="fas fa-chevron-left"></i>';
+    }
   });
 
   const pagination = document.querySelector('.pagination-controls');
@@ -141,22 +149,5 @@ function renderResearch() {
 
 renderResearch();
 </script>
-
-<style>
-.card .swiper {
-  /* width: 100%; */
-  height: auto;  // Swiper will fit content
-  border-radius: 12px 12px 0 0;
-  overflow: hidden;
-  background: #f7f7f7;
-}
-.card .swiper-slide img {
-  /* width: 100%; */
-  height: auto;
-  max-height: 220px; /* 최대 높이 제한 */
-  display: block;
-  object-fit: contain;
-}
-</style>
 
 {% include card-style.html %}

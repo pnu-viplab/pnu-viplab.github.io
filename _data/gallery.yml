@@ -1,3 +1,47 @@
+- title: 2025 VIPLab 추계 체육대회
+  slug: 251107-sportsday
+  date: 2025-11-07
+  description: 
+  images:
+    - "/assets/img/gallery/251107_sportsday_01.jpg"
+    - "/assets/img/gallery/251107_sportsday_02.jpg"
+    - "/assets/img/gallery/251107_sportsday_03.jpg"
+    - "/assets/img/gallery/251107_sportsday_04.jpg"
+  videos: []
+
+- title: 2025 ACM MM & TCD Visit
+  slug: 251027-251031-acmmm-tcd
+  start_date: 2025-10-27
+  end_date: 2025-10-31
+  description: 
+  images:
+    - "/assets/img/gallery/251027_251031_acmmm_tcd_01.jpg"
+    - "/assets/img/gallery/251027_251031_acmmm_tcd_02.jpg"
+    - "/assets/img/gallery/251027_251031_acmmm_tcd_03.jpg"
+    - "/assets/img/gallery/251027_251031_acmmm_tcd_04.jpg"
+    - "/assets/img/gallery/251027_251031_acmmm_tcd_05.jpg"
+    - "/assets/img/gallery/251027_251031_acmmm_tcd_06.jpg"
+    - "/assets/img/gallery/251027_251031_acmmm_tcd_07.jpg"
+    - "/assets/img/gallery/251027_251031_acmmm_tcd_08.jpg"
+    - "/assets/img/gallery/251027_251031_acmmm_tcd_09.jpg"
+    - "/assets/img/gallery/251027_251031_acmmm_tcd_10.jpg"
+    - "/assets/img/gallery/251027_251031_acmmm_tcd_11.jpg"
+    - "/assets/img/gallery/251027_251031_acmmm_tcd_12.jpg"
+    - "/assets/img/gallery/251027_251031_acmmm_tcd_13.jpg"
+    - "/assets/img/gallery/251027_251031_acmmm_tcd_14.jpg"
+  videos: []
+
+- title: 2025 인공지능신호처리 학술대회
+  slug: 250925-250926-aisp
+  start_date: 2025-09-25
+  end_date: 2025-09-26
+  description: 
+  images:
+    - "/assets/img/gallery/250925_250926_aisp_01.jpg"
+    - "/assets/img/gallery/250925_250926_aisp_02.jpg"
+    - "/assets/img/gallery/250925_250926_aisp_03.jpg"
+  videos: []
+
 - title: 2025 후기 졸업식
   slug: 250822-graduation
   date: 2025-08-22
