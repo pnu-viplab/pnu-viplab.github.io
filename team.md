@@ -417,7 +417,7 @@ Prof. Jinsun Park is an associate professor at the School of Computer Science an
             <span style="font-size: smaller; font-weight: bold">Yerin Nam (남예린)</span> <br>
             <span style="font-size: smaller;">📅 2024.02. (M.S.)</span> <br>
             <span style="font-size: smaller;">📫 nyr10_at_pusan.ac.kr</span> <br>
-            <!-- <span style="font-size: smaller;">💼 </span> <br>-->
+            <span style="font-size: smaller;">💼 올포랜드</span> <br>
         </td>
         <!-- -->
         <td width="10%" style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
