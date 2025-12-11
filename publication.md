@@ -469,6 +469,46 @@ __Single Image Depth Estimation using Convolutional Neural Networks with NCC-bas
 <table style="border-left: none; border-right: none; border-top: none; border-bottom: none;">
     <tr width="100%">
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">부위별 의미적 속성을 이용한 키포인트 기반 개인 재식별</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>이수빈, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>전자공학회논문지, Dec <b>2025</b></i></span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">야간 스마트 야드 안전 관리를 위한 저조도 데이터 증강 기반 객체 탐지 연구</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>고영민, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>전자공학회논문지, Nov <b>2025</b></i></span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">확산 모델의 무단 미세조정에 대한 텍스처 기반 맞춤화 방어 기법</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>고영민, 박현수, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>유비쿼터스 컴퓨팅과 웹 정보기술 (UCWIT), Nov <b>2025</b></i></span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
+            <span style="font-size: bigger; font-weight: bold">배경 오분류 방지를 위한 어류 객체 검출</span>
+        </td>
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
+            <span style="font-size: smaller;"><b>조용현, 한희주, 박진선</b></span> <br>
+            <span style="font-size: smaller;"><i>유비쿼터스 컴퓨팅과 웹 정보기술 (UCWIT), Nov <b>2025</b></i></span>
+        </td>
+    </tr>
+    <!-- -->
+    <tr width="100%">
+        <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: left; vertical-align: top;">
             <span style="font-size: bigger; font-weight: bold">Superpixel을 이용한 카메라-라이다 외부 파라미터 캘리브레이션</span>
         </td>
         <td width="50%" style="border-left: none; border-right: none; border-top: none; border-bottom: none; text-align: right; vertical-align: top;">
