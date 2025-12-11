@@ -6,7 +6,7 @@ permalink: /contact/
 
 ### Address
 
-Room 307, Bldg. 313, Pusan National University  
+Room 616, IT Bldg. (102), Pusan National University  
 2, Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan, 46241, Republic of Korea
 
 ### E-Mail
@@ -19,4 +19,4 @@ _jspark_at_pusan.ac.kr_
 
 ### Map
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3017.3019842814765!2d129.08152957463986!3d35.2346995421512!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356893ee0cc5769f%3A0xdad48b3aaa7295d8!2zQnVzYW4sIEphbmdqZW9uIDIoaSktZG9uZywg67aA7IKw64yA7ZWZ6rWQIOyekOyXsOuMgOyXsOq1rOyLpO2XmOuPmQ!5e0!3m2!1sen!2skr!4v1632555350463!5m2!1sen!2skr" style="border: 0; width: 100%; height: 40rem" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d342.5627290976417!2d129.08321776497453!3d35.23076565728129!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sko!2skr!4v1765467093631!5m2!1sko!2skr" style="border: 0; width: 100%; height: 40rem" allowfullscreen="" loading="lazy"></iframe>
