@@ -19,4 +19,4 @@ _jspark_at_pusan.ac.kr_
 
 ### Map
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d342.5627290976417!2d129.08321776497453!3d35.23076565728129!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sko!2skr!4v1765467093631!5m2!1sko!2skr" style="border: 0; width: 100%; height: 40rem" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1370.250902458065!2d129.08301932258766!3d35.23076648219285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sko!2skr!4v1765467369994!5m2!1sko!2skr" style="border: 0; width: 100%; height: 40rem" allowfullscreen="" loading="lazy"></iframe>
