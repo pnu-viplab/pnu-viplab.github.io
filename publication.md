@@ -47,7 +47,8 @@ __CAR-Stereo: Confidence-aware Adaptive Disparity Refinement for Real-time Stere
 __BAC-GCN: Background-Aware CLIP-GCN Framework for Unsupervised Multi-Label Classification__  
 <span style="font-size: smaller;">__Yonghyeon Jo__, __Janghyun Kim__, and __Jinsun Park__</span>  
 <span style="font-size: smaller;">*ACM International Conference on Multimedia (__ACM MM__), Oct __2025__*</span>  
-<span style="color:gray;">[Paper]</span>
+[\[Paper\]](https://dl.acm.org/doi/10.1145/3746027.3755253){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+[\[Project Page (Code)\]](https://github.com/yonghyeonjo46/BAC-GCN){:target="_blank" style="color: black; text-decoration: underline; border: none"}
 <br><br><br><br>
 
 
