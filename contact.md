@@ -6,7 +6,7 @@ permalink: /contact/
 
 ### Address
 
-Room 616, IT Bldg. (102), Pusan National University  
+Room 616, IT Bldg. (Bldg. 102), Pusan National University  
 2, Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan, 46241, Republic of Korea
 
 ### E-Mail
