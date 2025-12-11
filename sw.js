@@ -209,6 +209,12 @@ self.addEventListener('activate', function(event) {
 
 self.addEventListener('fetch', function(event) {
   if (event.request.method === 'GET') {
+    // [추가] HTML 페이지 로딩(탭을 여는 navigation 요청)은
+    // 서비스워커가 관여하지 않고 브라우저가 직접 네트워크로 처리하도록 함.
+    if (event.request.mode === 'navigate') {
+      return;  // event.respondWith()를 호출하지 않으면, 기본 네트워크 경로 사용
+    }
+
     // Should we call event.respondWith() inside this fetch event handler?
     // This needs to be determined synchronously, which will give other fetch
     // handlers a chance to handle the request if need be.
