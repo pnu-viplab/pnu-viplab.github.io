@@ -89,3 +89,4 @@ plugins:
 paginate: 7
 
 paginate_path: "/:num/"
+
