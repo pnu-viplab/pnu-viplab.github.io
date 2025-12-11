@@ -21,6 +21,25 @@ permalink: /publication/
 ## International Journals & Conferences
 
 
+### 2026
+
+
+![AAAI26_OceanSplat_Teaser](../assets/img/publication/AAAI26_OceanSplat.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction__  
+<span style="font-size: smaller;">__Minseong Kweon__ and __Jinsun Park__</span>  
+<span style="font-size: smaller;">*AAAI Conference on Artificial Intelligence (__AAAI__), Jan __2026__*</span>  
+<span style="color:gray;">[Paper]</span>
+<br><br><br><br>
+
+
+![RAL26_CARStereo_Teaser](../assets/img/publication/RAL26_CARStereo.png){:style="float: left; margin-top: 0%; margin-bottom: 5%; margin-right: 2%; width: 25%; min-width: 150px;"}
+__CAR-Stereo: Confidence-aware Adaptive Disparity Refinement for Real-time Stereo Matching__  
+<span style="font-size: smaller;">__Chanill Park__, __Janghyun Kim__, __Minseong Kweon__, and __Jinsun Park__</span>  
+<span style="font-size: smaller;">*IEEE Robotics and Automation Letters (__RAL__), Jan __2026__*</span>  
+[\[Paper\]](https://ieeexplore.ieee.org/document/11260640){:target="_blank" style="color: black; text-decoration: underline; border: none"}
+<br><br><br><br>
+
+
 ### 2025
 
 
