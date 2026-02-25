@@ -2,11 +2,16 @@
 title: 한국 수어 인식 기술 및 LLM 기반 한국어-한국수어 대화형 안내 서비스 구축
 layout: post
 slug: 0008-sign-language
+images:
+  - /assets/img/research/0008_sign_language_01.png
+  - /assets/img/research/0008_sign_language_02.png
+  - /assets/img/research/0008_sign_language_03.png
+description: "전시 안내 관련 한국 수어 DB 구축, Keypoint 기반 한국 수어 인식 기술 및 LLM 기반 한국어-한국수어 대화형 전시 안내 해설 서비스 구축 연구"
 ---
 
-<img src="/assets/img/research/sign_language_01.png" style="width:100%;" />
-<img src="/assets/img/research/sign_language_02.png" style="width:100%;" />
-<img src="/assets/img/research/sign_language_03.png" style="width:100%;" />
+<img src="/assets/img/research/0008_sign_language_01.png" style="width:100%;" />
+<img src="/assets/img/research/0008_sign_language_02.png" style="width:100%;" />
+<img src="/assets/img/research/0008_sign_language_03.png" style="width:100%;" />
 
 ## Abstract
 

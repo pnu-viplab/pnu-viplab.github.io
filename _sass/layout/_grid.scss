@@ -2,19 +2,8 @@
   padding: 0 20px;
   @include container(0);
 
-  @include breakpoint($sm) {
-    @include container(540px);
-  }
-
-  @include breakpoint($md) {
-    @include container(720px);
-  }
-
+  // Single breakpoint: mobile (<62em / 992px) vs desktop (≥62em)
   @include breakpoint($lg) {
-    @include container(960px);
-  }
-
-  @include breakpoint($xl) {
     @include container(1170px);
   }
 }

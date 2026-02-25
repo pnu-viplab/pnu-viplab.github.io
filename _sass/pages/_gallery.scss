@@ -1,0 +1,58 @@
+// ─── Gallery Item Detail Page ─────────────────────────────────────────────
+
+.gallery-item-date {
+  text-align: center;
+  margin-bottom: 32px;
+
+  span {
+    display: inline-block;
+    font-size: 1.2rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    color: #666;
+    background: #f2f2f2;
+    border-radius: 999px;
+    padding: 5px 18px;
+  }
+}
+
+.gallery-detail-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  margin-bottom: 50px;
+
+  @media (max-width: #{$md}) {
+    grid-template-columns: 1fr;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+    justify-self: center;
+    align-self: center;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+}
+
+.gallery-detail-single {
+  text-align: center;
+  margin: 30px 0 50px;
+
+  img {
+    display: inline-block;
+    max-width: 80%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+}
+
+.gallery-detail-description {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin-bottom: 40px;
+}

@@ -6,14 +6,14 @@ permalink: /research/
 
 <div id="research-container"></div>
 
-<div class="pagination-controls"></div>
+<div class="pagination"></div>
 
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
 <script>
-const researchData = {{ site.data.research | jsonify }};
+const researchData = [{%- assign sorted = site.research | sort: 'slug' | reverse -%}{%- for r in sorted -%}{"slug":{{ r.slug | jsonify }},"title":{{ r.title | jsonify }},"description":{{ r.description | jsonify }},"images":{{ r.images | jsonify }}}{%- unless forloop.last -%},{%- endunless -%}{%- endfor -%}];
 
 const perPage = 8;
 const range = 2;
@@ -102,11 +102,13 @@ function renderResearch() {
     }
   });
 
-  const pagination = document.querySelector('.pagination-controls');
+  const pagination = document.querySelector('.pagination');
   pagination.innerHTML = '';
 
+  if (totalPages <= 1) return;
+
   const prevBtn = document.createElement('button');
-  prevBtn.innerText = 'Prev';
+  prevBtn.innerHTML = '&#9664;';
   prevBtn.disabled = currentPage === 1;
   prevBtn.onclick = prevPage;
   pagination.appendChild(prevBtn);
@@ -141,7 +143,7 @@ function renderResearch() {
   }
 
   const nextBtn = document.createElement('button');
-  nextBtn.innerText = 'Next';
+  nextBtn.innerHTML = '&#9654;';
   nextBtn.disabled = currentPage === totalPages;
   nextBtn.onclick = nextPage;
   pagination.appendChild(nextBtn);
@@ -149,5 +151,53 @@ function renderResearch() {
 
 renderResearch();
 </script>
+
+<style>
+.pagination {
+  margin: 40px auto 0;
+  text-align: center;
+}
+
+.pagination button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 5px;
+  padding: 6px 14px;
+  font-size: 15px;
+  border: 1px solid #333;
+  background: transparent;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.pagination button:first-child,
+.pagination button:last-child {
+  font-size: 13px;
+  padding: 6px 12px;
+}
+
+.pagination button:hover {
+  background: #333;
+  color: #fff;
+}
+
+.pagination button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.pagination button.active {
+  background: #333;
+  color: #fff;
+  cursor: default;
+}
+
+.pagination .dots {
+  margin: 0 4px;
+  color: #333;
+}
+</style>
 
 {% include card-style.html %}

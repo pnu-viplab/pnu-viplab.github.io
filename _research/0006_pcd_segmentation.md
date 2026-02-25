@@ -2,10 +2,14 @@
 title: Efficient LiDAR Point Cloud Segmentation
 layout: post
 slug: 0006-pcd-segmentation
+images:
+  - /assets/img/research/0006_pcd_segmentation_01.png
+  - /assets/img/research/0006_pcd_segmentation_02.png
+description: "효율적인 LiDAR 포인트 클라우드 Segmentation 연구"
 ---
 
-<img src="/assets/img/research/pcd_segmentation_01.png" style="width:100%;" />
-<img src="/assets/img/research/pcd_segmentation_02.png" style="width:100%;" />
+<img src="/assets/img/research/0006_pcd_segmentation_01.png" style="width:100%;" />
+<img src="/assets/img/research/0006_pcd_segmentation_02.png" style="width:100%;" />
 
 ## Abstract
 

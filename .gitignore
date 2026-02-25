@@ -10,6 +10,12 @@ npm-debug.log
 *.js.map
 maps
 
+# Windows reserved device names accidentally created as files
+nul
+con
+prn
+aux
+
 # OS Generated files #
 ######################
 *.DS_Store
@@ -68,3 +74,9 @@ bower_components
 node_modules
 
 _algolia_api_key
+
+# Backup folder (local only, not tracked by git)
+backup/
+
+.vscode/
+.claude/

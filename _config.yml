@@ -51,6 +51,10 @@ service_worker: false
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge # or pygments or null
+
+sass:
+  sass_dir: _sass
+  style: compressed
 # theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 exclude:
   - README.md
@@ -62,9 +66,9 @@ exclude:
   - Gemfile.lock
   - vendor
   - npm-debug.log
-  - gulpfile.js
+  - gulpfile.babel.js
   - sleek.jpg
-  - etc
+  - backup
 
 # include: ['_pages']
 # permalink: /:title/

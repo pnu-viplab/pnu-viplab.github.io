@@ -2,11 +2,16 @@
 title: RGB-Thermal Camera Fusion-based Object Detection
 layout: post
 slug: 0005-rgbt-detection
+images:
+  - /assets/img/research/0005_rgbt_detection_01.png
+  - /assets/img/research/0005_rgbt_detection_02.png
+  - /assets/img/research/0005_rgbt_detection_03.png
+description: "RGB-Thermal 카메라 융합 기반 객체 탐지 연구"
 ---
 
-<img src="/assets/img/research/rgbt_detection_01.png" style="width:100%;" />
-<img src="/assets/img/research/rgbt_detection_02.png" style="width:100%;" />
-<img src="/assets/img/research/rgbt_detection_03.png" style="width:100%;" />
+<img src="/assets/img/research/0005_rgbt_detection_01.png" style="width:100%;" />
+<img src="/assets/img/research/0005_rgbt_detection_01.png" style="width:100%;" />
+<img src="/assets/img/research/0005_rgbt_detection_03.png" style="width:100%;" />
 
 ## Abstract
 

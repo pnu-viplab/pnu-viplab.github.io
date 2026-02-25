@@ -3,8 +3,13 @@
   margin: 0 auto;
   padding-top: 2.5em;
 
-  @include breakpoint($md) {
+  @include breakpoint($lg) {
     padding-top: 5em;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
   }
 }
 
@@ -65,11 +70,18 @@
   .hero__titlepost {
     font-size: 1.2em;
     color: $bg-color;
+    margin-bottom: 0;
 
     @include breakpoint($lg) {
-      // padding: 1rem 0;
       font-size: 1.4em;
-      // line-height: 3.125rem;
+    }
+  }
+
+  .hero__meta {
+    margin-bottom: 0;
+
+    &:last-child {
+      margin-bottom: 0;
     }
   }
 }

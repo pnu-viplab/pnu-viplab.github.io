@@ -1,36 +1,27 @@
 <div class="post-card" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting">
-  {% if post.categories %}
-    {% assign categories = post.categories %}
-    <span class="post-card__label">
-      {% assign date_format = site.sleek.date_format | default: "%b %-d, %Y" %}
-      <span class="post-card__meta">
-        <time>{{ post.date | date: date_format }}</time>
-      </span>
-      {% for category in categories %}
-        <a href="{{site.baseurl}}/categories/#{{category|slugize}}" class="label"> {{ category }} </a>
-        {% unless forloop.last %}&nbsp;{% endunless %}
-      {% endfor %}
+  <!-- 1. 상단: 날짜 -->
+  <div class="post-card__label">
+    {% assign date_format = site.sleek.date_format | default: "%b %-d, %Y" %}
+    <span class="post-card__meta">
+      <time>{{ post.date | date: date_format }}</time>
     </span>
-  {% endif %}
+  </div>
 
-  <a href="{{ post.url | relative_url }}">
-    {% if post.featured-img %}
+  <!-- 2. 중간: 이미지 (있는 경우만) -->
+  {% if post.featured-img %}
+    {% assign orig_path = '/assets/img/posts/' | append: post.featured-img | append: '.jpg' %}
+    <a href="{{ post.url | relative_url }}">
       <figure class="post-card__thumb_tall">
         <img
-          src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_placehold.jpg"
-          data-srcset="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg, {{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb@2x.jpg 2x"
-          class="lazyload blur"
-          alt="{{post.title}}"
+          src="{{ orig_path | relative_url }}"
+          alt="{{ post.title }}"
+          onerror="this.style.display='none';"
         />
-        <noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg" alt="{{ post.title }}"></noscript>
       </figure>
-    {% else %}
-      <figure class="post-card__thumb">
-        <div class="dark-bg"></div>
-      </figure>
-    {% endif %}
-  </a>
+    </a>
+  {% endif %}
 
+  <!-- 3. 하단: 제목 + 내용 -->
   <a class="post-card__inner" href="{{ post.url | relative_url }}">
     <div class="post-card__header">
       <h2>{{ post.title | strip_html | truncate: 100 }}</h2>

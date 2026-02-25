@@ -2,10 +2,14 @@
 title: Multi-Modal Sensor Fusion based 3D Depth Perception
 layout: post
 slug: 0003-multi-modal-sensor
+images:
+  - /assets/img/research/0003_multi_modal_sensor_01.png
+  - /assets/img/research/0003_multi_modal_sensor_02.gif
+description: "다중 모달 센서 융합 기반 3D 깊이 인식 연구"
 ---
 
-<img src="/assets/img/research/multi_modal_sensor.png" style="width:100%;" />
-<img src="/assets/img/research/depth_perception.gif" style="width:100%;" />
+<img src="/assets/img/research/0003_multi_modal_sensor_01.png" style="width:100%;" />
+<img src="/assets/img/research/0003_multi_modal_sensor_02.gif" style="width:100%;" />
 
 ## Abstract
 

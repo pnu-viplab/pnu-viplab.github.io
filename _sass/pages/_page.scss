@@ -32,6 +32,10 @@
   width: 100%;
   position: relative;
   background-color: $dark-light;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem 0;
 
   // @include breakpoint($lg) {
   //   height: 12em;
@@ -47,6 +51,17 @@
     height: 100%;
     background: rgba(52, 56, 81, .8);
   }
+
+  .hero__wrap {
+    position: relative;
+    top: auto;
+    left: auto;
+    transform: none;
+
+    .hero__meta {
+      margin-bottom: 0;
+    }
+  }
 }
 
 .hero__wrap {
@@ -61,7 +76,7 @@
   max-width: 90%;
   z-index: 1;
 
-  @include breakpoint($md) {
+  @include breakpoint($lg) {
     max-width: 60%;
   }
 
@@ -70,9 +85,7 @@
     color: $bg-color;
 
     @include breakpoint($lg) {
-      // padding: 1rem 0;
       font-size: 2.2em;
-      // line-height: 3.125rem;
     }
   }
 }
@@ -81,9 +94,9 @@
   max-width: 60.0rem;
   margin: 0 auto;
   padding: 2.5em 0;
-  font-size: 0.8em;
+  font-size: 0.9em;
 
-  @include breakpoint($md) {
+  @include breakpoint($lg) {
     padding: 3.75rem 0;
     font-size: 1.0em;
   }
@@ -99,7 +112,7 @@
   flex-wrap: wrap;
   flex: 1 0 auto;
 
-  @include breakpoint($md) {
+  @include breakpoint($lg) {
     padding-top: 5em;
   }
 }

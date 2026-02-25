@@ -1,0 +1,66 @@
+- semester: "2026 Spring"
+  courses:
+    - "Machine Learning (머신러닝, CB2001118)"
+    - "Visual Computing (시각컴퓨팅, CA2001619)"
+    - "Computer Software Design & Lab (소프트웨어설계및실험, CB1501020)"
+
+- semester: "2025 Fall"
+  courses:
+    - "Engineering Linear Algebra (공학선형대수학, CA2001142)"
+    - "Artificial Intelligence for Autonomous Vehicles (자율이동체인공지능, AI6001422)"
+    - "AI - Machine Learning and Deep Learning (인공지능-머신러닝,딥러닝, IC7400388)"
+
+- semester: "2025 Spring"
+  courses:
+    - "Engineering Linear Algebra (공학선형대수학, CB1501015)"
+    - "Machine Learning (머신러닝, CB3500268)"
+    - "Computer Software Design & Lab (소프트웨어설계및실험, CB1501020)"
+
+- semester: "2024 Fall"
+  courses:
+    - "Engineering Linear Algebra (공학선형대수학, CA2001142)"
+    - "Artificial Intelligence for Autonomous Vehicles (자율이동체인공지능, AI6001422)"
+    - "AI - Machine Learning and Deep Learning (인공지능-머신러닝,딥러닝, IC7400388)"
+
+- semester: "2024 Spring"
+  courses:
+    - "Engineering Linear Algebra (공학선형대수학, CB1501015)"
+    - "Machine Learning (머신러닝, CB3500268)"
+    - "Computer Software Design & Lab (소프트웨어설계및실험, CB3300987)"
+
+- semester: "2023 Fall"
+  courses:
+    - "Data Structures (자료구조, CB20330)"
+    - "AI Programming (AI프로그래밍, CB35655)"
+    - "Advanced Artificial Intelligence for Autonomous Driving (고급자율주행인공지능, AI6001031)"
+
+- semester: "2023 Spring"
+  courses:
+    - "Engineering Linear Algebra (공학선형대수학, CB35573)"
+    - "Machine Learning (머신러닝, CP35268)"
+    - "Computer Software Design & Lab (소프트웨어설계및실험, CB33987)"
+    - "Statistical Learning (통계적학습, AI75845/MA77020)"
+    - "Python Programming (파이선프로그래밍, DC76693)"
+    - "Artificial Neural Network and Deep Learning (인공신경망과딥러닝, AI82154)"
+    - "Digital Healthcare (디지털헬스케어, MA77031)"
+
+- semester: "2022 Fall"
+  courses:
+    - "Data Structures (자료구조, CB20330)"
+    - "AI Programming (AI프로그래밍, CB35655)"
+    - "Programming Principles and Practice (프로그래밍원리와실습, CB16702)"
+    - "Data Mining (데이터마이닝, HA64802)"
+
+- semester: "2022 Spring"
+  courses:
+    - "Discrete Mathematics(I) (이산수학(I), CB15635)"
+    - "Machine Learning (머신러닝, CP35268)"
+    - "Statistical Learning (통계적학습, AI75845)"
+    - "Computer Software Design & Lab (소프트웨어설계및실험, CB33987)"
+    - "Artificial Neural Network and Deep Learning (인공신경망과딥러닝, AI82154)"
+
+- semester: "2021 Fall"
+  courses:
+    - "Data Structures (자료구조, CB20330)"
+    - "AI Programming (AI프로그래밍, CB35655)"
+    - "Programming Principles and Practice (프로그래밍원리와실습, CB16702)"

@@ -1,0 +1,155 @@
+// Team page — media object cards
+
+.team-grid {
+  display: grid;
+  gap: 1rem;
+  margin-bottom: 2rem;
+
+  &--2col {
+    grid-template-columns: 1fr;
+
+    @include breakpoint($lg) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  &--3col {
+    grid-template-columns: 1fr;
+
+    @include breakpoint($lg) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+}
+
+.team-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 0.75rem;
+  background: $bg-color;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+
+  &__photo {
+    width: 80px;
+    height: 107px;
+    object-fit: cover;
+    border-radius: 4px;
+    flex-shrink: 0;
+
+    @include breakpoint($lg) {
+      width: 150px;
+      height: 200px;
+    }
+  }
+
+  &__info {
+    flex: 1;
+    min-width: 0;
+  }
+
+  &__name {
+    font-weight: bold;
+    font-size: 0.95rem;
+    margin-bottom: 0.2rem;
+    color: $heading-color;
+  }
+
+  &__meta {
+    font-size: 0.8rem;
+    color: $grey;
+    margin-bottom: 0.1rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  &__links {
+    margin-top: 0.5rem;
+    font-size: 0.85rem;
+
+    a {
+      color: $heading-color;
+      text-decoration: underline;
+      border-bottom: none;
+      margin-right: 0.5rem;
+    }
+  }
+
+  // Alumni/Former: smaller photo for 3-col layout
+  &--compact {
+    .team-card__photo {
+      width: 60px;
+      height: 80px;
+
+      @include breakpoint($lg) {
+        width: 80px;
+        height: 107px;
+      }
+    }
+  }
+
+  // Former undergrad: no photo, minimal card
+  &--mini {
+    padding: 0.5rem 0.75rem;
+
+    .team-card__name {
+      font-size: 0.85rem;
+    }
+
+    .team-card__meta {
+      font-size: 0.75rem;
+    }
+  }
+
+  // Professor: full-width card, responsive photo
+  &--professor {
+    margin-bottom: 1rem;
+
+    .team-card__photo {
+      width: 80px;
+      height: 107px;
+
+      @include breakpoint($lg) {
+        width: 150px;
+        height: 200px;
+      }
+    }
+
+    .team-card__name {
+      font-size: 1.3rem;
+      margin-bottom: 0.4rem;
+    }
+
+    .team-card__meta {
+      white-space: normal;
+      font-size: 0.85rem;
+
+      a {
+        color: inherit;
+        text-decoration: underline;
+        border-bottom: none;
+      }
+    }
+  }
+}
+
+.professor-bio {
+  margin-top: 1rem;
+
+  h3 {
+    margin-bottom: 0.5rem;
+  }
+
+  p {
+    font-size: 0.9rem;
+    line-height: 1.6;
+
+    a {
+      color: $heading-color;
+      text-decoration: underline;
+      border-bottom: none;
+    }
+  }
+}

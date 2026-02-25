@@ -1,0 +1,445 @@
+# Contact fields (c1, c2) are reversed strings for spam protection.
+# To add a new email: reverse the username → c1, reverse the domain → c2.
+# Example: user "hello" @ "gmail.com" → c1: "olleh", c2: "moc.liamg"
+
+# Ph.D. Students
+- name: "Janghyun Kim"
+  name_kr: "김장현"
+  photo: "/assets/img/team/janghyun_kim.jpg"
+  gender: m
+  homepage: "https://janghyun41.github.io/"
+  c1: "7944aojgnaj"
+  c2: "moc.liamg"
+  research: "Depth Perception & Multi-Sensor Fusion"
+  category: "phd"
+
+- name: "Yong Hyeon Jo"
+  name_kr: "조용현"
+  badge: "👑"
+  photo: "/assets/img/team/yonghyeon_jo.jpg"
+  gender: m
+  c1: "0113841va"
+  c2: "moc.liamg"
+  research: "Vision-Language Model"
+  category: "phd"
+  integrated: true
+
+# M.S. Students
+- name: "Hyunsoo Ha"
+  name_kr: "하현수"
+  photo: "/assets/img/team/dummy.jpg"
+  gender: m
+  research: "Computer Vision"
+  category: "ms"
+
+- name: "Su-Hyeon Cho"
+  name_kr: "조수현"
+  photo: "/assets/img/team/dummy.jpg"
+  gender: f
+  c1: "og0874g"
+  c2: "rk.ca.nasup"
+  research: "Human-Object Interaction"
+  category: "ms"
+
+- name: "Changhyeon Lee"
+  name_kr: "이창현"
+  photo: "/assets/img/team/changhyeon_lee.jpg"
+  gender: m
+  c1: "yreehceelhc"
+  c2: "moc.liamg"
+  research: "Image Segmentation"
+  category: "ms"
+
+- name: "Jaehyeong Park"
+  name_kr: "박재형"
+  photo: "/assets/img/team/jaehyeong_park.jpg"
+  gender: m
+  c1: "813krapnai"
+  c2: "rk.ca.nasup"
+  research: "3D Scene & Surface Reconstruction"
+  category: "ms"
+
+- name: "Heeju Han"
+  name_kr: "한희주"
+  photo: "/assets/img/team/heeju_han.jpg"
+  gender: f
+  c1: "7182aojjhh"
+  c2: "moc.revan"
+  research: "Open-World Detection"
+  category: "ms"
+
+- name: "Subin Lee"
+  name_kr: "이수빈"
+  photo: "/assets/img/team/subin_lee.jpg"
+  gender: f
+  c1: "09888nibus"
+  c2: "rk.ca.nasup"
+  research: "Optical Flow Estimation"
+  category: "ms"
+
+- name: "Haneol Choi"
+  name_kr: "최한얼"
+  photo: "/assets/img/team/haneol_choi.jpg"
+  gender: m
+  c1: "0029fjdskg"
+  c2: "rk.ca.nasup"
+  research: "BEV Object Detection"
+  category: "ms"
+
+- name: "Jaeseong Heo"
+  name_kr: "허재성"
+  photo: "/assets/img/team/jaeseong_heo.jpg"
+  gender: m
+  c1: "2394sjh"
+  c2: "rk.ca.nasup"
+  research: "Visual Tracking"
+  category: "ms"
+
+- name: "AJeong Kim"
+  name_kr: "김아정"
+  photo: "/assets/img/team/ajeong_kim.jpg"
+  gender: f
+  c1: "636knoej"
+  c2: "rk.ca.nasup"
+  research: "3D Scene Understanding"
+  category: "ms"
+
+- name: "Dongyun Kim"
+  name_kr: "김동윤"
+  photo: "/assets/img/team/dongyun_kim.jpg"
+  gender: m
+  c1: "1020nooygnod"
+  c2: "rk.ca.nasup"
+  research: "Human Motion Prediction"
+  category: "ms"
+
+- name: "Seunghyeon Jang"
+  name_kr: "장승현"
+  photo: "/assets/img/team/seunghyeon_jang.jpg"
+  gender: f
+  c1: "900gnixw"
+  c2: "moc.liamg"
+  research: "Computer Vision"
+  category: "ms"
+
+# Undergraduate Students
+- name: "Yu-Seong Jeong"
+  name_kr: "정유성"
+  photo: "/assets/img/team/dummy.jpg"
+  gender: m
+  c1: "4170gnusooy"
+  c2: "moc.liamg"
+  research: "Large Language Models"
+  category: "undergrad"
+
+- name: "Yeonji Lee"
+  name_kr: "이연지"
+  photo: "/assets/img/team/dummy.jpg"
+  gender: f
+  c1: "685552202poc"
+  c2: "rk.ca.nasup"
+  research: "Embodied AI"
+  category: "undergrad"
+
+- name: "Minjung Gong"
+  name_kr: "공민중"
+  photo: "/assets/img/team/minjung_gong.jpg"
+  gender: m
+  c1: "20lddnwsla"
+  c2: "rk.ca.nasup"
+  research: "3D Scene Understanding"
+  category: "undergrad"
+
+- name: "Yejun Jung"
+  name_kr: "정예준"
+  photo: "/assets/img/team/dummy.jpg"
+  gender: m
+  c1: "2nujey"
+  c2: "rk.ca.nasup"
+  research: "Diffusion Models"
+  category: "undergrad"
+
+- name: "Suyoung Cho"
+  name_kr: "조수영"
+  photo: "/assets/img/team/suyoung_cho.jpg"
+  gender: f
+  c1: "101dudnthw"
+  c2: "rk.ca.nasup"
+  research: "Audio-Visual Segmentation"
+  category: "undergrad"
+
+- name: "DaeHan Yoon"
+  name_kr: "윤대한"
+  photo: "/assets/img/team/daehan_yoon.jpg"
+  gender: m
+  c1: "522259j"
+  c2: "rk.ca.nasup"
+  research: "Embodied AI"
+  category: "undergrad"
+
+# Researchers
+- name: "Hyeonsu Park"
+  name_kr: "박현수"
+  photo: "/assets/img/team/hyunsu_park.jpg"
+  gender: m
+  c1: "01emorej"
+  c2: "rk.ca.nasup"
+  research: "3D Face Editing"
+  category: "researcher"
+
+- name: "Minsu Jeon"
+  name_kr: "전민수"
+  photo: "/assets/img/team/minsu_jeon.jpg"
+  gender: m
+  c1: "825lrsjw"
+  c2: "moc.revan"
+  research: "Human Pose Estimation"
+  category: "researcher"
+
+- name: "Soeun An"
+  name_kr: "안소은"
+  photo: "/assets/img/team/soeun_an.jpg"
+  gender: f
+  c1: "emsietuq"
+  c2: "moc.liamg"
+  research: "Sign Language Recognition"
+  category: "researcher"
+
+# Research Staffs
+- name: "Hye Soon Yang"
+  name_kr: "양혜순"
+  photo: "/assets/img/team/dummy.jpg"
+  gender: f
+  c1: "77iygnay"
+  c2: "rk.ca.nasup"
+  research: ""
+  category: "staff"
+
+# Alumni
+- name: "Yeongmin Ko"
+  name_kr: "고영민"
+  photo: "/assets/img/team/yeongmin_ko.jpg"
+  gender: m
+  c1: "5428noelsp"
+  c2: "moc.liamg"
+  graduation: "2026.02. (M.S.)"
+  affiliation: 
+  category: "alumni"
+
+- name: "Hyeonsu Park"
+  name_kr: "박현수"
+  photo: "/assets/img/team/hyunsu_park.jpg"
+  gender: m
+  c1: "01emorej"
+  c2: "rk.ca.nasup"
+  graduation: "2026.02. (M.S.)"
+  affiliation: "Pusan National Univ."
+  category: "alumni"
+
+- name: "Minsu Jeon"
+  name_kr: "전민수"
+  photo: "/assets/img/team/minsu_jeon.jpg"
+  gender: m
+  c1: "825lrsjw"
+  c2: "moc.revan"
+  graduation: "2026.02. (M.S.)"
+  affiliation: "Pusan National Univ."
+  category: "alumni"
+
+- name: "Jin Wan Kim"
+  name_kr: "김진완"
+  photo: "/assets/img/team/jinwan_kim.jpg"
+  gender: m
+  c1: "9391kwj"
+  c2: "moc.revan"
+  graduation: "2026.02. (M.S.)"
+  affiliation: "한국전자기술연구원 (KETI)"
+  category: "alumni"
+
+- name: "Seokyong Heo"
+  name_kr: "허석용"
+  photo: "/assets/img/team/seokyong_heo.jpg"
+  gender: m
+  c1: "renogardsh"
+  c2: "moc.liamg"
+  graduation: "2026.02. (M.S.)"
+  affiliation: USDA
+  category: "alumni"
+
+- name: "Chanill Park"
+  name_kr: "박찬일"
+  photo: "/assets/img/team/chanill_park.jpg"
+  gender: m
+  c1: "103krapnaed"
+  c2: "moc.liamg"
+  graduation: "2025.08. (M.S.)"
+  affiliation: "한국로봇융합연구원"
+  category: "alumni"
+
+- name: "Sirock Yoon"
+  name_kr: "윤시록"
+  photo: "/assets/img/team/dummy.jpg"
+  gender: m
+  graduation: "2025.08. (M.S.)"
+  affiliation: "삼성중공업"
+  category: "alumni"
+
+- name: "Seong Heon Ha"
+  name_kr: "하성헌"
+  photo: "/assets/img/team/seongheon_ha.jpg"
+  gender: m
+  c1: "orfks321"
+  c2: "rk.ca.nasup"
+  graduation: "2025.02. (M.S.)"
+  affiliation: "LG전자"
+  category: "alumni"
+
+- name: "Jeong Hyun Noh"
+  name_kr: "노정현"
+  photo: "/assets/img/team/jeonghyun_noh.jpg"
+  gender: m
+  c1: "7690sugdjw"
+  c2: "rk.ca.aerok"
+  graduation: "2025.02. (M.S.)"
+  affiliation: "Korea Univ."
+  category: "alumni"
+
+- name: "Mingyu Jeong"
+  name_kr: "정민규"
+  photo: "/assets/img/team/mingyu_jeong.jpg"
+  gender: m
+  c1: "6942qoba"
+  c2: "moc.revan"
+  graduation: "2024.08. (M.S.)"
+  affiliation: "포스코DX"
+  category: "alumni"
+
+- name: "Janghyun Kim"
+  name_kr: "김장현"
+  photo: "/assets/img/team/janghyun_kim.jpg"
+  gender: m
+  c1: "7944aojgnaj"
+  c2: "moc.liamg"
+  graduation: "2024.08. (M.S.)"
+  affiliation: "Pusan National Univ."
+  category: "alumni"
+
+- name: "Yerin Nam"
+  name_kr: "남예린"
+  photo: "/assets/img/team/yerin_nam.jpg"
+  gender: f
+  c1: "01ryn"
+  c2: "rk.ca.nasup"
+  graduation: "2024.02. (M.S.)"
+  affiliation: "올포랜드"
+  category: "alumni"
+
+- name: "Yeogyeong Kim"
+  name_kr: "김여경"
+  photo: "/assets/img/team/yeogyeong_kim.jpg"
+  gender: f
+  c1: "5221mikgy"
+  c2: "rk.ca.nasup"
+  graduation: "2024.02. (M.S.)"
+  affiliation: "CMES"
+  category: "alumni"
+
+- name: "Seungik Lee"
+  name_kr: "이승익"
+  photo: "/assets/img/team/seungik_lee.jpg"
+  gender: m
+  c1: "6458isl"
+  c2: "moc.revan"
+  graduation: "2024.02. (M.S.)"
+  affiliation: "삼성중공업"
+  category: "alumni"
+
+- name: "Incheol Park"
+  name_kr: "박인철"
+  photo: "/assets/img/team/incheol_park.jpg"
+  gender: m
+  c1: "321minluhcni"
+  c2: "moc.revan"
+  graduation: "2024.02. (M.S.)"
+  affiliation: "UNIST"
+  category: "alumni"
+
+# Former Researchers
+- name: "Minseong Kweon"
+  name_kr: "권민성"
+  photo: "/assets/img/team/minseong_kweon.jpg"
+  gender: m
+  c1: "120noewk"
+  c2: "ude.nmu"
+  period: "2025.03.~2025.07."
+  role: "Research Assistant"
+  affiliation: "Univ. of Minnesota, Twin Cities"
+  category: "former_researcher"
+
+- name: "Seungik Lee"
+  name_kr: "이승익"
+  photo: "/assets/img/team/seungik_lee.jpg"
+  gender: m
+  c1: "6458isl"
+  c2: "moc.revan"
+  period: "2024.03.~2024.06."
+  role: "Master's Degree Researcher"
+  affiliation: "삼성중공업"
+  category: "former_researcher"
+
+# Former Undergraduate Researchers
+- name: "Minseong Kweon"
+  name_kr: "권민성"
+  gender: m
+  period: "2023.01.~2025.02."
+  affiliation: "Univ. of Minnesota, Twin Cities"
+  category: "former_undergrad"
+
+- name: "Jaehyeong Park"
+  name_kr: "박재형"
+  gender: m
+  period: "2022.03.~2024.08."
+  affiliation: "Pusan National Univ."
+  category: "former_undergrad"
+
+- name: "Hyeonsu Park"
+  name_kr: "박현수"
+  gender: m
+  period: "2023.08.~2024.02."
+  affiliation: "Pusan National Univ."
+  category: "former_undergrad"
+
+- name: "Dogyu Kim"
+  name_kr: "김도규"
+  gender: m
+  period: "2022.03.~2024.02."
+  affiliation: "Korea Aerospace Industries (KAI)"
+  category: "former_undergrad"
+
+- name: "Minsu Jeon"
+  name_kr: "전민수"
+  gender: m
+  period: "2023.02.~2024.02."
+  affiliation: "Pusan National Univ."
+  category: "former_undergrad"
+
+- name: "Kyung Hyun Kim"
+  name_kr: "김경현"
+  gender: m
+  period: "2022.11.~2024.02."
+  affiliation: "KAIST"
+  category: "former_undergrad"
+
+- name: "Beom Soo Kim"
+  name_kr: "김범수"
+  gender: m
+  period: "2022.11.~2024.02."
+  affiliation: ""
+  category: "former_undergrad"
+
+- name: "Changjin Lee"
+  name_kr: "이창진"
+  gender: m
+  period: "2022.07.~2022.08."
+  affiliation: ""
+  category: "former_undergrad"

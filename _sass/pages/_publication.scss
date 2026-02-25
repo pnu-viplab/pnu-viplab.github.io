@@ -1,0 +1,169 @@
+// Publication page — card layout
+
+.pub-section {
+  margin-bottom: 2.5rem;
+}
+
+.pub-year {
+  font-size: 1rem;
+  font-weight: 700;
+  color: $grey;
+  border-bottom: 1px solid $border;
+  padding-bottom: 0.3rem;
+  margin: 1.75rem 0 0.5rem;
+}
+
+.pub-card {
+  display: flex;
+  gap: 1rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid $border;
+  align-items: flex-start;
+
+  &__img {
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: $border;
+  }
+
+  &__body {
+    flex: 1;
+    min-width: 0;
+  }
+
+  &__title {
+    font-weight: bold;
+    font-size: 0.92rem;
+    line-height: 1.45;
+    color: $heading-color;
+    margin: 0 0 0.25rem;
+  }
+
+  &__authors {
+    font-size: 0.8rem;
+    color: $text-color;
+    margin: 0 0 0.2rem;
+    line-height: 1.4;
+
+    a {
+      color: $heading-color;
+      text-decoration: underline;
+      border-bottom: none;
+    }
+  }
+
+  &__venue {
+    font-size: 0.8rem;
+    color: $grey;
+    font-style: italic;
+    margin: 0 0 0.2rem;
+    line-height: 1.4;
+  }
+
+  &__award {
+    font-size: 0.8rem;
+    color: #1a66cc;
+    font-weight: bold;
+    margin: 0 0 0.2rem;
+  }
+
+  &__links {
+    font-size: 0.8rem;
+    margin: 0.25rem 0 0;
+
+    a {
+      color: $heading-color;
+      text-decoration: underline;
+      border-bottom: none;
+      margin-right: 0.75rem;
+    }
+
+    .pub-link--unavailable {
+      color: $grey;
+      margin-right: 0.75rem;
+    }
+  }
+
+  // Domestic: no image, compact text
+  &--domestic {
+    padding: 0.6rem 0;
+
+    .pub-card__title {
+      font-size: 0.88rem;
+    }
+  }
+}
+
+// Top navigation links
+.pub-nav {
+  text-align: center;
+  margin-bottom: 1.5rem;
+
+  a {
+    display: inline-block;
+    margin: 0.2rem 0;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: $heading-color;
+    text-decoration: none;
+    border-bottom: none;
+
+    &:hover {
+      color: $primary;
+    }
+  }
+}
+
+.pub-totop {
+  text-align: center;
+  margin: 1.5rem 0 0.5rem;
+
+  a {
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: $heading-color;
+    text-decoration: none;
+    border-bottom: none;
+
+    &:hover {
+      color: $primary;
+    }
+  }
+}
+
+// Floating "Back to Top" button
+.pub-float-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: $heading-color;
+  color: #fff;
+  font-size: 1.1rem;
+  line-height: 44px;
+  text-align: center;
+  cursor: pointer;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease, background 0.2s ease;
+  text-decoration: none;
+  border: none;
+  z-index: 200;
+
+  &.visible {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  &:hover {
+    background: $primary;
+    color: #fff;
+    text-decoration: none;
+    border-bottom: none;
+  }
+}

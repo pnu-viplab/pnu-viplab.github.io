@@ -2,9 +2,12 @@
 title: Knowledge Distillation for Lightweight Deep Network
 layout: post
 slug: 0004-knowledge-distillation
+images:
+  - /assets/img/research/0004_knowledge_distillation_01.png
+description: "경량화된 딥 네트워크를 위한 지식 증류 연구"
 ---
 
-<img src="/assets/img/research/knowledge_distillation.png" style="width:100%;" />
+<img src="/assets/img/research/0004_knowledge_distillation_01.png" style="width:100%;" />
 
 ## Abstract
 

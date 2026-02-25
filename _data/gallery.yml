@@ -1,4 +1,54 @@
-- title: 2025 후기 석사학위 논문심사
+- title: 2026년 2월 졸업식
+  slug: 260220-graduation
+  date: 2026-02-20
+  description: 
+  images:
+    - "/assets/img/gallery/260220_graduation_01.jpg"
+    - "/assets/img/gallery/260220_graduation_02.jpg"
+    - "/assets/img/gallery/260220_graduation_03.jpg"
+    - "/assets/img/gallery/260220_graduation_04.jpg"
+    - "/assets/img/gallery/260220_graduation_05.jpg"
+    - "/assets/img/gallery/260220_graduation_06.jpg"
+    - "/assets/img/gallery/260220_graduation_07.jpg"
+  videos: []
+
+- title: IPIU 2026
+  slug: 260204-260206-ipiu
+  start_date: 2026-02-04
+  end_date: 2026-02-06
+  description: 
+  images:
+    - "/assets/img/gallery/260204_260206_ipiu_01.jpg"
+    - "/assets/img/gallery/260204_260206_ipiu_02.jpg"
+    - "/assets/img/gallery/260204_260206_ipiu_03.jpg"
+    - "/assets/img/gallery/260204_260206_ipiu_04.jpg"
+    - "/assets/img/gallery/260204_260206_ipiu_05.jpg"
+    - "/assets/img/gallery/260204_260206_ipiu_06.jpg"
+    - "/assets/img/gallery/260204_260206_ipiu_07.jpg"
+    - "/assets/img/gallery/260204_260206_ipiu_08.jpg"
+    - "/assets/img/gallery/260204_260206_ipiu_09.jpg"
+    - "/assets/img/gallery/260204_260206_ipiu_10.jpg"
+  videos: []
+
+- title: AAAI 2026
+  slug: 260120-260127-aaai
+  start_date: 2026-01-20
+  end_date: 2026-01-27
+  description: 
+  images:
+    - "/assets/img/gallery/260120_260127_aaai_01.jpg"
+    - "/assets/img/gallery/260120_260127_aaai_02.jpg"
+  videos: []
+
+- title: 2026 대한전자공학회 겨울학교
+  slug: 260113-ieie-winter-school
+  date: 2026-01-13
+  description: 
+  images:
+    - "/assets/img/gallery/260113_ieie_winter_school_01.jpg"
+  videos: []
+
+- title: 2025년 11월 석사학위 논문심사
   slug: 251128-defense
   date: 2025-11-28
   description: 
@@ -10,7 +60,7 @@
     - "/assets/img/gallery/251128_defense_05.jpg"
   videos: []
 
-- title: 2025 UCWIT
+- title: UCWIT 2025
   slug: 251121-ucwit
   date: 2025-11-21
   description: 
@@ -63,7 +113,7 @@
     - "/assets/img/gallery/250925_250926_aisp_03.jpg"
   videos: []
 
-- title: 2025 후기 졸업식
+- title: 2025년 8월 졸업식
   slug: 250822-graduation
   date: 2025-08-22
   description: 
@@ -72,7 +122,7 @@
     - "/assets/img/gallery/250822_graduation_02.jpg"
   videos: []
 
-- title: 2025 KCCV
+- title: KCCV 2025
   slug: 250804-250806-kccv
   start_date: 2025-08-04
   end_date: 2025-08-06
@@ -91,7 +141,7 @@
     - "/assets/img/gallery/250624_250627_ieie.jpg"
   videos: []
 
-- title: 2025 전기 석사학위 논문심사
+- title: 2025년 5월 석사학위 논문심사
   slug: 250530-defense
   date: 2025-05-30
   description: 
@@ -101,7 +151,7 @@
     - "/assets/img/gallery/250530_defense_03.jpg"
   videos: []
 
-- title: 2025 ICRA
+- title: ICRA 2025
   slug: 250519-250523-icra
   start_date: 2025-05-19
   end_date: 2025-05-23
@@ -124,7 +174,7 @@
     - "/assets/img/gallery/250516_award_03.jpg"
   videos: []
 
-- title: 2025 ICLR & NTU Seminar
+- title: ICLR 2025 & NTU Seminar
   slug: 250424-250428-iclr
   start_date: 2025-04-24
   end_date: 2025-04-28
@@ -145,7 +195,7 @@
     - "/assets/img/gallery/250404_cherryblossom.jpg"
   videos: []
 
-- title: 2025 전기 졸업식
+- title: 2025년 2월 졸업식
   slug: 250228-graduation
   date: 2025-02-28
   description: 
@@ -154,7 +204,7 @@
     - "/assets/img/gallery/250228_graduation_02.jpg"
   videos: []
 
-- title: 2025 IPIU
+- title: IPIU 2025
   slug: 250205-250207-ipiu
   start_date: 2025-02-05
   end_date: 2025-02-07
@@ -201,7 +251,7 @@
     - "/assets/img/gallery/241217_itrc_03.jpg"
   videos: []
 
-- title: 2024 IWCS
+- title: IWCS 2024
   slug: 241214-241215-iwcs
   start_date: 2024-12-14
   end_date: 2024-12-15
@@ -214,7 +264,7 @@
     - "/assets/img/gallery/241214_241215_iwcs_05.jpg"
   videos: []
 
-- title: 2024 ACCV
+- title: ACCV 2024
   slug: 241207-241213-accv
   start_date: 2024-12-07
   end_date: 2024-12-13
@@ -249,7 +299,7 @@
     - "/assets/img/gallery/240924_240925_signlanguage_05.jpg"
   videos: []
 
-- title: 2024 ICRA@40
+- title: ICRA@40
   slug: 240923-240926-icra40
   start_date: 2024-09-23
   end_date: 2024-09-26
@@ -270,7 +320,7 @@
     - "/assets/img/gallery/240923_240926_ICRA40_13.jpg"
   videos: []
 
-- title: 2024 후기 졸업식
+- title: 2024년 8월 졸업식
   slug: 240830-graduation
   date: 2024-08-30
   description: 
@@ -278,7 +328,7 @@
     - "/assets/img/gallery/240830_graduation.jpg"
   videos: []
 
-- title: 2024 KCCV
+- title: KCCV 2024
   slug: 240812-240814-kccv
   start_date: 2024-08-12
   end_date: 2024-08-14
@@ -321,7 +371,7 @@
     - "/assets/img/gallery/240312_signlanguage_kickoff.jpg"
   videos: []
 
-- title: 2024 전기 졸업식
+- title: 2024년 2월 졸업식
   slug: 240223-graduation
   date: 2024-02-23
   description: 
@@ -331,7 +381,7 @@
     - "/assets/img/gallery/240223_graduation_03.jpg"
   videos: []
 
-- title: 2024 IPIU
+- title: IPIU 2024
   slug: 240131-240202-ipiu
   start_date: 2024-01-31
   end_date: 2024-02-02
@@ -341,7 +391,7 @@
     - "/assets/img/gallery/240131_240202_ipiu_02.jpg"
   videos: []
 
-- title: 2024 KJCCS
+- title: KJCCS 2024
   slug: 240129-240131-kjccs
   start_date: 2024-01-29
   end_date: 2024-01-31
@@ -353,7 +403,7 @@
     - "/assets/img/gallery/240129_240131_kjccs_04.jpg"
   videos: []
 
-- title: 석사과정 학위논문 발표심사
+- title: 2023년 12월 석사과정 학위논문 발표심사
   slug: 231201-defence
   date: 2023-12-01
   description: 
@@ -373,7 +423,7 @@
     - "/assets/img/gallery/231128_sign_lecture_02.jpg"
   videos: []
 
-- title: 2023 UCWIT & 디지털정보통신 기술포럼
+- title: UCWIT 2023 & 디지털정보통신 기술포럼
   slug: 231124-ucwit-forum
   date: 2023-11-24
   description: 
@@ -420,7 +470,7 @@
     - "/assets/img/gallery/230918_230919_signlanguage_03.jpg"
   videos: []
 
-- title: 2023 KCCV
+- title: KCCV 2023
   slug: 230807-230809-kccv
   start_date: 2023-08-07
   end_date: 2023-08-09
@@ -445,7 +495,7 @@
     - "/assets/img/gallery/230628_230630_ieie_06.jpg"
   videos: []
 
-- title: 2023 CVPR
+- title: CVPR 2023
   slug: 230618-230622-cvpr
   start_date: 2023-06-18
   end_date: 2023-06-22
@@ -462,7 +512,7 @@
     - "/assets/img/gallery/230618_230622_cvpr_09.jpg"
   videos: []
 
-- title: 2023 KCC & 제 2회 ETRI 휴먼이해 인공지능 논문 경진대회
+- title: KCC 2023 & 제 2회 ETRI 휴먼이해 인공지능 논문 경진대회
   slug: 230617-230619-kcc
   start_date: 2023-06-17
   end_date: 2023-06-19
@@ -524,7 +574,7 @@
     - "/assets/img/gallery/230223_droneshowkorea.jpg"
   videos: []
 
-- title: 2022 한국소프트웨어종합학술대회(KSC2022) 참가
+- title: 2022 한국소프트웨어종합학술대회(KSC 2022) 참가
   slug: 221222-ksc2022
   date: 2022-12-22
   description: 

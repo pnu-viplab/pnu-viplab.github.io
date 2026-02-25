@@ -58,7 +58,7 @@ function renderGallery() {
     card.className = 'card';
 
     card.addEventListener('click', () => {
-      window.location.href = `/gallery/${item.slug}/`;
+      window.location.href = `/gallery/item/?slug=${item.slug}`;
     });
 
     const swiperId = `swiper-${start + index}`;
@@ -83,6 +83,7 @@ function renderGallery() {
       </div>
       <div class="card-content">
         <h3>${item.title}</h3>
+        ${item.description ? `<p>${item.description}</p>` : ''}
       </div>
     `;
 

@@ -2,9 +2,12 @@
 title: Vehicular Multi-Camera Sensor System for AI-based Automated Visual Inspection
 layout: post
 slug: 0001-vehicular-multi-camera
+images:
+  - /assets/img/research/0001_vehicular_multi_camera_01.gif
+description: "AI 기반 자동 비전 검사를 위한 차량용 다중 카메라 센서 시스템 개발"
 ---
 
-<img src="/assets/img/research/visual_inspection.gif" style="width:100%;" />
+<img src="/assets/img/research/0001_vehicular_multi_camera_01.gif" style="width:100%;" />
 
 ## Abstract
 

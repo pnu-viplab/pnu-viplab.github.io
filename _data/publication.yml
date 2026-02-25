@@ -1,0 +1,720 @@
+# Publication data
+# Format in text fields:
+#   **text**     → <strong>text</strong>
+#   [text](url)  → <a href="url">text</a>
+# type: intl | other | domestic
+# links: list of {label, url}  — omit url to render as gray (unavailable)
+
+# ──────────────────────────────────────────────────────────
+# International Journals & Conferences
+# ──────────────────────────────────────────────────────────
+
+- type: "intl"
+  year: 2026
+  month: 3
+  image: "/assets/img/publication/2026_NEUCOM_ATAdapter.png"
+  title: "AT-adapter: Leveraging Attribute Knowledge of CLIP for Few-shot Classification"
+  authors: "**Yonghyeon Jo**, **Janghyun Kim**, **ChanIll Park**, Seonghoon Choi, Jin-Woo Lee, and **Jinsun Park**"
+  venue: "Neurocomputing"
+  links:
+    - label: "Paper"
+      url: "https://doi.org/10.1016/j.neucom.2026.132627"
+
+- type: "intl"
+  year: 2026
+  month: 1
+  image: "/assets/img/publication/2026_RAL_CARStereo.png"
+  title: "CAR-Stereo: Confidence-aware Adaptive Disparity Refinement for Real-time Stereo Matching"
+  authors: "**Chanill Park**, **Janghyun Kim**, **Minseong Kweon**, and **Jinsun Park**"
+  venue: "IEEE Robotics and Automation Letters (**RAL**)"
+  links:
+    - label: "Paper"
+      url: "https://ieeexplore.ieee.org/document/11260640"
+
+- type: "intl"
+  year: 2026
+  month: 1
+  image: "/assets/img/publication/2026_AAAI_OceanSplat.png"
+  title: "OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction"
+  authors: "**Minseong Kweon** and **Jinsun Park**"
+  venue: "AAAI Conference on Artificial Intelligence (**AAAI**)"
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2601.04984"
+
+- type: "intl"
+  year: 2025
+  month: 10
+  image: "/assets/img/publication/2025_ACMMM_BACGCN.png"
+  title: "BAC-GCN: Background-Aware CLIP-GCN Framework for Unsupervised Multi-Label Classification"
+  authors: "**Yonghyeon Jo**, **Janghyun Kim**, and **Jinsun Park**"
+  venue: "ACM International Conference on Multimedia (**ACM MM**)"
+  links:
+    - label: "Paper"
+      url: "https://dl.acm.org/doi/10.1145/3746027.3755253"
+    - label: "Project Page (Code)"
+      url: "https://github.com/yonghyeonjo46/BAC-GCN"
+
+- type: "intl"
+  year: 2025
+  month: 8
+  image: "/assets/img/publication/2025_PRL_DIN.png"
+  title: "Dual Interaction Network with Cross-Image Attention for Medical Image Segmentation"
+  authors: "**Jeonghyun Noh**, Wangsu Jeon, and **Jinsun Park**"
+  venue: "Pattern Recognition Letters (**PRL**)"
+  links:
+    - label: "Paper"
+      url: "https://doi.org/10.1016/j.patrec.2025.08.018"
+
+- type: "intl"
+  year: 2025
+  month: 5
+  image: "/assets/img/publication/2025_FG_SignLanguage.png"
+  title: "Interactive Sign Language Question Answering Framework and Dataset for Barrier-Free Exhibition Service"
+  authors: "**Seokyong Heo**, **Minsu Jeon**, **Subin Lee**, **Jinwan Kim**, **Seongheon Ha**, **Suhyeon Cho**, Namyeong Heo, and **Jinsun Park**"
+  venue: "IEEE International Conference on Automatic Face and Gesture Recognition (**FG**)"
+  links:
+    - label: "Paper"
+      url: "https://ieeexplore.ieee.org/document/11099406"
+
+- type: "intl"
+  year: 2025
+  month: 5
+  image: "/assets/img/publication/2025_EG_NoiseGS.png"
+  title: "NoiseGS: Boosting 3D Gaussian Splatting with Positional Noise for Large-Scale Scene Rendering"
+  authors: "**Minseong Kweon**, Kai Cheng, Xuejin Chen†, and **Jinsun Park**† [† Corresponding Author]"
+  venue: "Eurographics (Short Paper)"
+  links:
+    - label: "Paper"
+      url: "https://diglib.eg.org/items/b8ace7bb-2b2c-4b30-a3e5-d37265fcfb0d"
+
+- type: "intl"
+  year: 2025
+  month: 4
+  image: "/assets/img/publication/2025_ICLR_FedOMG.png"
+  title: "Federated Domain Generalization with Data-free On-server Matching Gradient"
+  authors: "Trong-Binh Nguyen*, Minh-Duong Nguyen*, **Jinsun Park**†, Quoc-Viet Pham, and Won Joo Hwang† [* Equal Contribution] [† Corresponding Author]"
+  venue: "International Conference on Learning Representations (**ICLR**)"
+  links:
+    - label: "Paper"
+      url: "https://openreview.net/forum?id=8TERgu1Lb2"
+    - label: "Project Page (Code)"
+      url: "https://github.com/skydvn/fedomg"
+
+- type: "intl"
+  year: 2024
+  month: 12
+  image: "/assets/img/publication/2024_ACCV_ULTRON.png"
+  title: "ULTRON: Unifying Local Transformer and Convolution for Large-Scale Image Retrieval"
+  authors: "**Minseong Kweon** and **Jinsun Park**"
+  venue: "Asian Conference on Computer Vision (**ACCV**)"
+  links:
+    - label: "Paper"
+      url: "https://openaccess.thecvf.com/content/ACCV2024/html/Kweon_ULTRON_Unifying_Local_Transformer_and_Convolution_for_Large-scale_Image_Retrieval_ACCV_2024_paper.html"
+
+- type: "intl"
+  year: 2024
+  month: 12
+  image: "/assets/img/publication/2024_ACCV_CMCV.png"
+  title: "Exploiting Cross-Modal Cost Volume for Multi-Sensor Depth Estimation"
+  authors: "**Janghyun Kim**, Ukcheol Shin, **Seokyong Heo**, and **Jinsun Park**"
+  venue: "Asian Conference on Computer Vision (**ACCV**)"
+  links:
+    - label: "Paper"
+      url: "https://openaccess.thecvf.com/content/ACCV2024/html/Kim_Exploiting_Cross-modal_Cost_Volume_for_Multi-sensor_Depth_Estimation_ACCV_2024_paper.html"
+
+- type: "intl"
+  year: 2024
+  month: 7
+  image: "/assets/img/publication/2024_RAL_ADNet.png"
+  title: "ADNet: Non-Local Affinity Distillation Network for Lightweight Depth Completion with Guidance from Missing LiDAR Points"
+  authors: "**Janghyun Kim**, **Jeonghyun Noh**, **Mingyu Jeong**, Wonju Lee, Yeonchool Park, and **Jinsun Park**"
+  venue: "IEEE Robotics and Automation Letters (**RAL**)"
+  links:
+    - label: "Paper"
+      url: "https://ieeexplore.ieee.org/document/10598333"
+
+- type: "intl"
+  year: 2024
+  month: 7
+  image: "/assets/img/publication/2024_RAL_IAM.png"
+  title: "Interdimensional Knowledge Transfer for Semantic Segmentation on LiDAR Point Clouds"
+  authors: "**Seongheon Ha**, **Yeogyeong Kim**, and **Jinsun Park**"
+  venue: "IEEE Robotics and Automation Letters (**RAL**)"
+  links:
+    - label: "Paper"
+      url: "https://ieeexplore.ieee.org/document/10592641"
+
+- type: "intl"
+  year: 2024
+  month: 3
+  image: "/assets/img/publication/2024_PRL_CrossFormer.png"
+  title: "CrossFormer: Cross-Guided Attention for Multi-Modal Object Detection"
+  authors: "**Seungik Lee**, **Jaehyeong Park**, and **Jinsun Park**"
+  venue: "Pattern Recognition Letters (**PRL**)"
+  links:
+    - label: "Paper"
+      url: "https://www.sciencedirect.com/science/article/abs/pii/S016786552400045X"
+
+- type: "intl"
+  year: 2024
+  month: 2
+  image: "/assets/img/publication/2024_AAAI_CMDA.png"
+  title: "CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-Based 3D Object Detection"
+  authors: "Gyusam Chang, Wonseok Roh, Sujin Jang, Dongwook Lee, Daehyun Ji, Gyeongrok Oh, **Jinsun Park**, Jinkyu Kim, and Sangpil Kim"
+  venue: "AAAI Conference on Artificial Intelligence (**AAAI**)"
+  links:
+    - label: "Paper"
+      url: "https://ojs.aaai.org/index.php/AAAI/article/view/27857"
+
+- type: "intl"
+  year: 2023
+  month: 6
+  image: "/assets/img/publication/2023_CVPR_ThermalDepth.png"
+  title: "Deep Depth Estimation from Thermal Image"
+  authors: "Ukcheol Shin, **Jinsun Park**, and In So Kweon"
+  venue: "IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)"
+  links:
+    - label: "Paper"
+      url: "https://openaccess.thecvf.com/content/CVPR2023/html/Shin_Deep_Depth_Estimation_From_Thermal_Image_CVPR_2023_paper.html"
+    - label: "Project Page (Code)"
+      url: "https://github.com/UkcheolShin/MS2-MultiSpectralStereoDataset"
+
+- type: "intl"
+  year: 2022
+  month: 12
+  image: "/assets/img/publication/2022_ACCV_DCP.png"
+  title: "Lightweight Alpha Matting Network Using Distillation-Based Channel Pruning"
+  authors: "Donggeun Yoon, **Jinsun Park**, and Donghyeon Cho"
+  venue: "Asian Conference on Computer Vision (**ACCV**)"
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2210.07760"
+    - label: "Project Page (Code)"
+      url: "https://github.com/DongGeun-Yoon/DCP"
+
+- type: "intl"
+  year: 2022
+  month: 10
+  image: "/assets/img/publication/2022_Access_PSDataset.png"
+  title: "A Comprehensive Real-World Photometric Stereo Dataset for Unsupervised Anomaly Detection"
+  authors: "Junyong Jung, Seungoh Han, **Jinsun Park**, and Donghyeon Cho"
+  venue: "IEEE Access"
+  links:
+    - label: "Paper"
+      url: "https://ieeexplore.ieee.org/document/9916256"
+    - label: "Project Page (Code)"
+      url: "https://github.com/Junyong-Jung/PSAD"
+
+- type: "intl"
+  year: 2022
+  month: 9
+  image: "/assets/img/publication/2022_Sensors_LSPKD.png"
+  title: "Lightweight Depth Completion Network with Local Similarity-Preserving Knowledge Distillation"
+  authors: "Yongseop Jeong*, **Jinsun Park***, Donghyeon Cho, Yoonjin Hwang, Seibum B. Choi, and In So Kweon [* Equal Contribution]"
+  venue: "Sensors"
+  links:
+    - label: "Paper"
+      url: "https://www.mdpi.com/1424-8220/22/19/7388"
+
+- type: "intl"
+  year: 2022
+  month: 9
+  image: "/assets/img/publication/2022_OE_MiniPS.png"
+  title: "Minifying Photometric Stereo via Knowledge Distillation-Based Feature Translation"
+  authors: "Seungoh Han, **Jinsun Park**, and Donghyeon Cho"
+  venue: "Optics Express"
+  links:
+    - label: "Paper"
+      url: "https://doi.org/10.1364/OE.467618"
+
+- type: "intl"
+  year: 2022
+  month: 2
+  image: "/assets/img/publication/2022_RAL_ICRA_MMDCE.png"
+  title: "Adaptive Cost Volume Fusion Network for Multi-Modal Depth Estimation in Changing Environments"
+  authors: "**Jinsun Park***, Yongseop Jeong*, Kyungdon Joo, Donghyeon Cho, and In So Kweon [* Equal Contribution]"
+  venue: "IEEE Robotics and Automation Letters (**RAL**)"
+  links:
+    - label: "Paper"
+      url: "https://ieeexplore.ieee.org/abstract/document/9712358"
+    - label: "Project Page (Code)"
+      url: "https://github.com/zzangjinsun/MMDCE_RAL22"
+
+- type: "intl"
+  year: 2022
+  month: 3
+  image: "/assets/img/publication/2022_Electronics_RefSR.png"
+  title: "Online Learning for Reference-Based Super-Resolution"
+  authors: "Byungjoo Chae*, **Jinsun Park***, Tae-Hyun Kim, and Donghyeon Cho [* Equal Contribution]"
+  venue: "Electronics"
+  links:
+    - label: "Paper"
+      url: "https://www.mdpi.com/2079-9292/11/7/1064"
+
+- type: "intl"
+  year: 2022
+  month: 3
+  image: "/assets/img/publication/2022_CVIU_MCCalib.png"
+  title: "MC-Calib: A Generic and Robust Calibration Toolbox for Multi-Camera Systems"
+  authors: "Francois Rameau, **Jinsun Park**, Oleksandr Bailo, and In So Kweon"
+  venue: "Computer Vision and Image Understanding (**CVIU**)"
+  links:
+    - label: "Paper"
+      url: "https://www.sciencedirect.com/science/article/abs/pii/S1077314221001818"
+    - label: "Project Page (Code)"
+      url: "https://github.com/rameau-fr/MC-Calib"
+
+- type: "intl"
+  year: 2022
+  month: 2
+  image: "/assets/img/publication/2022_IJCV_SeeThrough.png"
+  title: "Real-Time Multi-Car Localization and See-Through System"
+  authors: "Francois Rameau, Oleksandr Bailo, **Jinsun Park**, Kyungdon Joo, and In So Kweon"
+  venue: "International Journal of Computer Vision (**IJCV**)"
+  links:
+    - label: "Paper"
+      url: "https://link.springer.com/article/10.1007/s11263-021-01558-5"
+
+- type: "intl"
+  year: 2021
+  month: 12
+  image: "/assets/img/publication/2021_SPL_LLKD.png"
+  title: "Learning Lightweight Low-Light Enhancement Network using Pseudo Well-Exposed Images"
+  authors: "Seonggwan Ko*, **Jinsun Park***, Byungjoo Chae, and Donghyeon Cho [* Equal Contribution]"
+  venue: "IEEE Signal Processing Letters (**SPL**)"
+  links:
+    - label: "Paper"
+      url: "https://ieeexplore.ieee.org/document/9648037"
+    - label: "Project Page (Code)"
+      url: "https://github.com/gggch414/LLKD"
+
+- type: "intl"
+  year: 2021
+  month: 10
+  image: "/assets/img/publication/2021_RAL_IROS_MS_UDA.png"
+  title: "MS-UDA: Multi-Spectral Unsupervised Domain Adaptation for Thermal Image Semantic Segmentation"
+  authors: "Yeong-Hyeon Kim, Ukcheol Shin, **Jinsun Park**, and In So Kweon"
+  venue: "IEEE Robotics and Automation Letters (**RAL**), Oct **2021**"
+  links:
+    - label: "Paper"
+      url: "https://ieeexplore.ieee.org/document/9468936"
+    - label: "Project Page (Code and Dataset)"
+      url: "https://github.com/yeong5366/MS-UDA"
+
+- type: "intl"
+  year: 2021
+  month: 8
+  image: "/assets/img/publication/2021_Electronics_Steganography.png"
+  title: "Deep Multi-Image Steganography with Private Keys"
+  authors: "Hyeokjoon Kweon*, **Jinsun Park***, Sanghyun Woo, and Donghyeon Cho [* Equal Contribution]"
+  venue: "Electronics"
+  links:
+    - label: "Paper"
+      url: "https://www.mdpi.com/2079-9292/10/16/1906"
+
+- type: "intl"
+  year: 2020
+  month: 11
+  image: "/assets/img/publication/2020_SPL_SPKD.png"
+  title: "Lightweight Deep CNN for Natural Image Matting via Similarity-Preserving Knowledge Distillation"
+  authors: "Donggeun Yoon*, **Jinsun Park***, and Donghyeon Cho [* Equal Contribution]"
+  venue: "IEEE Signal Processing Letters (**SPL**)"
+  links:
+    - label: "Paper"
+      url: "https://ieeexplore.ieee.org/document/9269400"
+    - label: "Project Page (Code)"
+      url: "https://github.com/DongGeun-Yoon/SPKD"
+
+- type: "intl"
+  year: 2020
+  month: 8
+  image: "/assets/img/publication/2020_ECCV_NLSPN.png"
+  title: "Non-Local Spatial Propagation Network for Depth Completion"
+  authors: "**Jinsun Park**, Kyungdon Joo, Zhe Hu, Chi-Kuei Liu, and In So Kweon"
+  venue: "European Conference on Computer Vision (**ECCV**)"
+  award: "Winner, Qualcomm Innovation Fellowship Korea (QIFK) 2020"
+  links:
+    - label: "Paper"
+      url: "http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1810_ECCV_2020_paper.php"
+    - label: "Project Page (Code)"
+      url: "https://github.com/zzangjinsun/NLSPN_ECCV20"
+
+- type: "intl"
+  year: 2020
+  month: 6
+  image: "/assets/img/publication/2020_CVPR_RefSR.png"
+  title: "Robust Reference-based Super-Resolution with Similarity-Aware Deformable Convolution"
+  authors: "[Gyumin Shim](https://sites.google.com/view/gmshim-cv), **Jinsun Park**, and In So Kweon"
+  venue: "IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)"
+  links:
+    - label: "Paper"
+      url: "https://openaccess.thecvf.com/content_CVPR_2020/papers/Shim_Robust_Reference-Based_Super-Resolution_With_Similarity-Aware_Deformable_Convolution_CVPR_2020_paper.pdf"
+    - label: "Project Page"
+      url: "https://sites.google.com/view/refsr-shim"
+
+- type: "intl"
+  year: 2020
+  month: 3
+  image: "/assets/img/publication/2020_WACV_PASSD.png"
+  title: "Propose-and-Attend Single Shot Detector"
+  authors: "[Ho-Deok Jang](https://sites.google.com/view/hdjangcv), Sanghyun Woo, Philipp Benz, **Jinsun Park**, and In So Kweon"
+  venue: "IEEE Winter Conference on Applications of Computer Vision (**WACV**)"
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/1907.12736"
+
+- type: "intl"
+  year: 2019
+  month: 11
+  image: "/assets/img/publication/2019_IROS_Sensor.png"
+  title: "Vehicular Multi-Camera Sensor System for Automated Visual Inspection of Electric Power Distribution Equipment"
+  authors: "**Jinsun Park**, Ukcheol Shin, Gyumin Shim, Kyungdon Joo, Francois Rameau, Junhyeok Kim, Dong-Geol Choi, and In So Kweon"
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)"
+  links:
+    - label: "Paper"
+      url: "https://ieeexplore.ieee.org/document/8968085"
+
+- type: "intl"
+  year: 2019
+  month: 11
+  image: "/assets/img/publication/2019_IROS_AE.png"
+  title: "Camera Exposure Control for Robust Robot Vision with Noise-Aware Image Quality Assessment"
+  authors: "Ukcheol Shin, **Jinsun Park**, Gyumin Shim, Francois Rameau, and In So Kweon"
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)"
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/1907.12646"
+    - label: "Project Page (Code & Dataset)"
+      url: "https://github.com/WookCheolShin/Noise-AwareCameraExposureControl"
+
+- type: "intl"
+  year: 2019
+  month: 2
+  image: "/assets/img/publication/2018_TPAMI_PS_RF_Teaser.png"
+  title: "Depth from a Light Field Image with Learning-based Matching Costs"
+  authors: "Hae-Gon Jeon, Jaesik Park, Gyeongmin Choe, **Jinsun Park**, Yunsu Bok, Yu-Wing Tai, and In So Kweon"
+  venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)"
+  links:
+    - label: "Paper"
+      url: "https://ieeexplore.ieee.org/document/8263242"
+
+- type: "intl"
+  year: 2018
+  month: 4
+  image: "/assets/img/publication/2018_PRL_Teaser.png"
+  title: "Efficient Adaptive Non-Maximal Suppression Algorithms for Homogeneous Spatial Keypoint Distribution"
+  authors: "Oleksandr Bailo, Francois Rameau, Kyungdon Joo, **Jinsun Park**, Oleksandr Bogdan, and In So Kweon"
+  venue: "Pattern Recognition Letters (**PRL**)"
+  links:
+    - label: "Paper"
+      url: "https://www.researchgate.net/publication/323388062_Efficient_adaptive_non-maximal_suppression_algorithms_for_homogeneous_spatial_keypoint_distribution"
+    - label: "Project Page (Code)"
+      url: "https://github.com/BAILOOL/ANMS-Codes"
+
+- type: "intl"
+  year: 2017
+  month: 10
+  image: "/assets/img/publication/2017_ICCV_Teaser.png"
+  title: "Weakly- and Self-Supervised Learning for Content-Aware Deep Image Retargeting"
+  authors: "[Donghyeon Cho](https://sites.google.com/view/cnu-cvip/home), **Jinsun Park**, Tae-Hyun Oh, Yu-Wing Tai, and In So Kweon"
+  venue: "IEEE International Conference on Computer Vision (**ICCV**)"
+  award: "Spotlight Presentation"
+  links:
+    - label: "Paper"
+      url: "http://openaccess.thecvf.com/content_ICCV_2017/papers/Cho_Weakly-_and_Self-Supervised_ICCV_2017_paper.pdf"
+
+- type: "intl"
+  year: 2017
+  month: 7
+  image: "/assets/img/publication/2017_CVPR_Teaser.png"
+  title: "A Unified Approach of Multi-scale Deep and Hand-crafted Features for Defocus Estimation"
+  authors: "**Jinsun Park**, Yu-Wing Tai, Donghyeon Cho, and In So Kweon"
+  venue: "IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)"
+  links:
+    - label: "Paper"
+      url: "http://openaccess.thecvf.com/content_cvpr_2017/papers/Park_A_Unified_Approach_CVPR_2017_paper.pdf"
+    - label: "Project Page (Code)"
+      url: "https://github.com/zzangjinsun/DHDE_CVPR17"
+
+- type: "intl"
+  year: 2016
+  month: 8
+  image: "/assets/img/publication/2016_URAI_Teaser.png"
+  title: "Asymmetric stereo with catadioptric lens: High quality image generation for intelligent robot"
+  authors: "[Donghyeon Cho](https://sites.google.com/view/cnu-cvip/home), **Jinsun Park**, Yu-Wing Tai, and In So Kweon"
+  venue: "International Conference on Ubiquitous Robots and Ambient Intelligence (**URAI**)"
+  links:
+    - label: "Paper"
+      url: "http://ieeexplore.ieee.org/abstract/document/7625745/"
+
+- type: "intl"
+  year: 2015
+  month: 6
+  image: "/assets/img/publication/2015_CVPR_Teaser.png"
+  title: "Accurate Depth Map Estimation from a Lenslet Light Field Camera"
+  authors: "[Hae-Gon Jeon](https://sites.google.com/site/hgjeoncv/), Jaesik Park, Gyeongmin Choe, **Jinsun Park**, Yunsu Bok, Yu-Wing Tai, and In So Kweon"
+  venue: "IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)"
+  links:
+    - label: "Paper"
+      url: "https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Jeon_Accurate_Depth_Map_2015_CVPR_paper.pdf"
+    - label: "Project Page (Code)"
+      url: "https://sites.google.com/site/hgjeoncv/publications"
+
+# ──────────────────────────────────────────────────────────
+# Other International Publications
+# ──────────────────────────────────────────────────────────
+
+- type: "other"
+  year: 2025
+  month: 1
+  image: "/assets/img/publication/2025_ICEIC_Teaser.png"
+  title: "Silent Speech Recognition Framework: Knowledge Distillation of Lip Reading Using Image and Keypoint Networks"
+  authors: "**Seongheon Ha**, **Jinwan Kim**, **Seokyong Heo**, **Minsu Jeon**, **Suhyeon Cho**, and **Jinsun Park**"
+  venue: "International Conference on Electronics, Information, and Communication (**ICEIC**)"
+  links:
+    - label: "Paper"
+
+- type: "other"
+  year: 2018
+  month: 2
+  image: "/assets/img/publication/2018_FCV_Teaser.png"
+  title: "Real-time Demonstration of Collaborative Localization of a Swarm of Connected Vehicles"
+  authors: "Francois Rameau, Oleksandr Bailo, **Jinsun Park**, Kyungdon Joo, Jaesung Choe, and In So Kweon"
+  venue: "International Workshop on Frontiers of Computer Vision (**FCV**)"
+  award: "Best Demo Presentation Award"
+  links:
+    - label: "Paper"
+    - label: "Certificate"
+      url: "/assets/img/publication/FCV18_Best_Demo_Award.png"
+
+- type: "other"
+  year: 2017
+  month: 7
+  image: "/assets/img/publication/2017_CVPRW_Teaser.png"
+  title: "A Taxonomy and Evaluation of Dense Light Field Depth Estimation Algorithms"
+  authors: "Ole Johannsen, Katrin Honauer, Bastian Goldluecke, Anna Alperovich, Federica Battisti, Yunsu Bok, Michele Brizzi, Marco Carli, Gyeongmin Choe, Maximilian Diebold, Marcel Gutsche, Hae-Gon Jeon, In So Kweon, Jaesik Park, **Jinsun Park**, Hendrik Schilling, Hao Sheng, Lipeng Si, Michael Strecke, Antonin Sulc, Yu-Wing Tai, Qing Wang, Ting-Chun Wang, Sven Wanner, Zhang Xiong, Jingyi Yu, Shuo Zhang, and Hao Zhu"
+  venue: "IEEE Conference on Computer Vision and Pattern Recognition Workshop - Light Fields for Computer Vision (**CVPRW - LF4CV**)"
+  links:
+    - label: "Paper"
+      url: "http://openaccess.thecvf.com/content_cvpr_2017_workshops/w27/papers/Johannsen_A_Taxonomy_and_CVPR_2017_paper.pdf"
+
+- type: "other"
+  year: 2017
+  month: 2
+  image: "/assets/img/publication/2017_FCV_Teaser.png"
+  title: "Single Image Depth Estimation using Convolutional Neural Networks with NCC-based Loss"
+  authors: "**Jinsun Park**, and In So Kweon"
+  venue: "International Workshop on Frontiers of Computer Vision (**FCV**)"
+  links:
+    - label: "Paper"
+
+# ──────────────────────────────────────────────────────────
+# Domestic Publications
+# ──────────────────────────────────────────────────────────
+
+- type: "domestic"
+  year: 2026
+  month: 2
+  title: "Mamba와 FlashAttention을 이용한 효율적인 LiDAR 기반 3D 객체 탐지 및 추적 프레임워크"
+  authors: "**허재성**, **박진선**"
+  venue: "영상처리 및 이해에 관한 워크샵 (IPIU)"
+
+- type: "domestic"
+  year: 2026
+  month: 2
+  title: "Diffusion Transformer를 이용한 해빙 농도 변화 추세 예측 모델"
+  authors: "**정예준**, **김동윤**, **박진선**"
+  venue: "영상처리 및 이해에 관한 워크샵 (IPIU)"
+
+- type: "domestic"
+  year: 2026
+  month: 2
+  title: "부분 폐색 상황에서의 열영상 탐지 성능 향상을 위한 데이터 증강 기법"
+  authors: "**공민중**, **조수영**, **박진선**"
+  venue: "영상처리 및 이해에 관한 워크샵 (IPIU)"
+
+- type: "domestic"
+  year: 2025
+  month: 12
+  title: "부위별 의미적 속성을 이용한 키포인트 기반 개인 재식별"
+  authors: "**이수빈, 박진선**"
+  venue: "전자공학회논문지"
+
+- type: "domestic"
+  year: 2025
+  month: 11
+  title: "야간 스마트 야드 안전 관리를 위한 저조도 데이터 증강 기반 객체 탐지 연구"
+  authors: "**고영민, 박진선**"
+  venue: "전자공학회논문지"
+
+- type: "domestic"
+  year: 2025
+  month: 11
+  title: "확산 모델의 무단 미세조정에 대한 텍스처 기반 맞춤화 방어 기법"
+  authors: "**고영민, 박현수, 박진선**"
+  venue: "유비쿼터스 컴퓨팅과 웹 정보기술 (UCWIT)"
+
+- type: "domestic"
+  year: 2025
+  month: 11
+  title: "배경 오분류 방지를 위한 어류 객체 검출"
+  authors: "**조용현, 한희주, 박진선**"
+  venue: "유비쿼터스 컴퓨팅과 웹 정보기술 (UCWIT)"
+  award: "우수논문상"
+
+- type: "domestic"
+  year: 2025
+  month: 6
+  title: "Superpixel을 이용한 카메라-라이다 외부 파라미터 캘리브레이션"
+  authors: "**김진완, 박진선**"
+  venue: "대한전자공학회 하계학술대회"
+
+- type: "domestic"
+  year: 2025
+  month: 6
+  title: "가상 체커보드를 활용한 Omnidirectional 카메라의 COLMAP 대응 왜곡 모델 근사 기법"
+  authors: "**박현수, 박재형, 고영민, 박진선**"
+  venue: "대한전자공학회 하계학술대회"
+
+- type: "domestic"
+  year: 2025
+  month: 2
+  title: "초거대 언어 모델 기반 궤적 예측을 활용한 산업 안전사고 예방"
+  authors: "**전민수, 김진완, 박현수, 이수빈, 노정현, 박진선**"
+  venue: "스마트미디어저널"
+
+- type: "domestic"
+  year: 2025
+  month: 2
+  title: "전시물 선호도 조사를 위한 관람객 행동 데이터 수집 및 분석 연구"
+  authors: "**조수현, 조용현, 박현수**, 허남영, **박진선**"
+  venue: "영상처리 및 이해에 관한 워크샵 (IPIU)"
+  award: "우수논문상 - 장려상"
+
+- type: "domestic"
+  year: 2025
+  month: 2
+  title: "HSV 조정 및 앙상블 기법을 활용한 YOLO 기반의 수중 이미지 객체 탐지 성능 개선"
+  authors: "**한희주, 노정현**, 이승환, 김은호, 윤석진, **박진선**"
+  venue: "영상처리 및 이해에 관한 워크샵 (IPIU)"
+
+- type: "domestic"
+  year: 2025
+  month: 2
+  title: "다중 어안 카메라 기반 물류창고 Top-View 파노라마 객체 추적 시스템"
+  authors: "**이수빈, 하현수, 박진선**"
+  venue: "영상처리 및 이해에 관한 워크샵 (IPIU)"
+
+- type: "domestic"
+  year: 2025
+  month: 2
+  title: "적대적 공격을 활용한 Stable Diffusion 기반 딥페이크 생성 방해"
+  authors: "**고영민, 박진선**"
+  venue: "영상처리 및 이해에 관한 워크샵 (IPIU)"
+
+- type: "domestic"
+  year: 2025
+  month: 2
+  title: "효율적인 어안 영상 3D Gaussian Splatting을 위한 방법 및 최적화"
+  authors: "**박재형, 박진선**"
+  venue: "영상처리 및 이해에 관한 워크샵 (IPIU)"
+
+- type: "domestic"
+  year: 2024
+  month: 12
+  title: "드론을 활용한 실시간 원격 흘수 정밀 계측 프레임워크"
+  authors: "**박찬일, 이승익, 노정현**, 최호준, 남병욱, 최영수, 윤시록, **박진선**"
+  venue: "스마트미디어저널"
+
+- type: "domestic"
+  year: 2024
+  month: 11
+  title: "KL 발산 기반의 적대적 공격을 통한 딥페이크 생성 방해"
+  authors: "**고영민, 박현수, 박진선**"
+  venue: "대한전자공학회 추계학술대회"
+  award: "우수학생논문상"
+
+- type: "domestic"
+  year: 2024
+  month: 6
+  title: "청각장애인을 위한 거대언어모델 기반 한국수어-자연어 대화형 프레임워크"
+  authors: "**하성헌, 허석용, 김진완, 전민수, 조수현**, 허남영, **박진선**"
+  venue: "대한전자공학회 하계학술대회"
+
+- type: "domestic"
+  year: 2024
+  month: 6
+  title: "지식 증류를 이용한 Non-Local 기반의 가벼운 깊이 추정 네트워크"
+  authors: "**김장현, 박찬일, 박진선**"
+  venue: "대한전자공학회 하계학술대회"
+
+- type: "domestic"
+  year: 2024
+  month: 6
+  title: "사람 재식별을 위한 자기 유사성 특징 학습"
+  authors: "**권민성, 박진선**"
+  venue: "대한전자공학회 하계학술대회"
+
+- type: "domestic"
+  year: 2024
+  month: 6
+  title: "뇌종양 분할을 위한 트랜스포머 기반의 다중 모달리티 지식 융합 방법"
+  authors: "**노정현, 박진선**"
+  venue: "대한전자공학회 하계학술대회"
+
+- type: "domestic"
+  year: 2024
+  month: 2
+  title: "의미론적 분할 기반 모델을 이용한 조선소 사외 적치장 객체 자동 관리 기술"
+  authors: "**정민규, 노정현, 김장현, 하성헌**, 강태선, 강기룡, 이병학, 김준현, **박진선**"
+  venue: "스마트미디어저널"
+
+- type: "domestic"
+  year: 2023
+  month: 10
+  title: "Zero-Shot 세포 영상 초해상화 기법"
+  authors: "**노정현, 박진선**"
+  venue: "멀티미디어학회논문지"
+
+- type: "domestic"
+  year: 2023
+  month: 6
+  title: "Window Attention 기반의 멀티 모달 객체 탐지"
+  authors: "**이승익, 박재형, 박진선**"
+  venue: "대한전자공학회 하계학술대회"
+
+- type: "domestic"
+  year: 2023
+  month: 6
+  title: "의미론적 분할을 위한 LiDAR 포인트 클라우드 기반 부채꼴형 계층적 트랜스포머"
+  authors: "**김여경, 하성헌, 박진선**"
+  venue: "대한전자공학회 하계학술대회"
+
+- type: "domestic"
+  year: 2023
+  month: 6
+  title: "멀티 모달 3차원 객체 탐지를 위한 Bird's Eye View Non-local Fuser"
+  authors: "**남예린, 정민규, 박진선**"
+  venue: "대한전자공학회 하계학술대회"
+
+- type: "domestic"
+  year: 2023
+  month: 6
+  title: "Balanced L1 손실함수와 Brightness 손실함수에 따른 저조도 영상 개선 기법"
+  authors: "**박인철, 노정현, 박진선**"
+  venue: "대한전자공학회 하계학술대회"
+
+- type: "domestic"
+  year: 2023
+  month: 6
+  title: "3축 가속도 데이터 변환 및 Attention 기반 사람 행동인식"
+  authors: "**권민성, 박재형, 김경현, 노정현, 박진선**"
+  venue: "한국컴퓨터종합학술대회 (KCC)"
+
+- type: "domestic"
+  year: 2021
+  month: 11
+  title: "이미지 매팅 경량화를 위한 지식 증류 기반 채널 프루닝"
+  authors: "윤동근, **박진선**, 조동현"
+  venue: "대한전자공학회 추계학술대회"

@@ -2,9 +2,12 @@
 title: Multi-Sensor Calibration
 layout: post
 slug: 0002-multi-sensor-calibration
+images:
+  - /assets/img/research/0002_multi_sensor_calibration_01.png
+description: "다중 센서 보정을 위한 연구"
 ---
 
-<img src="/assets/img/research/multi_sensor_calibration.png" style="width:100%;" />
+<img src="/assets/img/research/0002_multi_sensor_calibration_01.png" style="width:100%;" />
 
 ## Abstract
 

@@ -18,40 +18,11 @@
     box-shadow: 0 2px 40px 0 hsla(232, 8%, 63%, .3);
   }
 
-  &:last-of-type,
-  &:nth-child(n) {
-    margin-right: 0;
-  }
-
-  //@include breakpoint($md) {
-  //  width: 48.4375%;
-  //  margin-right: 3.125%;
-  //
-  //  &:last-of-type,
-  //  &:nth-child(2n+2) {
-  //    margin-right: 0;
-  //  }
-  //}
-  //
-  //@include breakpoint($xl) {
-  //  width: 31.25%;
-  //  margin-right: 3.125%;
-  //
-  //  &:nth-child(2n+2) {
-  //    margin-right: 3.125%;
-  //  }
-  //
-  //  &:last-of-type,
-  //  &:nth-child(3n+3) {
-  //    margin-right: 0;
-  //  }
-  //}
-
   &__label {
-    position: absolute;
-    top: 0.45rem;
-    left: 1.5rem;
-    z-index: 2;
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 0.75rem;
+    background-color: $dark-light;
   }
 
   &__inner {
@@ -76,9 +47,9 @@
   }
 
   &__meta {
-    font-size: 1.0rem;
+    font-size: 0.875rem;
     font-weight: bold;
-    color: rgba(255,255,255,0.8);
+    color: rgba(255, 255, 255, 0.85);
   }
 }
 
@@ -112,7 +83,7 @@
 
 .post-card__thumb_tall {
   margin: 0;
-  background: $dark-light;
+  background: transparent;
   position: relative;
   overflow: hidden;
   width: 100%;
