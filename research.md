@@ -65,7 +65,12 @@ function renderResearch() {
     let slides = '';
 
     if (item.images) {
-      slides += item.images.map(img => `<div class="swiper-slide"><img src="${img}" /></div>`).join('');
+      slides += item.images.map(img => {
+        if (/\.(webm|mp4)$/i.test(img)) {
+          return `<div class="swiper-slide"><video autoplay loop muted playsinline src="${img}"></video></div>`;
+        }
+        return `<div class="swiper-slide"><img src="${img}" /></div>`;
+      }).join('');
     }
 
     card.innerHTML = `

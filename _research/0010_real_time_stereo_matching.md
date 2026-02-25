@@ -3,13 +3,13 @@ title: Real-time Stereo Matching
 layout: post
 slug: 0010-real-time-stereo-matching
 images:
-  - /assets/img/research/0010_real_time_stereo_matching_01.gif
+  - /assets/img/research/0010_real_time_stereo_matching_01.webm
   - /assets/img/research/0010_real_time_stereo_matching_02.png
   - /assets/img/research/0010_real_time_stereo_matching_03.png
 description: "Confidence 기반 Refinement를 통한 실시간 스테레오 매칭 기법 연구"
 ---
 
-<img src="/assets/img/research/0010_real_time_stereo_matching_01.gif" style="width:100%;" />
+<video autoplay loop muted playsinline style="width:100%;"><source src="/assets/img/research/0010_real_time_stereo_matching_01.webm" type="video/webm"></video>
 <img src="/assets/img/research/0010_real_time_stereo_matching_02.png" style="width:100%;" />
 <img src="/assets/img/research/0010_real_time_stereo_matching_03.png" style="width:100%;" />
 
