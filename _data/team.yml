@@ -122,6 +122,15 @@
   research: "Computer Vision"
   category: "ms"
 
+- name: "Danyeong Choi"
+  name_kr: "최다녕"
+  photo: "/assets/img/team/danyeong_choi.jpg"
+  gender: f
+  c1: "yadadiohc"
+  c2: "moc.liamg"
+  research: "Computer Vision"
+  category: "ms"
+
 # Undergraduate Students
 - name: "Yu-Seong Jeong"
   name_kr: "정유성"
