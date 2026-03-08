@@ -20,9 +20,23 @@
   gender: m
   c1: "0113841va"
   c2: "moc.liamg"
-  research: "Vision-Language Model"
+  research: "Vision-Language Models"
   category: "phd"
   integrated: true
+
+- name: "Seongreol Park"
+  name_kr: "박승렬"
+  photo: "/assets/img/team/seongreol_park.jpg"
+  gender: m
+  research: "AI Agent, Vision-Language Models"
+  category: "phd"
+
+- name: "Keunwoo Lee"
+  name_kr: "이근우"
+  photo: "/assets/img/team/dummy.jpg"
+  gender: m
+  research: "Large Language Models"
+  category: "phd"
 
 # M.S. Students
 - name: "Hyunsoo Ha"
