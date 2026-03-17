@@ -576,6 +576,20 @@
 
 - type: "domestic"
   year: 2025
+  month: 9
+  title: "심초음파 영상 분할을 위한 경량 어댑터 통합 기법"
+  authors: "**김아정, 박진선**"
+  venue: "인공지능신호처리 학술대회"
+
+- type: "domestic"
+  year: 2025
+  month: 9
+  title: "감정 인식 기반 과학관 전시품 선호도 평가를 위한 데이터 증강 기법"
+  authors: "**최한얼, 조용현, 조수현**, 허남영, **박진선**"
+  venue: "인공지능신호처리 학술대회"
+
+- type: "domestic"
+  year: 2025
   month: 6
   title: "Superpixel을 이용한 카메라-라이다 외부 파라미터 캘리브레이션"
   authors: "**김진완, 박진선**"
