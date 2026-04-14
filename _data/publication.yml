@@ -11,6 +11,16 @@
 
 - type: "intl"
   year: 2026
+  month: 5
+  image: "/assets/img/publication/2026_EG_DualCodebook.png"
+  title: "Token-Based Dual-Codebook Learning for Robust 3D Pose Lifting"
+  authors: "**Minsu Jeon**, **Janghyun Kim**, and **Jinsun Park**"
+  venue: "Eurographics (Short Paper)"
+  links:
+    - label: "Paper"
+
+- type: "intl"
+  year: 2026
   month: 3
   image: "/assets/img/publication/2026_NEUCOM_ATAdapter.png"
   title: "AT-adapter: Leveraging Attribute Knowledge of CLIP for Few-shot Classification"
