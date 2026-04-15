@@ -18,6 +18,8 @@
   venue: "Eurographics (Short Paper)"
   links:
     - label: "Paper"
+    - label: "Project Page"
+      url: "https://minsuuuj.github.io/DuoTokenPose-Page/"
 
 - type: "intl"
   year: 2026
@@ -51,6 +53,8 @@
   links:
     - label: "Paper"
       url: "https://arxiv.org/abs/2601.04984"
+    - label: "Project Page (Code)"
+      url: "https://oceansplat.github.io/"
 
 - type: "intl"
   year: 2026
