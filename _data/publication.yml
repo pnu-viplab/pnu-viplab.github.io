@@ -529,7 +529,7 @@
   month: 2
   image: "/assets/img/publication/2017_FCV_Teaser.png"
   title: "Single Image Depth Estimation using Convolutional Neural Networks with NCC-based Loss"
-  authors: "**Jinsun Park**, and In So Kweon"
+  authors: "**Jinsun Park** and In So Kweon"
   venue: "International Workshop on Frontiers of Computer Vision (**FCV**)"
   links:
     - label: "Paper"

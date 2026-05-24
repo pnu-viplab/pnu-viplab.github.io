@@ -15,7 +15,7 @@
 
 - name: "Yong Hyeon Jo"
   name_kr: "조용현"
-  badge: "👑"
+  # badge: "👑"
   photo: "/assets/img/team/yonghyeon_jo.jpg"
   gender: m
   c1: "0113841va"
@@ -198,6 +198,15 @@
   c1: "522259j"
   c2: "rk.ca.nasup"
   research: "Embodied AI"
+  category: "undergrad"
+
+- name: "Seung Hyun Jo"
+  name_kr: "조승현"
+  photo: "/assets/img/team/seunghyun_jo.jpg"
+  gender: m
+  c1: "9751oj"
+  c2: "rk.ca.nasup"
+  research: "SLAM"
   category: "undergrad"
 
 # Researchers
