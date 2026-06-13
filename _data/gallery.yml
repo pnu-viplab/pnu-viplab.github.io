@@ -1,3 +1,28 @@
+- title: ICRA 2026
+  slug: 260601-260605-icra
+  start_date: 2026-06-01
+  end_date: 2026-06-05
+  description: 
+  images:
+    - "/assets/img/gallery/260601_260605_icra_01.jpg"
+    - "/assets/img/gallery/260601_260605_icra_02.jpg"
+    - "/assets/img/gallery/260601_260605_icra_03.jpg"
+    - "/assets/img/gallery/260601_260605_icra_04.jpg"
+    - "/assets/img/gallery/260601_260605_icra_05.jpg"
+    - "/assets/img/gallery/260601_260605_icra_06.jpg"
+    - "/assets/img/gallery/260601_260605_icra_07.jpg"
+  videos: []
+
+- title: 2026년 5월 석사학위 논문심사
+  slug: 260529-defense
+  date: 2026-05-29
+  description: 
+  images:
+    - "/assets/img/gallery/260529_defense_01.jpg"
+    - "/assets/img/gallery/260529_defense_02.jpg"
+    - "/assets/img/gallery/260529_defense_03.jpg"
+    - "/assets/img/gallery/260529_defense_04.jpg"
+
 - title: Eurographics 2026
   slug: 260504-260508-eurographics
   start_date: 2026-05-04

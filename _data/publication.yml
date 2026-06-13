@@ -540,6 +540,41 @@
 
 - type: "domestic"
   year: 2026
+  month: 6
+  title: "비수지적 요소 반영을 위한 얼굴 키포인트 기반 수어 생성 기법"
+  authors: "**안소은, 박진선**"
+  venue: "대한전자공학회 하계학술대회"
+
+- type: "domestic"
+  year: 2026
+  month: 6
+  title: "계층적 월드 모델 기반 계획에서 불확실성 기반 행동 디코딩 구조의 구현 및 분석"
+  authors: "**윤대한, 박진선**"
+  venue: "대한전자공학회 하계학술대회"
+
+- type: "domestic"
+  year: 2026
+  month: 6
+  title: "가우시안 어텐션 마스크를 이용한 카메라-라이다 융합 3D 객체 탐지"
+  authors: "**최다녕, 박진선**"
+  venue: "대한전자공학회 하계학술대회"
+
+- type: "domestic"
+  year: 2026
+  month: 6
+  title: "3D Half-Gaussian Splatting 기반 경계 선명화 3D Segmentation"
+  authors: "**장승현, 박진선**"
+  venue: "대한전자공학회 하계학술대회"
+
+- type: "domestic"
+  year: 2026
+  month: 6
+  title: "불완전 주석을 고려한 선박 도장 품질 데이터의 결함 영역 확장 세그멘테이션"
+  authors: "**이창현**, 이형탁, **박진선**"
+  venue: "대한전자공학회 하계학술대회"
+
+- type: "domestic"
+  year: 2026
   month: 2
   title: "Mamba와 FlashAttention을 이용한 효율적인 LiDAR 기반 3D 객체 탐지 및 추적 프레임워크"
   authors: "**허재성**, **박진선**"
