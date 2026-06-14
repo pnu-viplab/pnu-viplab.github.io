@@ -144,6 +144,7 @@
         label = CATEGORY_NAMES[entry.category] || entry.category;
         if (entry.integrated) label += ' (Integrated)';
       }
+      if (entry.major) label += ' (' + entry.major + ')';
       badge.textContent = label + extra;
       rolesDiv.appendChild(badge);
     });

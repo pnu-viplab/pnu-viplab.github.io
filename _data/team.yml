@@ -1,6 +1,11 @@
 # Contact fields (c1, c2) are reversed strings for spam protection.
 # To add a new email: reverse the username → c1, reverse the domain → c2.
 # Example: user "hello" @ "gmail.com" → c1: "olleh", c2: "moc.liamg"
+#
+# Optional "major" field: shown in parentheses after the role label on the
+# member detail page (e.g. "M.S. Student (ICT 융합학과)"). Add it only when a
+# member's department differs from the default. Example:
+#   major: "ICT 융합학과"
 
 # Ph.D. Students
 - name: "Janghyun Kim"
@@ -12,6 +17,7 @@
   c2: "moc.liamg"
   research: "Depth Perception & Multi-Sensor Fusion"
   category: "phd"
+  major: "정보융합공학과 AI전공"
 
 - name: "Yong Hyeon Jo"
   name_kr: "조용현"
@@ -22,6 +28,7 @@
   c2: "moc.liamg"
   research: "Vision-Language Models"
   category: "phd"
+  major: "정보융합공학과 AI전공"
   integrated: true
 
 - name: "Seongreol Park"
@@ -30,6 +37,7 @@
   gender: m
   research: "AI Agent, Vision-Language Models"
   category: "phd"
+  major: "정보융합공학과 AI전공"
 
 - name: "Keunwoo Lee"
   name_kr: "이근우"
@@ -37,6 +45,7 @@
   gender: m
   research: "Large Language Models"
   category: "phd"
+  major: "정보융합공학과 AI전공"
 
 # M.S. Students
 - name: "Hyunsoo Ha"
@@ -45,6 +54,7 @@
   gender: m
   research: "Computer Vision"
   category: "ms"
+  major: "정보융합공학과 AI전공"
 
 - name: "Su-Hyeon Cho"
   name_kr: "조수현"
@@ -54,6 +64,7 @@
   c2: "rk.ca.nasup"
   research: "Human-Object Interaction"
   category: "ms"
+  major: "정보융합공학과 AI전공"
 
 - name: "Changhyeon Lee"
   name_kr: "이창현"
@@ -63,6 +74,7 @@
   c2: "moc.liamg"
   research: "Image Segmentation"
   category: "ms"
+  major: "ICT 융합학과"
 
 - name: "Jaehyeong Park"
   name_kr: "박재형"
@@ -72,6 +84,7 @@
   c2: "rk.ca.nasup"
   research: "3D Scene & Surface Reconstruction"
   category: "ms"
+  major: "정보융합공학과 AI전공"
 
 - name: "Heeju Han"
   name_kr: "한희주"
@@ -81,6 +94,7 @@
   c2: "moc.revan"
   research: "Open-World Detection"
   category: "ms"
+  major: "정보융합공학과 AI전공"
 
 - name: "Subin Lee"
   name_kr: "이수빈"
@@ -90,6 +104,7 @@
   c2: "rk.ca.nasup"
   research: "Optical Flow Estimation"
   category: "ms"
+  major: "정보융합공학과 AI전공"
 
 - name: "Haneol Choi"
   name_kr: "최한얼"
@@ -99,6 +114,7 @@
   c2: "rk.ca.nasup"
   research: "BEV Object Detection"
   category: "ms"
+  major: "정보융합공학과 AI전공"
 
 - name: "Jaeseong Heo"
   name_kr: "허재성"
@@ -108,6 +124,7 @@
   c2: "rk.ca.nasup"
   research: "Visual Tracking"
   category: "ms"
+  major: "정보융합공학과 AI전공"
 
 - name: "AJeong Kim"
   name_kr: "김아정"
@@ -117,6 +134,7 @@
   c2: "rk.ca.nasup"
   research: "3D Scene Understanding"
   category: "ms"
+  major: "정보융합공학과 AI전공"
 
 - name: "Dongyun Kim"
   name_kr: "김동윤"
@@ -126,6 +144,7 @@
   c2: "rk.ca.nasup"
   research: "Human Motion Prediction"
   category: "ms"
+  major: "정보융합공학과 AI전공"
 
 - name: "Seunghyeon Jang"
   name_kr: "장승현"
@@ -135,6 +154,7 @@
   c2: "moc.liamg"
   research: "Computer Vision"
   category: "ms"
+  major: "정보융합공학과 컴퓨터공학전공"
 
 - name: "Danyeong Choi"
   name_kr: "최다녕"
@@ -144,6 +164,7 @@
   c2: "moc.liamg"
   research: "Computer Vision"
   category: "ms"
+  major: "정보융합공학과 AI전공"
 
 # Undergraduate Students
 - name: "Yu-Seong Jeong"
@@ -257,6 +278,7 @@
   graduation: "2026.02. (M.S.)"
   affiliation: 
   category: "alumni"
+  major: "정보융합공학과 AI전공"
 
 - name: "Hyeonsu Park"
   name_kr: "박현수"
@@ -267,6 +289,7 @@
   graduation: "2026.02. (M.S.)"
   affiliation: "Pusan National Univ."
   category: "alumni"
+  major: "정보융합공학과 AI전공"
 
 - name: "Minsu Jeon"
   name_kr: "전민수"
@@ -277,6 +300,7 @@
   graduation: "2026.02. (M.S.)"
   affiliation: "Pusan National Univ."
   category: "alumni"
+  major: "정보융합공학과 AI전공"
 
 - name: "Jin Wan Kim"
   name_kr: "김진완"
@@ -287,6 +311,7 @@
   graduation: "2026.02. (M.S.)"
   affiliation: "한국전자기술연구원 (KETI)"
   category: "alumni"
+  major: "정보융합공학과 AI전공"
 
 - name: "Seokyong Heo"
   name_kr: "허석용"
@@ -297,6 +322,7 @@
   graduation: "2026.02. (M.S.)"
   affiliation: USDA
   category: "alumni"
+  major: "정보융합공학과 AI전공"
 
 - name: "Chanill Park"
   name_kr: "박찬일"
@@ -307,6 +333,7 @@
   graduation: "2025.08. (M.S.)"
   affiliation: "한국로봇융합연구원"
   category: "alumni"
+  major: "정보융합공학과 AI전공"
 
 - name: "Sirock Yoon"
   name_kr: "윤시록"
@@ -315,6 +342,7 @@
   graduation: "2025.08. (M.S.)"
   affiliation: "삼성중공업"
   category: "alumni"
+  major: "정보융합공학과 AI전공"
 
 - name: "Seong Heon Ha"
   name_kr: "하성헌"
@@ -325,6 +353,7 @@
   graduation: "2025.02. (M.S.)"
   affiliation: "LG전자"
   category: "alumni"
+  major: "정보융합공학과 AI전공"
 
 - name: "Jeong Hyun Noh"
   name_kr: "노정현"
@@ -335,6 +364,7 @@
   graduation: "2025.02. (M.S.)"
   affiliation: "Korea Univ."
   category: "alumni"
+  major: "정보융합공학과 AI전공"
 
 - name: "Mingyu Jeong"
   name_kr: "정민규"
@@ -345,6 +375,7 @@
   graduation: "2024.08. (M.S.)"
   affiliation: "포스코DX"
   category: "alumni"
+  major: "정보융합공학과 AI전공"
 
 - name: "Janghyun Kim"
   name_kr: "김장현"
@@ -355,6 +386,7 @@
   graduation: "2024.08. (M.S.)"
   affiliation: "Pusan National Univ."
   category: "alumni"
+  major: "정보융합공학과 AI전공"
 
 - name: "Yerin Nam"
   name_kr: "남예린"
@@ -365,6 +397,7 @@
   graduation: "2024.02. (M.S.)"
   affiliation: "올포랜드"
   category: "alumni"
+  major: "정보융합공학과 AI전공"
 
 - name: "Yeogyeong Kim"
   name_kr: "김여경"
@@ -375,6 +408,7 @@
   graduation: "2024.02. (M.S.)"
   affiliation: "CMES"
   category: "alumni"
+  major: "정보융합공학과 AI전공"
 
 - name: "Seungik Lee"
   name_kr: "이승익"
@@ -385,6 +419,7 @@
   graduation: "2024.02. (M.S.)"
   affiliation: "삼성중공업"
   category: "alumni"
+  major: "정보융합공학과 AI전공"
 
 - name: "Incheol Park"
   name_kr: "박인철"
@@ -395,6 +430,7 @@
   graduation: "2024.02. (M.S.)"
   affiliation: "UNIST"
   category: "alumni"
+  major: "정보융합공학과 AI전공"
 
 # Former Researchers
 - name: "Minseong Kweon"
