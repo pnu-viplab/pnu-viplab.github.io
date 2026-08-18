@@ -47,62 +47,22 @@
   category: "phd"
   major: "정보융합공학과 AI전공"
 
+- name: "Heeju Han"
+  name_kr: "한희주"
+  photo: "/assets/img/team/heeju_han.jpg"
+  gender: f
+  c1: "7182aojjhh"
+  c2: "rk.ca.nasup"
+  research: "Open-World Detection"
+  category: "phd"
+  major: "정보융합공학과 AI전공"
+
 # M.S. Students
 - name: "Hyunsoo Ha"
   name_kr: "하현수"
   photo: "/assets/img/team/dummy.jpg"
   gender: m
   research: "Computer Vision"
-  category: "ms"
-  major: "정보융합공학과 AI전공"
-
-- name: "Su-Hyeon Cho"
-  name_kr: "조수현"
-  photo: "/assets/img/team/dummy.jpg"
-  gender: f
-  c1: "og0874g"
-  c2: "rk.ca.nasup"
-  research: "Human-Object Interaction"
-  category: "ms"
-  major: "정보융합공학과 AI전공"
-
-- name: "Changhyeon Lee"
-  name_kr: "이창현"
-  photo: "/assets/img/team/changhyeon_lee.jpg"
-  gender: m
-  c1: "yreehceelhc"
-  c2: "moc.liamg"
-  research: "Image Segmentation"
-  category: "ms"
-  major: "ICT 융합학과"
-
-- name: "Jaehyeong Park"
-  name_kr: "박재형"
-  photo: "/assets/img/team/jaehyeong_park.jpg"
-  gender: m
-  c1: "813krapnai"
-  c2: "rk.ca.nasup"
-  research: "3D Scene & Surface Reconstruction"
-  category: "ms"
-  major: "정보융합공학과 AI전공"
-
-- name: "Heeju Han"
-  name_kr: "한희주"
-  photo: "/assets/img/team/heeju_han.jpg"
-  gender: f
-  c1: "7182aojjhh"
-  c2: "moc.revan"
-  research: "Open-World Detection"
-  category: "ms"
-  major: "정보융합공학과 AI전공"
-
-- name: "Subin Lee"
-  name_kr: "이수빈"
-  photo: "/assets/img/team/subin_lee.jpg"
-  gender: f
-  c1: "09888nibus"
-  c2: "rk.ca.nasup"
-  research: "Optical Flow Estimation"
   category: "ms"
   major: "정보융합공학과 AI전공"
 
@@ -152,7 +112,7 @@
   gender: f
   c1: "900gnixw"
   c2: "moc.liamg"
-  research: "Computer Vision"
+  research: "3D Gaussian Splatting"
   category: "ms"
   major: "정보융합공학과 컴퓨터공학전공"
 
@@ -160,9 +120,19 @@
   name_kr: "최다녕"
   photo: "/assets/img/team/danyeong_choi.jpg"
   gender: f
-  c1: "yadadiohc"
+  c1: "622030ndc"
+  c2: "rk.ca.nasup"
+  research: "BEV Object Detection"
+  category: "ms"
+  major: "정보융합공학과 AI전공"
+
+- name: "Soeun An"
+  name_kr: "안소은"
+  photo: "/assets/img/team/soeun_an.jpg"
+  gender: f
+  c1: "emsietuq"
   c2: "moc.liamg"
-  research: "Computer Vision"
+  research: "Sign Language Recognition"
   category: "ms"
   major: "정보융합공학과 AI전공"
 
@@ -203,15 +173,6 @@
   research: "Diffusion Models"
   category: "undergrad"
 
-- name: "Suyoung Cho"
-  name_kr: "조수영"
-  photo: "/assets/img/team/suyoung_cho.jpg"
-  gender: f
-  c1: "101dudnthw"
-  c2: "rk.ca.nasup"
-  research: "Audio-Visual Segmentation"
-  category: "undergrad"
-
 - name: "DaeHan Yoon"
   name_kr: "윤대한"
   photo: "/assets/img/team/daehan_yoon.jpg"
@@ -231,31 +192,31 @@
   category: "undergrad"
 
 # Researchers
-- name: "Hyeonsu Park"
-  name_kr: "박현수"
-  photo: "/assets/img/team/hyunsu_park.jpg"
-  gender: m
-  c1: "01emorej"
-  c2: "rk.ca.nasup"
-  research: "3D Face Editing"
-  category: "researcher"
-
-- name: "Minsu Jeon"
-  name_kr: "전민수"
-  photo: "/assets/img/team/minsu_jeon.jpg"
-  gender: m
-  c1: "825lrsjw"
-  c2: "moc.revan"
-  research: "Human Pose Estimation"
-  category: "researcher"
-
-- name: "Soeun An"
-  name_kr: "안소은"
-  photo: "/assets/img/team/soeun_an.jpg"
+- name: "Suyoung Cho"
+  name_kr: "조수영"
+  photo: "/assets/img/team/suyoung_cho.jpg"
   gender: f
-  c1: "emsietuq"
-  c2: "moc.liamg"
-  research: "Sign Language Recognition"
+  c1: "101dudnthw"
+  c2: "rk.ca.nasup"
+  research: "Audio-Visual Segmentation"
+  category: "researcher"
+
+- name: "Subin Lee"
+  name_kr: "이수빈"
+  photo: "/assets/img/team/subin_lee.jpg"
+  gender: f
+  c1: "09888nibus"
+  c2: "rk.ca.nasup"
+  research: "Optical Flow Estimation"
+  category: "researcher"
+
+- name: "Jaehyeong Park"
+  name_kr: "박재형"
+  photo: "/assets/img/team/jaehyeong_park.jpg"
+  gender: m
+  c1: "813krapnai"
+  c2: "rk.ca.nasup"
+  research: "3D Gaussian Splatting"
   category: "researcher"
 
 # Research Staffs
@@ -269,6 +230,61 @@
   category: "staff"
 
 # Alumni
+- name: "Changhyeon Lee"
+  name_kr: "이창현"
+  photo: "/assets/img/team/changhyeon_lee.jpg"
+  gender: m
+  c1: "yreehceelhc"
+  c2: "moc.liamg"
+  graduation: "2026.08. (M.S.)"
+  affiliation: "한국해양과학기술원 (KIOST)"
+  category: "alumni"
+  major: "ICT 융합학과"
+
+- name: "Heeju Han"
+  name_kr: "한희주"
+  photo: "/assets/img/team/heeju_han.jpg"
+  gender: f
+  c1: "7182aojjhh"
+  c2: "rk.ca.nasup"
+  graduation: "2026.08. (M.S.)"
+  affiliation: "Pusan National Univ."
+  category: "alumni"
+  major: "정보융합공학과 AI전공"
+
+- name: "Subin Lee"
+  name_kr: "이수빈"
+  photo: "/assets/img/team/subin_lee.jpg"
+  gender: f
+  c1: "09888nibus"
+  c2: "rk.ca.nasup"
+  graduation: "2026.08. (M.S.)"
+  affiliation: "Pusan National Univ."
+  category: "alumni"
+  major: "정보융합공학과 AI전공"
+
+- name: "Jaehyeong Park"
+  name_kr: "박재형"
+  photo: "/assets/img/team/jaehyeong_park.jpg"
+  gender: m
+  c1: "813krapnai"
+  c2: "rk.ca.nasup"
+  graduation: "2026.08. (M.S.)"
+  affiliation: "Pusan National Univ."
+  category: "alumni"
+  major: "정보융합공학과 AI전공"
+
+- name: "Su-Hyeon Cho"
+  name_kr: "조수현"
+  photo: "/assets/img/team/dummy.jpg"
+  gender: f
+  c1: "og0874g"
+  c2: "rk.ca.nasup"
+  graduation: "2026.08. (M.S.)"
+  affiliation: "국립부산과학관"
+  category: "alumni"
+  major: "정보융합공학과 AI전공"
+
 - name: "Yeongmin Ko"
   name_kr: "고영민"
   photo: "/assets/img/team/yeongmin_ko.jpg"
@@ -433,6 +449,39 @@
   major: "정보융합공학과 AI전공"
 
 # Former Researchers
+- name: "Soeun An"
+  name_kr: "안소은"
+  photo: "/assets/img/team/soeun_an.jpg"
+  gender: f
+  c1: "emsietuq"
+  c2: "moc.liamg"
+  period: "2026.03.~2026.08."
+  role: "Research Assistant"
+  affiliation: "Pusan National Univ."
+  category: "former_researcher"
+
+- name: "Hyeonsu Park"
+  name_kr: "박현수"
+  photo: "/assets/img/team/hyunsu_park.jpg"
+  gender: m
+  c1: "01emorej"
+  c2: "rk.ca.nasup"
+  period: "2026.03.~2026.08."
+  role: "Master's Degree Researcher"
+  affiliation: 
+  category: "former_researcher"
+
+- name: "Minsu Jeon"
+  name_kr: "전민수"
+  photo: "/assets/img/team/minsu_jeon.jpg"
+  gender: m
+  c1: "825lrsjw"
+  c2: "moc.revan"
+  period: "2026.03.~2026.07."
+  role: "Master's Degree Researcher"
+  affiliation: "Pusan National Univ."
+  category: "former_researcher"
+
 - name: "Minseong Kweon"
   name_kr: "권민성"
   photo: "/assets/img/team/minseong_kweon.jpg"
@@ -456,6 +505,15 @@
   category: "former_researcher"
 
 # Former Undergraduate Researchers
+- name: "Suyoung Cho"
+  name_kr: "조수영"
+  gender: f
+  c1: "101dudnthw"
+  c2: "rk.ca.nasup"
+  period: "2025.08.~2026.08."
+  affiliation: "Pusan National Univ."
+  category: "former_undergrad"
+
 - name: "Minseong Kweon"
   name_kr: "권민성"
   gender: m

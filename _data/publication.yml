@@ -11,6 +11,34 @@
 
 - type: "intl"
   year: 2026
+  month: 9
+  image: "/assets/img/publication/2026_ECCV_SAOWOD.png"
+  title: "Towards Sparsely Annotated Open World Object Detection"
+  authors: "**Heeju Han**, **AJeong Kim**, and **Jinsun Park**"
+  venue: "European Conference on Computer Vision (**ECCV**)"
+  links:
+    - label: "Paper"
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2608.12714"
+    - label: "Project Page (Code)"
+      url: "https://github.com/HelloHeeju/SA-OWOD"
+
+- type: "intl"
+  year: 2026
+  month: 9
+  image: "/assets/img/publication/2026_ECCV_MiRA.png"
+  title: "Reweighting Framewise Attention in Video Transformers for Facial Expression Understanding"
+  authors: "Seongro Yoon, Donghyeon Cho, **Jinsun Park**, and Francois Bremond"
+  venue: "European Conference on Computer Vision (**ECCV**)"
+  links:
+    - label: "Paper"
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2606.30611"
+    - label: "Project Page (Code)"
+      url: "https://github.com/ysrinria/MiRA"
+
+- type: "intl"
+  year: 2026
   month: 5
   image: "/assets/img/publication/2026_EG_DualCodebook.png"
   title: "Token-Based Dual-Codebook Learning for Robust 3D Pose Lifting"

@@ -1,3 +1,48 @@
+- title: KCCV 2026
+  slug: 260803-260805-kccv
+  start_date: 2026-08-03
+  end_date: 2026-08-05
+  description: 
+  images:
+    - "/assets/img/gallery/260803_260805_kccv_01.jpg"
+  videos: []
+
+- title: 2026 대한전자공학회 하계종합학술대회
+  slug: 260623-260626-ieie
+  start_date: 2026-06-23
+  end_date: 2026-06-26
+  description: 
+  images:
+    - "/assets/img/gallery/260623_260626_ieie_01.jpg"
+    - "/assets/img/gallery/260623_260626_ieie_02.jpg"
+    - "/assets/img/gallery/260623_260626_ieie_03.jpg"
+    - "/assets/img/gallery/260623_260626_ieie_04.jpg"
+    - "/assets/img/gallery/260623_260626_ieie_05.jpg"
+    - "/assets/img/gallery/260623_260626_ieie_06.jpg"
+    - "/assets/img/gallery/260623_260626_ieie_07.jpg"
+    - "/assets/img/gallery/260623_260626_ieie_08.jpg"
+    - "/assets/img/gallery/260623_260626_ieie_09.jpg"
+  videos: []
+
+- title: Visiting Interns from Ecole centrale de Marseille
+  slug: 260622-260717-french-interns
+  start_date: 2026-06-22
+  end_date: 2026-07-17
+  description: 
+  images:
+    - "/assets/img/gallery/260622_260717_french_interns_01.jpg"
+    - "/assets/img/gallery/260622_260717_french_interns_02.jpg"
+    - "/assets/img/gallery/260622_260717_french_interns_03.jpg"
+    - "/assets/img/gallery/260622_260717_french_interns_04.jpg"
+    - "/assets/img/gallery/260622_260717_french_interns_05.jpg"
+
+- title: 2026년 6월 석사학위 논문심사
+  slug: 260619-defense
+  date: 2026-06-19
+  description: 
+  images:
+    - "/assets/img/gallery/260619_defense_01.jpg"
+
 - title: ICRA 2026
   slug: 260601-260605-icra
   start_date: 2026-06-01
