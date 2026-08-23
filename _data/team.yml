@@ -10,6 +10,7 @@
 # Ph.D. Students
 - name: "Janghyun Kim"
   name_kr: "김장현"
+  id: "janghyun_kim_2022"
   photo: "/assets/img/team/janghyun_kim.jpg"
   gender: m
   homepage: "https://janghyun41.github.io/"
@@ -21,6 +22,7 @@
 
 - name: "Yong Hyeon Jo"
   name_kr: "조용현"
+  id: "yonghyeon_jo_2023"
   # badge: "👑"
   photo: "/assets/img/team/yonghyeon_jo.jpg"
   gender: m
@@ -33,6 +35,7 @@
 
 - name: "Seongreol Park"
   name_kr: "박승렬"
+  id: "seongreol_park_2026"
   photo: "/assets/img/team/seongreol_park.jpg"
   gender: m
   research: "AI Agent, Vision-Language Models"
@@ -41,6 +44,7 @@
 
 - name: "Keunwoo Lee"
   name_kr: "이근우"
+  id: "keunwoo_lee_2026"
   photo: "/assets/img/team/dummy.jpg"
   gender: m
   research: "Large Language Models"
@@ -49,6 +53,7 @@
 
 - name: "Heeju Han"
   name_kr: "한희주"
+  id: "heeju_han_2024"
   photo: "/assets/img/team/heeju_han.jpg"
   gender: f
   c1: "7182aojjhh"
@@ -60,6 +65,7 @@
 # M.S. Students
 - name: "Hyunsoo Ha"
   name_kr: "하현수"
+  id: "hyunsoo_ha_2023"
   photo: "/assets/img/team/dummy.jpg"
   gender: m
   research: "Computer Vision"
@@ -68,6 +74,7 @@
 
 - name: "Haneol Choi"
   name_kr: "최한얼"
+  id: "haneol_choi_2025"
   photo: "/assets/img/team/haneol_choi.jpg"
   gender: m
   c1: "0029fjdskg"
@@ -78,6 +85,7 @@
 
 - name: "Jaeseong Heo"
   name_kr: "허재성"
+  id: "jaeseong_heo_2025"
   photo: "/assets/img/team/jaeseong_heo.jpg"
   gender: m
   c1: "2394sjh"
@@ -88,6 +96,7 @@
 
 - name: "AJeong Kim"
   name_kr: "김아정"
+  id: "ajeong_kim_2025"
   photo: "/assets/img/team/ajeong_kim.jpg"
   gender: f
   c1: "636knoej"
@@ -98,6 +107,7 @@
 
 - name: "Dongyun Kim"
   name_kr: "김동윤"
+  id: "dongyun_kim_2026"
   photo: "/assets/img/team/dongyun_kim.jpg"
   gender: m
   c1: "1020nooygnod"
@@ -108,6 +118,7 @@
 
 - name: "Seunghyeon Jang"
   name_kr: "장승현"
+  id: "seunghyeon_jang_2026"
   photo: "/assets/img/team/seunghyeon_jang.jpg"
   gender: f
   c1: "900gnixw"
@@ -118,6 +129,7 @@
 
 - name: "Danyeong Choi"
   name_kr: "최다녕"
+  id: "danyeong_choi_2026"
   photo: "/assets/img/team/danyeong_choi.jpg"
   gender: f
   c1: "622030ndc"
@@ -128,6 +140,7 @@
 
 - name: "Soeun An"
   name_kr: "안소은"
+  id: "soeun_an_2026"
   photo: "/assets/img/team/soeun_an.jpg"
   gender: f
   c1: "emsietuq"
@@ -139,6 +152,7 @@
 # Undergraduate Students
 - name: "Yu-Seong Jeong"
   name_kr: "정유성"
+  id: "yuseong_jeong_2024"
   photo: "/assets/img/team/dummy.jpg"
   gender: m
   c1: "4170gnusooy"
@@ -148,6 +162,7 @@
 
 - name: "Yeonji Lee"
   name_kr: "이연지"
+  id: "yeonji_lee_2025"
   photo: "/assets/img/team/dummy.jpg"
   gender: f
   c1: "685552202poc"
@@ -157,6 +172,7 @@
 
 - name: "Minjung Gong"
   name_kr: "공민중"
+  id: "minjung_gong_2025"
   photo: "/assets/img/team/minjung_gong.jpg"
   gender: m
   c1: "20lddnwsla"
@@ -166,6 +182,7 @@
 
 - name: "Yejun Jung"
   name_kr: "정예준"
+  id: "yejun_jung_2025"
   photo: "/assets/img/team/dummy.jpg"
   gender: m
   c1: "2nujey"
@@ -175,6 +192,7 @@
 
 - name: "DaeHan Yoon"
   name_kr: "윤대한"
+  id: "daehan_yoon_2025"
   photo: "/assets/img/team/daehan_yoon.jpg"
   gender: m
   c1: "522259j"
@@ -184,6 +202,7 @@
 
 - name: "Seung Hyun Jo"
   name_kr: "조승현"
+  id: "seunghyun_jo_2026"
   photo: "/assets/img/team/seunghyun_jo.jpg"
   gender: m
   c1: "9751oj"
@@ -194,6 +213,7 @@
 # Researchers
 - name: "Suyoung Cho"
   name_kr: "조수영"
+  id: "suyoung_cho_2025"
   photo: "/assets/img/team/suyoung_cho.jpg"
   gender: f
   c1: "101dudnthw"
@@ -203,6 +223,7 @@
 
 - name: "Subin Lee"
   name_kr: "이수빈"
+  id: "subin_lee_2024"
   photo: "/assets/img/team/subin_lee.jpg"
   gender: f
   c1: "09888nibus"
@@ -212,6 +233,7 @@
 
 - name: "Jaehyeong Park"
   name_kr: "박재형"
+  id: "jaehyeong_park_2022"
   photo: "/assets/img/team/jaehyeong_park.jpg"
   gender: m
   c1: "813krapnai"
@@ -222,6 +244,7 @@
 # Research Staffs
 - name: "Hye Soon Yang"
   name_kr: "양혜순"
+  id: "hyesoon_yang_2025"
   photo: "/assets/img/team/dummy.jpg"
   gender: f
   c1: "77iygnay"
@@ -232,6 +255,7 @@
 # Alumni
 - name: "Changhyeon Lee"
   name_kr: "이창현"
+  id: "changhyeon_lee_2026"
   photo: "/assets/img/team/changhyeon_lee.jpg"
   gender: m
   c1: "yreehceelhc"
@@ -243,6 +267,7 @@
 
 - name: "Heeju Han"
   name_kr: "한희주"
+  id: "heeju_han_2024"
   photo: "/assets/img/team/heeju_han.jpg"
   gender: f
   c1: "7182aojjhh"
@@ -254,6 +279,7 @@
 
 - name: "Subin Lee"
   name_kr: "이수빈"
+  id: "subin_lee_2024"
   photo: "/assets/img/team/subin_lee.jpg"
   gender: f
   c1: "09888nibus"
@@ -265,6 +291,7 @@
 
 - name: "Jaehyeong Park"
   name_kr: "박재형"
+  id: "jaehyeong_park_2022"
   photo: "/assets/img/team/jaehyeong_park.jpg"
   gender: m
   c1: "813krapnai"
@@ -274,8 +301,9 @@
   category: "alumni"
   major: "정보융합공학과 AI전공"
 
-- name: "Su-Hyeon Cho"
+- name: "Suhyeon Cho"
   name_kr: "조수현"
+  id: "suhyeon_cho_2024"
   photo: "/assets/img/team/dummy.jpg"
   gender: f
   c1: "og0874g"
@@ -287,6 +315,7 @@
 
 - name: "Yeongmin Ko"
   name_kr: "고영민"
+  id: "yeongmin_ko_2024"
   photo: "/assets/img/team/yeongmin_ko.jpg"
   gender: m
   c1: "5428noelsp"
@@ -298,7 +327,8 @@
 
 - name: "Hyeonsu Park"
   name_kr: "박현수"
-  photo: "/assets/img/team/hyunsu_park.jpg"
+  id: "hyeonsu_park_2024"
+  photo: "/assets/img/team/hyeonsu_park.jpg"
   gender: m
   c1: "01emorej"
   c2: "rk.ca.nasup"
@@ -309,6 +339,7 @@
 
 - name: "Minsu Jeon"
   name_kr: "전민수"
+  id: "minsu_jeon_2024"
   photo: "/assets/img/team/minsu_jeon.jpg"
   gender: m
   c1: "825lrsjw"
@@ -320,6 +351,7 @@
 
 - name: "Jin Wan Kim"
   name_kr: "김진완"
+  id: "jinwan_kim_2024"
   photo: "/assets/img/team/jinwan_kim.jpg"
   gender: m
   c1: "9391kwj"
@@ -331,6 +363,7 @@
 
 - name: "Seokyong Heo"
   name_kr: "허석용"
+  id: "seokyong_heo_2023"
   photo: "/assets/img/team/seokyong_heo.jpg"
   gender: m
   c1: "renogardsh"
@@ -342,6 +375,7 @@
 
 - name: "Chanill Park"
   name_kr: "박찬일"
+  id: "chanill_park_2023"
   photo: "/assets/img/team/chanill_park.jpg"
   gender: m
   c1: "103krapnaed"
@@ -353,6 +387,7 @@
 
 - name: "Sirock Yoon"
   name_kr: "윤시록"
+  id: "sirock_yoon_2023"
   photo: "/assets/img/team/dummy.jpg"
   gender: m
   graduation: "2025.08. (M.S.)"
@@ -362,6 +397,7 @@
 
 - name: "Seong Heon Ha"
   name_kr: "하성헌"
+  id: "seongheon_ha_2023"
   photo: "/assets/img/team/seongheon_ha.jpg"
   gender: m
   c1: "orfks321"
@@ -373,6 +409,7 @@
 
 - name: "Jeong Hyun Noh"
   name_kr: "노정현"
+  id: "jeonghyun_noh_2023"
   photo: "/assets/img/team/jeonghyun_noh.jpg"
   gender: m
   c1: "7690sugdjw"
@@ -384,6 +421,7 @@
 
 - name: "Mingyu Jeong"
   name_kr: "정민규"
+  id: "mingyu_jeong_2022"
   photo: "/assets/img/team/mingyu_jeong.jpg"
   gender: m
   c1: "6942qoba"
@@ -395,6 +433,7 @@
 
 - name: "Janghyun Kim"
   name_kr: "김장현"
+  id: "janghyun_kim_2022"
   photo: "/assets/img/team/janghyun_kim.jpg"
   gender: m
   c1: "7944aojgnaj"
@@ -406,6 +445,7 @@
 
 - name: "Yerin Nam"
   name_kr: "남예린"
+  id: "yerin_nam_2022"
   photo: "/assets/img/team/yerin_nam.jpg"
   gender: f
   c1: "01ryn"
@@ -417,6 +457,7 @@
 
 - name: "Yeogyeong Kim"
   name_kr: "김여경"
+  id: "yeogyeong_kim_2022"
   photo: "/assets/img/team/yeogyeong_kim.jpg"
   gender: f
   c1: "5221mikgy"
@@ -428,6 +469,7 @@
 
 - name: "Seungik Lee"
   name_kr: "이승익"
+  id: "seungik_lee_2022"
   photo: "/assets/img/team/seungik_lee.jpg"
   gender: m
   c1: "6458isl"
@@ -439,6 +481,7 @@
 
 - name: "Incheol Park"
   name_kr: "박인철"
+  id: "incheol_park_2022"
   photo: "/assets/img/team/incheol_park.jpg"
   gender: m
   c1: "321minluhcni"
@@ -451,6 +494,7 @@
 # Former Researchers
 - name: "Soeun An"
   name_kr: "안소은"
+  id: "soeun_an_2026"
   photo: "/assets/img/team/soeun_an.jpg"
   gender: f
   c1: "emsietuq"
@@ -462,7 +506,8 @@
 
 - name: "Hyeonsu Park"
   name_kr: "박현수"
-  photo: "/assets/img/team/hyunsu_park.jpg"
+  id: "hyeonsu_park_2024"
+  photo: "/assets/img/team/hyeonsu_park.jpg"
   gender: m
   c1: "01emorej"
   c2: "rk.ca.nasup"
@@ -473,6 +518,7 @@
 
 - name: "Minsu Jeon"
   name_kr: "전민수"
+  id: "minsu_jeon_2024"
   photo: "/assets/img/team/minsu_jeon.jpg"
   gender: m
   c1: "825lrsjw"
@@ -484,6 +530,7 @@
 
 - name: "Minseong Kweon"
   name_kr: "권민성"
+  id: "minseong_kweon_2023"
   photo: "/assets/img/team/minseong_kweon.jpg"
   gender: m
   c1: "120noewk"
@@ -495,6 +542,7 @@
 
 - name: "Seungik Lee"
   name_kr: "이승익"
+  id: "seungik_lee_2022"
   photo: "/assets/img/team/seungik_lee.jpg"
   gender: m
   c1: "6458isl"
@@ -507,6 +555,7 @@
 # Former Undergraduate Researchers
 - name: "Suyoung Cho"
   name_kr: "조수영"
+  id: "suyoung_cho_2025"
   gender: f
   c1: "101dudnthw"
   c2: "rk.ca.nasup"
@@ -516,6 +565,7 @@
 
 - name: "Minseong Kweon"
   name_kr: "권민성"
+  id: "minseong_kweon_2023"
   gender: m
   period: "2023.01.~2025.02."
   affiliation: "Univ. of Minnesota, Twin Cities"
@@ -523,6 +573,7 @@
 
 - name: "Jaehyeong Park"
   name_kr: "박재형"
+  id: "jaehyeong_park_2022"
   gender: m
   period: "2022.03.~2024.08."
   affiliation: "Pusan National Univ."
@@ -530,6 +581,7 @@
 
 - name: "Hyeonsu Park"
   name_kr: "박현수"
+  id: "hyeonsu_park_2024"
   gender: m
   period: "2023.08.~2024.02."
   affiliation: "Pusan National Univ."
@@ -537,6 +589,7 @@
 
 - name: "Dogyu Kim"
   name_kr: "김도규"
+  id: "dogyu_kim_2022"
   gender: m
   period: "2022.03.~2024.02."
   affiliation: "Korea Aerospace Industries (KAI)"
@@ -544,6 +597,7 @@
 
 - name: "Minsu Jeon"
   name_kr: "전민수"
+  id: "minsu_jeon_2024"
   gender: m
   period: "2023.02.~2024.02."
   affiliation: "Pusan National Univ."
@@ -551,6 +605,7 @@
 
 - name: "Kyung Hyun Kim"
   name_kr: "김경현"
+  id: "kyunghyun_kim_2022"
   gender: m
   period: "2022.11.~2024.02."
   affiliation: "KAIST"
@@ -558,6 +613,7 @@
 
 - name: "Beom Soo Kim"
   name_kr: "김범수"
+  id: "beomsoo_kim_2022"
   gender: m
   period: "2022.11.~2024.02."
   affiliation: ""
@@ -565,6 +621,7 @@
 
 - name: "Changjin Lee"
   name_kr: "이창진"
+  id: "changjin_lee_2022"
   gender: m
   period: "2022.07.~2022.08."
   affiliation: ""
