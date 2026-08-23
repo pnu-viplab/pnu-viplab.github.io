@@ -12,5 +12,10 @@ permalink: /publication/
 
 <div id="pub-container"></div>
 <a id="pub-float-top" class="pub-float-top" href="#" aria-label="Back to top">&#8679;</a>
-<script>var pubData = {{ site.data.publication | jsonify }};</script>
+<script>
+var pubData       = {{ site.data.publication | jsonify }};
+var teamData      = {{ site.data.team | jsonify }};
+var researchSlugs = {{ site.research | map: "slug" | jsonify }};
+</script>
+<script src="/assets/js/pub-render.js"></script>
 <script src="/assets/js/publication.js"></script>

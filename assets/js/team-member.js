@@ -28,12 +28,7 @@
     return name.toLowerCase().replace(/[\s\-\.]/g, '');
   }
 
-  function parseInline(text) {
-    if (!text) return '';
-    text = text.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
-    text = text.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
-    return text;
-  }
+  var parseInline = window.VIPPub.parseInline;
 
   function rv(s) { return s.split('').reverse().join(''); }
 
@@ -46,10 +41,16 @@
   function run() {
     if (!window.teamData || !window.pubData) return;
 
-    var slug = new URLSearchParams(window.location.search).get('name');
-    if (!slug) { window.location.href = '/team/'; return; }
+    // Members are addressed by their team.yml ID; ?name= is the legacy form.
+    var params = new URLSearchParams(window.location.search);
+    var memberId = params.get('id');
+    var slug = params.get('name');
+    if (!memberId && !slug) { window.location.href = '/team/'; return; }
 
-    var entries = teamData.filter(function (m) { return makeSlug(m.name) === slug; });
+    var entries = teamData.filter(function (m) {
+      if (m.category === 'professor') return false;
+      return memberId ? m.id === memberId : makeSlug(m.name) === slug;
+    });
     if (entries.length === 0) { window.location.href = '/team/'; return; }
 
     // Sort by end date descending; active entries (no end date) come first via Infinity
@@ -82,6 +83,9 @@
     var memberNormKr = primary.name_kr ? primary.name_kr.replace(/\s/g, '') : '';
     var memberPubs = pubData.filter(function (pub) {
       if (!pub.authors) return false;
+      // Primary path: the author list references this member by ID.
+      if (window.VIPPub.hasAuthorId(pub, primary.id)) return true;
+      // Fallback for any entry still written with a hard-coded bold name.
       var re = /\*\*([^*]+)\*\*/g, m;
       while ((m = re.exec(pub.authors)) !== null) {
         // Split by comma to handle "**A, B, C**" grouped bold patterns
@@ -230,12 +234,21 @@
       var body = el('div', 'pub-card__body');
 
       var titleP = el('p', 'pub-card__title');
-      titleP.textContent = p.title || '';
+      var researchHref = window.VIPPub.researchUrl(p, window.researchSlugs);
+      if (researchHref) {
+        var titleA = el('a', 'pub-title-link');
+        titleA.href = researchHref;
+        titleA.title = 'Related research';
+        titleA.textContent = p.title || '';
+        titleP.appendChild(titleA);
+      } else {
+        titleP.textContent = p.title || '';
+      }
       body.appendChild(titleP);
 
       if (p.authors) {
         var authP = el('p', 'pub-card__authors');
-        authP.innerHTML = parseInline(p.authors);
+        authP.innerHTML = window.VIPPub.renderAuthors(p, window.teamData);
         body.appendChild(authP);
       }
 

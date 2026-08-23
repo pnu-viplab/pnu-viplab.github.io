@@ -7,6 +7,15 @@
 # member's department differs from the default. Example:
 #   major: "ICT 융합학과"
 
+# The professor entry below exists only so publications can reference the PI
+# by ID (see the "@id" author syntax in _data/publication.yml). Its
+# category "professor" is not one of the team page sections, so it is never
+# rendered as a member card and has no member detail page.
+- name: "Jinsun Park"
+  name_kr: "박진선"
+  id: "prof_jspark"
+  category: "professor"
+
 # Ph.D. Students
 - name: "Janghyun Kim"
   name_kr: "김장현"
@@ -20,7 +29,7 @@
   category: "phd"
   major: "정보융합공학과 AI전공"
 
-- name: "Yong Hyeon Jo"
+- name: "Yonghyeon Jo"
   name_kr: "조용현"
   id: "yonghyeon_jo_2023"
   # badge: "👑"
@@ -349,7 +358,7 @@
   category: "alumni"
   major: "정보융합공학과 AI전공"
 
-- name: "Jin Wan Kim"
+- name: "Jinwan Kim"
   name_kr: "김진완"
   id: "jinwan_kim_2024"
   photo: "/assets/img/team/jinwan_kim.jpg"
@@ -395,7 +404,7 @@
   category: "alumni"
   major: "정보융합공학과 AI전공"
 
-- name: "Seong Heon Ha"
+- name: "Seongheon Ha"
   name_kr: "하성헌"
   id: "seongheon_ha_2023"
   photo: "/assets/img/team/seongheon_ha.jpg"
@@ -407,7 +416,7 @@
   category: "alumni"
   major: "정보융합공학과 AI전공"
 
-- name: "Jeong Hyun Noh"
+- name: "Jeonghyun Noh"
   name_kr: "노정현"
   id: "jeonghyun_noh_2023"
   photo: "/assets/img/team/jeonghyun_noh.jpg"

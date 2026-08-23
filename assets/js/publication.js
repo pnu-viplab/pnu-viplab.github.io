@@ -5,20 +5,24 @@
     { key: 'domestic', title: 'Domestic Publications',                      id: 'domestic-publications' },
   ];
 
-  // Parse **bold** and [text](url) inline markers
-  function parseInline(text) {
-    if (!text) return '';
-    // [text](url) → <a>
-    text = text.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
-    // **text** → <strong>
-    text = text.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
-    return text;
-  }
+  // Parse **bold** and [text](url) inline markers (shared with pub-render.js)
+  var parseInline = window.VIPPub.parseInline;
 
   function el(tag, cls) {
     var e = document.createElement(tag);
     if (cls) e.className = cls;
     return e;
+  }
+
+  // Fill a title element, wrapping it in a link to the related research page.
+  function setTitle(titleEl, p) {
+    var href = window.VIPPub.researchUrl(p, window.researchSlugs);
+    if (!href) { titleEl.textContent = p.title || ''; return; }
+    var a = el('a', 'pub-title-link');
+    a.href = href;
+    a.title = 'Related research';
+    a.textContent = p.title || '';
+    titleEl.appendChild(a);
   }
 
   function renderPub() {
@@ -73,15 +77,15 @@
 
           var body = el('div', 'pub-card__body');
 
-          // Title
+          // Title — linked to the research page when the entry names one
           var titleP = el('p', 'pub-card__title');
-          titleP.textContent = p.title || '';
+          setTitle(titleP, p);
           body.appendChild(titleP);
 
           // Authors (with inline formatting)
           if (p.authors) {
             var authP = el('p', 'pub-card__authors');
-            authP.innerHTML = parseInline(p.authors);
+            authP.innerHTML = window.VIPPub.renderAuthors(p, window.teamData);
             body.appendChild(authP);
           }
 

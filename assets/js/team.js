@@ -2,6 +2,14 @@ function makeSlug(name) {
   return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
 
+// Member pages are addressed by team.yml ID so a change of name spelling does
+// not break existing links. ?name= is kept for older bookmarks.
+function memberUrl(m) {
+  return m.id
+    ? '/team/member/?id=' + encodeURIComponent(m.id)
+    : '/team/member/?name=' + makeSlug(m.name);
+}
+
 var sections = [
   { key: 'phd',              title: 'Ph.D. Students',                  cols: 2, compact: false },
   { key: 'ms',               title: 'M.S. Students',                   cols: 2, compact: false },
@@ -136,7 +144,7 @@ function renderTeam() {
       card.style.cursor = 'pointer';
       card.addEventListener('click', function(e) {
         if (e.target.tagName === 'A' || e.target.tagName === 'CANVAS') return;
-        window.location.href = '/team/member/?name=' + makeSlug(m.name);
+        window.location.href = memberUrl(m);
       });
 
       grid.appendChild(card);
