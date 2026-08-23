@@ -13,7 +13,7 @@
   year: 2026
   month: 9
   image: "/assets/img/publication/2026_ECCV_SAOWOD.png"
-  title: "Towards Sparsely Annotated Open World Object Detection"
+  title: "Towards Sparsely Annotated Open-World Object Detection"
   authors: "**Heeju Han**, **AJeong Kim**, and **Jinsun Park**"
   venue: "European Conference on Computer Vision (**ECCV**)"
   links:
