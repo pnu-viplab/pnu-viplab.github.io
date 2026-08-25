@@ -220,14 +220,14 @@
   category: "undergrad"
 
 # Researchers
-- name: "Suyoung Cho"
-  name_kr: "조수영"
-  id: "suyoung_cho_2025"
-  photo: "/assets/img/team/suyoung_cho.jpg"
-  gender: f
-  c1: "101dudnthw"
+- name: "Jaehyeong Park"
+  name_kr: "박재형"
+  id: "jaehyeong_park_2022"
+  photo: "/assets/img/team/jaehyeong_park.jpg"
+  gender: m
+  c1: "813krapnai"
   c2: "rk.ca.nasup"
-  research: "Audio-Visual Segmentation"
+  research: "3D Gaussian Splatting"
   category: "researcher"
 
 - name: "Subin Lee"
@@ -240,14 +240,14 @@
   research: "Optical Flow Estimation"
   category: "researcher"
 
-- name: "Jaehyeong Park"
-  name_kr: "박재형"
-  id: "jaehyeong_park_2022"
-  photo: "/assets/img/team/jaehyeong_park.jpg"
-  gender: m
-  c1: "813krapnai"
+- name: "Suyoung Cho"
+  name_kr: "조수영"
+  id: "suyoung_cho_2025"
+  photo: "/assets/img/team/suyoung_cho.jpg"
+  gender: f
+  c1: "101dudnthw"
   c2: "rk.ca.nasup"
-  research: "3D Gaussian Splatting"
+  research: "Audio-Visual Segmentation"
   category: "researcher"
 
 # Research Staffs
