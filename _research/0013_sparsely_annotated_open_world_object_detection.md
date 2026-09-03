@@ -1,15 +1,15 @@
 ---
 title: Sparsely Annotated Open-World Object Detection
 layout: post
-slug: 0014-sparsely-annotated-open-world-object-detection
+slug: 0013-sparsely-annotated-open-world-object-detection
 images:
-  - /assets/img/research/0014_sparsely_annotated_open_world_object_detection_01.png
-  - /assets/img/research/0014_sparsely_annotated_open_world_object_detection_02.png
+  - /assets/img/research/0013_sparsely_annotated_open_world_object_detection_01.png
+  - /assets/img/research/0013_sparsely_annotated_open_world_object_detection_02.png
 description: "희소 주석 개방형 객체 탐지(SA-OWOD)를 위한 이중 관점 객체 발견(DPOD) 연구"
 ---
 
-<img src="/assets/img/research/0014_sparsely_annotated_open_world_object_detection_01.png" style="width:100%;" />
-<img src="/assets/img/research/0014_sparsely_annotated_open_world_object_detection_02.png" style="width:100%;" />
+<img src="/assets/img/research/0013_sparsely_annotated_open_world_object_detection_01.png" style="width:100%;" />
+<img src="/assets/img/research/0013_sparsely_annotated_open_world_object_detection_02.png" style="width:100%;" />
 
 ## Abstract (Kor)
 
