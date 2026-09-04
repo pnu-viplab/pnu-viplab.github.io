@@ -219,6 +219,16 @@
   research: "SLAM"
   category: "undergrad"
 
+- name: "Minje Choi"
+  name_kr: "최민제"
+  id: "minje_choi_2026"
+  photo: "/assets/img/team/minje_choi.jpg"
+  gender: m
+  c1: "wosmdmqk"
+  c2: "rk.ca.nasup"
+  research: "Autonomous Driving"
+  category: "undergrad"
+
 # Researchers
 - name: "Jaehyeong Park"
   name_kr: "박재형"
