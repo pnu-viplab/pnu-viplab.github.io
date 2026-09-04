@@ -158,6 +158,15 @@
   category: "ms"
   major: "정보융합공학과 AI전공"
 
+- name: "Seyoung Kim"
+  name_kr: "김세영"
+  id: "seyoung_kim_2026"
+  photo: "/assets/img/team/dummy.jpg"
+  gender: m
+  research: "Computer Vision"
+  category: "ms"
+  major: "정보융합공학과 AI전공"
+
 # Undergraduate Students
 - name: "Yu-Seong Jeong"
   name_kr: "정유성"
