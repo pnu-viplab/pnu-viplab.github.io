@@ -168,16 +168,6 @@
   major: "정보융합공학과 AI전공"
 
 # Undergraduate Students
-- name: "Yu-Seong Jeong"
-  name_kr: "정유성"
-  id: "yuseong_jeong_2024"
-  photo: "/assets/img/team/dummy.jpg"
-  gender: m
-  c1: "4170gnusooy"
-  c2: "moc.liamg"
-  research: "Large Language Models"
-  category: "undergrad"
-
 - name: "Yeonji Lee"
   name_kr: "이연지"
   id: "yeonji_lee_2025"
@@ -581,6 +571,16 @@
   category: "former_researcher"
 
 # Former Undergraduate Researchers
+- name: "Yu-Seong Jeong"
+  name_kr: "정유성"
+  id: "yuseong_jeong_2024"
+  gender: m
+  c1: "4170gnusooy"
+  c2: "moc.liamg"
+  period: "2024.06.~2026.09."
+  affiliation: ""
+  category: "former_undergrad"
+
 - name: "Suyoung Cho"
   name_kr: "조수영"
   id: "suyoung_cho_2025"
