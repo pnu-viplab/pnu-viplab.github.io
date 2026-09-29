@@ -17,5 +17,5 @@ var pubData       = {{ site.data.publication | jsonify }};
 var teamData      = {{ site.data.team | jsonify }};
 var researchSlugs = {{ site.research | map: "slug" | jsonify }};
 </script>
-<script src="/assets/js/pub-render.js"></script>
-<script src="/assets/js/publication.js"></script>
+<script src="/assets/js/pub-render.js?v={{ site.time | date: '%Y%m%d%H%M%S' }}"></script>
+<script src="/assets/js/publication.js?v={{ site.time | date: '%Y%m%d%H%M%S' }}"></script>

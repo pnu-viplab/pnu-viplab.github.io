@@ -42,4 +42,4 @@ Prof. Jinsun Park is an associate professor at the School of Computer Science an
 
 <div id="team-container"></div>
 <script>var teamData = {{ site.data.team | jsonify }};</script>
-<script src="/assets/js/team.js"></script>
+<script src="/assets/js/team.js?v={{ site.time | date: '%Y%m%d%H%M%S' }}"></script>

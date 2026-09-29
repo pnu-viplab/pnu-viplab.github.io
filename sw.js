@@ -13,14 +13,19 @@ const PRECACHE_URLS = [
   '/team/',
   '/contact/',
   '/lecture/',
-  '/assets/css/main.css'
+  // Must match the ?v= URL requested by _includes/head.html
+  '/assets/css/main.css?v={{ site.time | date: "%Y%m%d%H%M%S" }}'
 ];
 
 // ─── Install: pre-cache shell pages ──────────────────────────────────────────
 self.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open(CACHE_NAME)
-      .then(function(cache) { return cache.addAll(PRECACHE_URLS); })
+      .then(function(cache) {
+        return cache.addAll(PRECACHE_URLS.map(function(u) {
+          return new Request(u, { cache: 'reload' });
+        }));
+      })
       .then(function() { return self.skipWaiting(); })
   );
 });
@@ -40,6 +45,11 @@ self.addEventListener('activate', function(event) {
 
 // ─── Fetch ────────────────────────────────────────────────────────────────────
 self.addEventListener('fetch', function(event) {
+  // Only GET responses can be cached (cache.put rejects other methods)
+  if (event.request.method !== 'GET') {
+    return;
+  }
+
   var url = new URL(event.request.url);
 
   // Cross-origin requests (Google Maps, CDN, etc.): pass through
@@ -52,6 +62,10 @@ self.addEventListener('fetch', function(event) {
     event.respondWith(
       caches.match(event.request).then(function(cached) {
         return cached || fetch(event.request).then(function(response) {
+          // Don't keep 404s/errors in the cache until the next deploy
+          if (!response.ok) {
+            return response;
+          }
           return caches.open(CACHE_NAME).then(function(cache) {
             cache.put(event.request, response.clone());
             return response;
@@ -67,6 +81,10 @@ self.addEventListener('fetch', function(event) {
     event.respondWith(
       caches.match(event.request).then(function(cached) {
         return cached || fetch(event.request).then(function(response) {
+          // Don't keep 404s/errors in the cache until the next deploy
+          if (!response.ok) {
+            return response;
+          }
           return caches.open(CACHE_NAME).then(function(cache) {
             cache.put(event.request, response.clone());
             return response;
@@ -78,8 +96,13 @@ self.addEventListener('fetch', function(event) {
   }
 
   // HTML pages: Network-First (fresh content, fall back to cache if offline)
+  // cache: 'no-cache' bypasses the browser HTTP cache (GitHub Pages sets max-age=600),
+  // otherwise a normal visit can get a stale page until the user hits reload.
   event.respondWith(
-    fetch(event.request).then(function(response) {
+    fetch(new Request(event.request, { cache: 'no-cache' })).then(function(response) {
+      if (!response.ok) {
+        return response;
+      }
       return caches.open(CACHE_NAME).then(function(cache) {
         cache.put(event.request, response.clone());
         return response;
