@@ -259,6 +259,16 @@
   research: "Audio-Visual Segmentation"
   category: "researcher"
 
+- name: "Chaeyoung Park"
+  name_kr: "박채영"
+  id: "chaeyoung_park_2026"
+  photo: "/assets/img/team/chaeyoung_park.jpg"
+  gender: f
+  c1: "4071dudoc"
+  c2: "rk.ca.nasup"
+  research: "3D Computer Vision"
+  category: "researcher"
+
 # Research Staffs
 - name: "Hye Soon Yang"
   name_kr: "양혜순"
