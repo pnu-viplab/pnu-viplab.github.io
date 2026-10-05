@@ -26,6 +26,17 @@
 
 - type: "intl"
   year: 2026
+  month: 12
+  image: "/assets/img/publication/2026_ACCV_DGFlow.png"
+  title: "DGFlow: Plug-and-Play Depth and Camera Geometry Modules for Unsupervised Optical Flow Estimation"
+  authors: "@subin_lee_2024, @ajeong_kim_2025, and @prof_jspark"
+  venue: "Asian Conference on Computer Vision (**ACCV**)"
+  links:
+    - label: "Paper"
+  research: "0014-unsupervised-optical-flow-estimation"
+
+- type: "intl"
+  year: 2026
   month: 9
   image: "/assets/img/publication/2026_ECCV_SAOWOD.png"
   title: "Towards Sparsely Annotated Open-World Object Detection"
