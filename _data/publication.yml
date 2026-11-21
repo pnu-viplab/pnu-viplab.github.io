@@ -25,6 +25,16 @@
 # ──────────────────────────────────────────────────────────
 
 - type: "intl"
+  year: 2027
+  month: 1
+  image: "/assets/img/publication/2027_WACV_CC-3DVG.png"
+  title: "CC-3DVG: Prediction Consensus Reasoning for 3D Visual Grounding"
+  authors: "@minjung_gong_2025, @yejun_jung_2025, @dongyun_kim_2026, and @prof_jspark"
+  venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)"
+  links:
+    - label: "Paper"
+
+- type: "intl"
   year: 2026
   month: 12
   image: "/assets/img/publication/2026_ACCV_DGFlow.png"
@@ -37,6 +47,16 @@
 
 - type: "intl"
   year: 2026
+  month: 12
+  image: "/assets/img/publication/2026_NeurIPS_MoH.png"
+  title: "Mixture-of-Hierarchical Experts: Optimized Mamba Architecture for Vision Diffusion"
+  authors: "@yejun_jung_2025, @dongyun_kim_2026, and @prof_jspark"
+  venue: "Conference on Neural Information Processing Systems (**NeurIPS**)"
+  links:
+    - label: "Paper"
+
+- type: "intl"
+  year: 2026
   month: 9
   image: "/assets/img/publication/2026_ECCV_SAOWOD.png"
   title: "Towards Sparsely Annotated Open-World Object Detection"
@@ -44,6 +64,7 @@
   venue: "European Conference on Computer Vision (**ECCV**)"
   links:
     - label: "Paper"
+      url: "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5668.pdf"
     - label: "arXiv"
       url: "https://arxiv.org/abs/2608.12714"
     - label: "Project Page (Code)"
@@ -59,6 +80,7 @@
   venue: "Eurographics (Short Paper)"
   links:
     - label: "Paper"
+      url: "https://diglib.eg.org/bitstreams/b7ffb31e-bdbc-42fa-a3ae-30c2d68bb779/download"
     - label: "Project Page"
       url: "https://minsuuuj.github.io/DuoTokenPose-Page/"
   research: "0012-3d-human-pose-estimation"
