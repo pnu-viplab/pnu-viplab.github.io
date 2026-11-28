@@ -54,6 +54,7 @@
   venue: "Conference on Neural Information Processing Systems (**NeurIPS**)"
   links:
     - label: "Paper"
+      url: "https://openreview.net/pdf?id=oaYSEpYT1C"
 
 - type: "intl"
   year: 2026
@@ -612,6 +613,13 @@
 # ──────────────────────────────────────────────────────────
 # Domestic Publications
 # ──────────────────────────────────────────────────────────
+
+- type: "domestic"
+  year: 2026
+  month: 11
+  title: "오픈셋 얼굴 식별에서 등록 이미지의 정면성·다양성·수량이 식별 성능에 미치는 영향"
+  authors: "@yeonji_lee_2025, 이희준, @prof_jspark"
+  venue: "대한전자공학회 추계학술대회"
 
 - type: "domestic"
   year: 2026
